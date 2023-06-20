@@ -1,0 +1,2130 @@
+[
+  {
+    "lat": 9.5475895,
+    "lon": 1.1945918,
+    "name": "Pharmacie Lafia",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.5536476,
+    "lon": 1.1953894,
+    "name": "Pharmacie Kara Centre",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.547034,
+    "lon": 1.1892523,
+    "name": "pharmacie Espoir",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.5496021,
+    "lon": 1.1896053,
+    "name": "Pharmacie de la Kozah",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.5525286,
+    "lon": 1.2041599,
+    "name": "pharmacie Santé Plus",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.5713034,
+    "lon": 1.1785344,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1755861,
+    "lon": 1.1809121,
+    "name": "Pharmacie Bethel",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.169885,
+    "lon": 1.3453851,
+    "name": "Pharmacie Avépozo",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1805575,
+    "lon": 1.1952619,
+    "name": "Pharmacie de Djidjolé",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1825406,
+    "lon": 1.1999865,
+    "name": "Pharmacie Mathilda",
+    "dispensing": "no",
+    "phone": "+228222511584",
+    "onDuty": false
+  },
+  {
+    "lat": 7.0106438,
+    "lon": 0.6768623,
+    "name": "Pharmacie",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2256655,
+    "lon": 1.2108244,
+    "name": "Pharmacie Agoè-Nyivé",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2358935,
+    "lon": 1.1940329,
+    "name": "Pharmacie Emmaus",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1922583,
+    "lon": 1.1910253,
+    "name": "Pharmacie de la Nation",
+    "dispensing": "no",
+    "phone": "+22822259965",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1966467,
+    "lon": 1.1867889,
+    "name": "Pharmacie Solidarité",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1370596,
+    "lon": 1.2490261,
+    "name": "pharmacie le Château",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1333763,
+    "lon": 1.2464503,
+    "name": "Pharmacie Océane",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1300843,
+    "lon": 1.2394172,
+    "name": "Pharmacie de l'OCAM",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.130345,
+    "lon": 1.2401711,
+    "name": "Pharmacie Vétérinaire Bon Berger",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.219508,
+    "lon": 1.2091379,
+    "name": "La Grace",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2176737,
+    "lon": 1.203511,
+    "name": "Pharmacie Shalom",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1797097,
+    "lon": 1.2387931,
+    "name": "PAHARMACIE HEDRANAWOE",
+    "dispensing": "yes",
+    "phone": "+22822264961",
+    "onDuty": false
+  },
+  {
+    "lat": 6.181645,
+    "lon": 1.2349348,
+    "name": "Pharmacie Chinoise",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1830548,
+    "lon": 1.2354178,
+    "name": "Pharmacie des Lilas",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1201259,
+    "lon": 1.2049911,
+    "name": "Pharmacie Emmanuel",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1216541,
+    "lon": 1.2093005,
+    "name": "Pharmacie Kodjoviakopé",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1812949,
+    "lon": 1.1905973,
+    "name": "Pharmacie Du Point E",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.241401,
+    "lon": 1.2012058,
+    "name": "Pharmacie Excellence",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.6067339,
+    "lon": 1.3961438,
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2404981,
+    "lon": 1.6235337,
+    "name": "Pharmacie AZON-CONDJI",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2373889,
+    "lon": 1.6125532,
+    "name": "Pharmacie d'Aného Woezon",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2383358,
+    "lon": 1.6111053,
+    "name": "TOGOPHARMA",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2358875,
+    "lon": 1.6074398,
+    "name": "Pharmacie Amessiame",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2394862,
+    "lon": 1.611116,
+    "name": "PHARMACOPE",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1364687,
+    "lon": 1.2564935,
+    "name": "Pharmacie DEO GRATIAS",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1399624,
+    "lon": 1.2465171,
+    "name": "Pharmacie Lebon Samaritain",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1325182,
+    "lon": 1.2235165,
+    "name": "Pharmacie Saint Antoine",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1321132,
+    "lon": 1.2204839,
+    "name": "Pharmacie des Etoies",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1355957,
+    "lon": 1.213159,
+    "name": "Pharmacie pour tous",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1464736,
+    "lon": 1.2064164,
+    "name": "Cameg-Togo-vente des médicaments Genériques",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1471346,
+    "lon": 1.2069724,
+    "name": "Pharmacie Justin",
+    "dispensing": "no",
+    "phone": "+22822210001",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9143542,
+    "lon": 0.6335291,
+    "name": "La Perseverence",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1576137,
+    "lon": 1.2560149,
+    "name": "K BINET pharmacie Chinoise",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1568116,
+    "lon": 1.2526204,
+    "name": "La Misericorde",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2113261,
+    "lon": 1.1771699,
+    "name": "Pharmacie des Orchidées",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1850322,
+    "lon": 1.166273,
+    "name": "Pharmacie Adidogomé",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2004215,
+    "lon": 1.1488228,
+    "name": "Pharmacie La Référence",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2158499,
+    "lon": 1.1723495,
+    "name": "Pharmacie Dieudonné",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2070435,
+    "lon": 1.1831321,
+    "name": "Pharmacie Laus Deo",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2013791,
+    "lon": 1.1882347,
+    "name": "Pharmacie Le Galien",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2068745,
+    "lon": 1.1896092,
+    "name": "Pharmacie Le Millenaire",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2167697,
+    "lon": 1.1887731,
+    "name": "Notre Dame de LOURDES",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.21892,
+    "lon": 1.1692354,
+    "name": "Pharmacie des Roses",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1742719,
+    "lon": 1.1973457,
+    "name": "Pharmacie JAHNAP",
+    "dispensing": "no",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1925569,
+    "lon": 1.1440521,
+    "name": "Pharmacie ACTUELLE",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2026328,
+    "lon": 1.1669399,
+    "name": "Pharmacie APOLLON",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1956179,
+    "lon": 1.1541753,
+    "name": "Pharmacie BESDA",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1711741,
+    "lon": 1.1900577,
+    "name": "Pharmacie DE LA CITE",
+    "dispensing": "yes",
+    "phone": "+22822250125",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1920133,
+    "lon": 1.1583729,
+    "name": "Pharmacie DES ECOLES",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1805044,
+    "lon": 1.1634997,
+    "name": "Pharmacie EPIPHANIA",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1808077,
+    "lon": 1.171924,
+    "name": "Pharmacie Eli-Beraca",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2068325,
+    "lon": 1.1408981,
+    "name": "Pharmacie SILOE",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1925919,
+    "lon": 1.1716493,
+    "name": "Pharmacie VICTOIRE",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1290342,
+    "lon": 1.224335,
+    "name": "Pharmacie Bon Pasteur",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1283697,
+    "lon": 1.2297759,
+    "name": "Pharmacie ST Raphaël",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1262755,
+    "lon": 1.201075,
+    "name": "Pharmacie d'ADJOLOLO",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.140502,
+    "lon": 1.2407825,
+    "name": "Pharmacie Tulipe",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1384911,
+    "lon": 1.236959,
+    "name": "Pharmacie Kpehenou",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1361355,
+    "lon": 1.2280208,
+    "name": "Pharmacie du Boulevard",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1275889,
+    "lon": 1.2355771,
+    "name": "Pharmacie Jeanne d'Arc",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2319049,
+    "lon": 1.2104777,
+    "name": "Pharmacie ADONAI",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2240432,
+    "lon": 1.1927747,
+    "name": "Pharmacie APOU ANTOINE",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2078133,
+    "lon": 1.1952131,
+    "name": "Pharmacie DELALI",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2138768,
+    "lon": 1.2083415,
+    "name": "Pharmacie St Michel",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2254357,
+    "lon": 1.2048486,
+    "name": "Pharmacie la CHARITE",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1535266,
+    "lon": 1.2171496,
+    "name": "Pharmacie de la Libération",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.148443,
+    "lon": 1.2188809,
+    "name": "Pharmacie Sainte Marie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2010778,
+    "lon": 1.1807802,
+    "name": "Pharmacie Ossan",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1571711,
+    "lon": 1.2020895,
+    "name": "Pharmacie Lumen",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1289734,
+    "lon": 1.2106287,
+    "name": "Pharmacie Horizon",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1594338,
+    "lon": 1.2056622,
+    "name": "Pharmacie de Gbossime",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1371049,
+    "lon": 1.2487931,
+    "name": "Pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1528815,
+    "lon": 1.2295043,
+    "name": "La Prospérité",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1616571,
+    "lon": 1.209917,
+    "name": "Pharmacopé Zewuze",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1598683,
+    "lon": 1.2146313,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1439701,
+    "lon": 1.2061066,
+    "name": "Avé Maria",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1629227,
+    "lon": 1.2133371,
+    "name": "Pharmacie du Campus",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1351465,
+    "lon": 1.2319409,
+    "name": "Pharmacie du Troisième Arrondissement",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1668171,
+    "lon": 1.3345793,
+    "name": "Pharmacie Verseau",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1612431,
+    "lon": 1.3157197,
+    "name": "Pharmacie de l'Eden",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4607865,
+    "lon": 0.9085845,
+    "name": "Dieu source de vie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4555075,
+    "lon": 0.9097333,
+    "name": "depot de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.448672,
+    "lon": 0.9068577,
+    "name": "Dogopé-névaémé",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4477542,
+    "lon": 0.9156511,
+    "name": "Pharmacopé",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1520013,
+    "lon": 1.2621376,
+    "name": "Pharmacie des Oliviers",
+    "dispensing": null,
+    "phone": "+22822270434",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1519841,
+    "lon": 1.2621452,
+    "name": "Pharmacie des Oliviers",
+    "dispensing": "yes",
+    "phone": "+228 2270434",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2016804,
+    "lon": 1.181196,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1435652,
+    "lon": 1.2442562,
+    "name": "Amessiamé",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1473654,
+    "lon": 1.2489847,
+    "name": "CRYSTAL",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1529221,
+    "lon": 1.2450423,
+    "name": "PHARMACIE MAWULE",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1468792,
+    "lon": 1.2439071,
+    "name": "Pharmacie chinoise",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1501967,
+    "lon": 1.2544647,
+    "name": "Pharmacie Biova",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.3337413,
+    "lon": 1.5286228,
+    "name": "Dépot Pharmaceutique OCAM Vogan",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.332525,
+    "lon": 1.5265736,
+    "name": "Pharmacie Arevis",
+    "dispensing": null,
+    "phone": "+22891079097",
+    "onDuty": false
+  },
+  {
+    "lat": 6.337569,
+    "lon": 1.5258972,
+    "dispensing": null,
+    "phone": "+22898717112",
+    "onDuty": false
+  },
+  {
+    "lat": 6.3370291,
+    "lon": 1.5261408,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.3413492,
+    "lon": 1.5246969,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.3396218,
+    "lon": 1.5320761,
+    "name": "Pharmacopé SHANGAI",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.3419979,
+    "lon": 1.5288685,
+    "name": "Dépot de pharmacie Dieu est capable",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.9821271,
+    "lon": 1.1407194,
+    "name": "ISSA Touré",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.9867061,
+    "lon": 1.1361647,
+    "name": "PHARMACIE NOUVELLE",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.9871054,
+    "lon": 1.13966,
+    "name": "pharmacie tchaoudjo",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4286104,
+    "lon": 1.2129391,
+    "name": "Pharmacie du Zio",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9506738,
+    "lon": 1.1726825,
+    "name": "Pharmacie la Vie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1397897,
+    "lon": 1.2284304,
+    "name": "Pharmacie Sainte Rita",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2329466,
+    "lon": 1.1889724,
+    "name": "Pharmacie Divina Gracia",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1701542,
+    "lon": 1.3258488,
+    "name": "Pharmacie Baguida",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 10.8689228,
+    "lon": 0.2023346,
+    "name": "Le Savent",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 10.8645119,
+    "lon": 0.2036139,
+    "name": "Pharmacie le soleil",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1793429,
+    "lon": 1.1508203,
+    "name": "PHARMACIE MAGNIFICAT",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.7646674,
+    "lon": 1.19286,
+    "name": "Dépôt Concordia Anié",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1822895,
+    "lon": 1.1856271,
+    "name": "Pharmacopée Mawuenyegan",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1913266,
+    "lon": 1.2083016,
+    "name": "La Confiance",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.205489,
+    "lon": 1.2537564,
+    "name": "Pharmacie CITRUS",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1438775,
+    "lon": 1.2122823,
+    "name": "Amo",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.907009,
+    "lon": 0.6340086,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.8436144,
+    "lon": 0.7168619,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1791785,
+    "lon": 1.2127032,
+    "name": "Pharmacie Du CHU Campus",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2535502,
+    "lon": 1.173347,
+    "name": "Mawunyo",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.176763,
+    "lon": 1.2051059,
+    "name": "Centre de santé commentaire de Be klikame",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4213608,
+    "lon": 1.2039912,
+    "name": "Centre Medico-Social Ste Elizabeth de Hongrie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1945897,
+    "lon": 1.2539059,
+    "name": "Raoudha",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.0263404,
+    "lon": 1.4245586,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.144339,
+    "lon": 1.2091479,
+    "name": "Pharmacie Hôpital",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2090184,
+    "lon": 1.1598501,
+    "name": "PHARMACIE EL SHAMMAH",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2220049,
+    "lon": 1.1653079,
+    "name": "Pharmacie Vita-Flore",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1813716,
+    "lon": 1.1907229,
+    "name": "Pharmacie du point E",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1940704,
+    "lon": 1.1379555,
+    "name": "Pharmacie Hosanna",
+    "dispensing": null,
+    "phone": "+22822515040",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1896245,
+    "lon": 1.1537508,
+    "name": "Pharmacie Bonté",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2346078,
+    "lon": 1.1753172,
+    "name": "Pharmacie Abraham",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1846287,
+    "lon": 1.2471451,
+    "name": "Pharmacie Notre-Dame",
+    "dispensing": null,
+    "phone": "+22822427404",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1689721,
+    "lon": 1.245859,
+    "name": "Pharmacie de l'aéroport",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1538483,
+    "lon": 1.2228235,
+    "name": "Pharmacie de l'amitié",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1461027,
+    "lon": 1.2663128,
+    "name": "Pharmacie des Apotres",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.005526,
+    "lon": 1.1354786,
+    "name": "Pharmacie Idéale",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1531167,
+    "lon": 1.2674237,
+    "name": "Pharmacie Akodessewa",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1531223,
+    "lon": 1.2673825,
+    "name": "Pharmacie Akodessewa",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1639565,
+    "lon": 1.2684523,
+    "name": "Pharmacie 2000",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2012618,
+    "lon": 1.1951491,
+    "name": "Lumière",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1694828,
+    "lon": 1.2031998,
+    "name": "Pharmacie El-Shadai",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.151525,
+    "lon": 1.2388725,
+    "name": "Pharmacie N.d Trinité",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.191227,
+    "lon": 1.260828,
+    "name": "Pharmacie Klokpe",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1284905,
+    "lon": 1.2218713,
+    "name": "Pharmacie du Centre",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1936831,
+    "lon": 1.1304653,
+    "name": "Pharmacie Conseil",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1588757,
+    "lon": 1.2382663,
+    "name": "Pharmacie du peuple",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1679518,
+    "lon": 1.2754774,
+    "name": "Pharmacie Maëlys",
+    "dispensing": null,
+    "phone": "+22823388075",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1693196,
+    "lon": 1.2259701,
+    "name": "Pharmacie de la Paix",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1253793,
+    "lon": 1.2283295,
+    "name": "Populaire",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.17841,
+    "lon": 1.329995,
+    "name": "Pharmacie Hygea",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1234164,
+    "lon": 1.2232593,
+    "name": "Pharmacie Bel Air",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4322507,
+    "lon": 1.2120263,
+    "name": "Faya Médecine",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4173323,
+    "lon": 1.2110811,
+    "name": "Pharmacie Believe",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4406553,
+    "lon": 1.2073842,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4324223,
+    "lon": 1.2240905,
+    "name": "CAMEG Togo",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9060446,
+    "lon": 0.6409659,
+    "name": "DEPOT DE PHARMARCIE TERMINUS",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9138083,
+    "lon": 0.6274569,
+    "name": "CAMEG - TOGO",
+    "dispensing": null,
+    "phone": "+22822222694",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9130218,
+    "lon": 0.6364627,
+    "name": "pharmacopée c'est par la grâce",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9098906,
+    "lon": 0.6317811,
+    "name": "Pharmacie LAVOISIE",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1827795,
+    "lon": 1.2144492,
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.3267161,
+    "lon": 0.9853829,
+    "name": "Pharmacie OWA",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5323283,
+    "lon": 1.1260758,
+    "name": "CAMEG Togo",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.5608154,
+    "lon": 1.1918324,
+    "name": "Pharmacie du Nouveau Marché",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.9848022,
+    "lon": 1.1381896,
+    "name": "CAMEG PRA Sokode",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1370338,
+    "lon": 1.2189602,
+    "name": "Pharmacie Hanoukopé",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.5391272,
+    "lon": 1.1965106,
+    "name": "Pharmacie Renaissance",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1920094,
+    "lon": 1.1774504,
+    "name": "Pharmacie Maïna",
+    "dispensing": null,
+    "phone": "+22870436534",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2333568,
+    "lon": 1.1489943,
+    "name": "Pharmacie Zossimé",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9062106,
+    "lon": 0.641613,
+    "name": "Pharmacie Immaculée Conception/OCDI",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.8999567,
+    "lon": 0.6351537,
+    "name": "Dépôt Pharmacie Espérance",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 10.3534443,
+    "lon": 0.4701537,
+    "name": "Dépôt de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 10.3558388,
+    "lon": 0.4751895,
+    "name": "Pharmacie Lamoya",
+    "dispensing": "yes",
+    "phone": "+22827777297",
+    "onDuty": false
+  },
+  {
+    "lat": 10.3620679,
+    "lon": 0.4741435,
+    "name": "Pharmacie Santé Plus",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9060463,
+    "lon": 0.6411529,
+    "name": "Pharmacie Terminus",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9189874,
+    "lon": 0.6340893,
+    "name": "Pharmacie Kékéli",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1763793,
+    "lon": 1.3658529,
+    "name": "Pharmacie la Flamme d'amour",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1734229,
+    "lon": 1.1697008,
+    "name": "Pharmacie villageois",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1824402,
+    "lon": 1.1996998,
+    "name": "Pharmacie Mathilda",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2294278,
+    "lon": 1.2110093,
+    "name": "Vétérinaire et clinique",
+    "dispensing": null,
+    "phone": "+22890030375",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2374252,
+    "lon": 1.162816,
+    "name": "Pharmacie Ganfat",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2182105,
+    "lon": 1.18285,
+    "name": "Pharmacie Nabine",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1572745,
+    "lon": 1.2331672,
+    "name": "Pharmacie Isis",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.6589584,
+    "lon": 1.3130456,
+    "name": "Dépôt de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.6653563,
+    "lon": 1.3133839,
+    "name": "Pharmacie Villageoise",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.6578482,
+    "lon": 1.3080034,
+    "name": "Dépôt Pharmaceutique",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.6597243,
+    "lon": 1.3058965,
+    "name": "Pharmacie Ropheka",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.5639266,
+    "lon": 1.324735,
+    "name": "Dispensaire Ashifa de Sirka",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.5963036,
+    "lon": 1.2380054,
+    "name": "Pharmacie Villageoise",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.6572189,
+    "lon": 1.21378,
+    "name": "Dispensaire de Soumdina Haut",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.6450706,
+    "lon": 1.2561147,
+    "name": "USP Soumdina bas",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.6583762,
+    "lon": 1.0190041,
+    "name": "Dépôt de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.235027,
+    "lon": 1.2003304,
+    "name": "Pharmacie La Main de Dieu",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.3427514,
+    "lon": 1.1128147,
+    "name": "Dépôt de pharmacie Dieu nous aime",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.7652487,
+    "lon": 1.1088954,
+    "name": "Dépôt pharmaceutique de Niamtougou",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1924973,
+    "lon": 1.1814503,
+    "name": "Pharmacie Bétania",
+    "dispensing": null,
+    "phone": "+22822438940",
+    "onDuty": false
+  },
+  {
+    "lat": 6.9309546,
+    "lon": 0.657571,
+    "name": "Dépôt de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4328421,
+    "lon": 0.926384,
+    "name": "Dépôt de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.4475964,
+    "lon": 0.9157621,
+    "name": "Dépôt de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1518801,
+    "lon": 1.2324318,
+    "name": "Pharmacie Saint Paul",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1772954,
+    "lon": 1.2051749,
+    "name": "Pharmacie Saint Joseph",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1597269,
+    "lon": 1.2261792,
+    "name": "Pharmacie forever",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 10.9128703,
+    "lon": 0.309822,
+    "name": "Dépôt de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.3201665,
+    "lon": 1.223432,
+    "name": "Pharmacie Amen",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 11.1087141,
+    "lon": 0.0130979,
+    "name": "Pharmacie Wend Barka",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 11.1101163,
+    "lon": 0.0212002,
+    "name": "Pharmacie Lafe Zaka",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.3438625,
+    "lon": 1.0088251,
+    "name": "Pharmacie Vétérinaire",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.3436767,
+    "lon": 1.0086454,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.347406,
+    "lon": 1.5242216,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2605816,
+    "lon": 1.1631053,
+    "name": "Pharmacie La Pharmacie Tulipe",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2021934,
+    "lon": 1.1731723,
+    "name": "Pharmacie Volontas Déï",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.8888436,
+    "lon": 0.7697149,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.6636145,
+    "lon": 1.0179278,
+    "name": "Dépôt de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 10.9775936,
+    "lon": 0.2250049,
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2554089,
+    "lon": 1.1436644,
+    "name": "Dépos de Pharmacopé",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.2288769,
+    "lon": 1.134875,
+    "name": "Dépôt de Pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 9.1185074,
+    "lon": 1.3287867,
+    "name": "Dépôt de Pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2476092,
+    "lon": 1.1617103,
+    "name": "Pharmacie Denis",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1880631,
+    "lon": 1.1951751,
+    "name": "Pharmacie Groupe C",
+    "dispensing": null,
+    "phone": "+22899982087",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1925922,
+    "lon": 1.200811,
+    "name": "Pharmacie Vigeur",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1858972,
+    "lon": 1.2070966,
+    "name": "Pharmacie Verte",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1754534,
+    "lon": 1.1978604,
+    "name": "Pharmacie Jahnap",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2548621,
+    "lon": 1.1713337,
+    "name": "Mawunyo",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.530133,
+    "lon": 1.1244831,
+    "name": "Pharmacie sainte famille",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1257122,
+    "lon": 1.225493,
+    "name": "Pharmacie du Grand Marché",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2853899,
+    "lon": 1.141689,
+    "name": "Pharmacie BAKOE",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2531159,
+    "lon": 1.2085497,
+    "name": "Pharmcie TAKOE",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2068776,
+    "lon": 1.2391657,
+    "name": "PHARMACIE DEO GRACIAS",
+    "dispensing": "yes",
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 8.9869788,
+    "lon": 1.1398475,
+    "name": "Pharmacie de tchodzo",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2068923,
+    "lon": 1.2389625,
+    "name": "Pharmacie Deo Gratias",
+    "dispensing": null,
+    "phone": "+22896800893",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1643794,
+    "lon": 1.2202836,
+    "name": "St kizito",
+    "dispensing": null,
+    "phone": "+22822219963",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1535809,
+    "lon": 1.2225734,
+    "name": "Pharmacie Amitié",
+    "dispensing": null,
+    "phone": "+22822217447",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1556219,
+    "lon": 1.2259235,
+    "name": "Uniphart _eurapharma",
+    "dispensing": null,
+    "phone": "+22822202510",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1691819,
+    "lon": 1.225926,
+    "name": "PHARMACIE La paix",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1825881,
+    "lon": 1.2145868,
+    "name": "Pharmacie UNIVERS-SANTÉ",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1628842,
+    "lon": 1.2134211,
+    "name": "Pharmacie Campus",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1793105,
+    "lon": 1.2125855,
+    "name": "Pharmacie CHU Campus",
+    "dispensing": null,
+    "phone": "+22822254739",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1860259,
+    "lon": 1.207062,
+    "name": "Pharmacie verte",
+    "dispensing": null,
+    "phone": "+22822250326",
+    "onDuty": false
+  },
+  {
+    "lat": 6.162862,
+    "lon": 1.2133812,
+    "name": "Pharmacie Campus",
+    "dispensing": null,
+    "phone": "+22822215632",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1914338,
+    "lon": 1.2084422,
+    "name": "Pharmacie la confiance",
+    "dispensing": null,
+    "phone": "+22822253932",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5318945,
+    "lon": 1.1221815,
+    "name": "Pharmacie paniel",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5394017,
+    "lon": 1.148524,
+    "name": "Dépôt de pharmacie Assoce",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.530007,
+    "lon": 1.1243994,
+    "name": "Sainte famille",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5153658,
+    "lon": 1.1505747,
+    "name": "Pharmacopée AGBENYEGAN",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5086091,
+    "lon": 1.1532279,
+    "name": "Pharmacie d'Agbonou",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5327386,
+    "lon": 1.1262785,
+    "name": "Pharmacie CHR Atakpame",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5086394,
+    "lon": 1.1531216,
+    "name": "Agbonou",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5086727,
+    "lon": 1.1531598,
+    "name": "Pharmacie Agbonou",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5170019,
+    "lon": 1.1497771,
+    "name": "Pharmacie du Grand plateau",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5168671,
+    "lon": 1.1482009,
+    "name": "Dépôt de pharmacie d'agbonou",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5255714,
+    "lon": 1.1491744,
+    "name": "Pharmacie N'koko-Ewe",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.5255256,
+    "lon": 1.1492542,
+    "name": "Pharmacie Nko kowoé",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 7.537704,
+    "lon": 1.1511067,
+    "name": "Dépôt de pharmacie",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2005233,
+    "lon": 1.2014823,
+    "name": "Pharmacie Enouli",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2129413,
+    "lon": 1.1338098,
+    "name": "Pharmacie El-Nissi",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2240425,
+    "lon": 1.1922048,
+    "name": "Pharmacie apou antoine",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2463084,
+    "lon": 1.2092832,
+    "name": "Pharmacie le rocher",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.2154223,
+    "lon": 1.2083881,
+    "name": "Pharmacie saint Michel",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1779708,
+    "lon": 1.3753905,
+    "name": "Pharmacie Principale",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  },
+  {
+    "lat": 6.1603547,
+    "lon": 1.2634107,
+    "name": "Pharmacie de l'Union",
+    "dispensing": null,
+    "phone": "",
+    "onDuty": false
+  }
+]
