@@ -79,14 +79,6 @@
     "onDuty": false
   },
   {
-    "lat": 7.0106438,
-    "lon": 0.6768623,
-    "name": "Pharmacie",
-    "dispensing": "no",
-    "phone": "",
-    "onDuty": false
-  },
-  {
     "lat": 6.2256655,
     "lon": 1.2108244,
     "name": "Pharmacie Agoè-Nyivé",
@@ -422,9 +414,9 @@
     "onDuty": false
   },
   {
-    "lat": 6.1742719,
-    "lon": 1.1973457,
-    "name": "Pharmacie JAHNAP",
+    "lat": 6.1754534,
+    "lon": 1.1978604,
+    "name": "Pharmacie Jahnap",
     "dispensing": "no",
     "phone": "",
     "onDuty": false
@@ -680,14 +672,6 @@
     "lat": 6.1439701,
     "lon": 1.2061066,
     "name": "Avé Maria",
-    "dispensing": null,
-    "phone": "",
-    "onDuty": false
-  },
-  {
-    "lat": 6.1629227,
-    "lon": 1.2133371,
-    "name": "Pharmacie du Campus",
     "dispensing": null,
     "phone": "",
     "onDuty": false
@@ -1126,14 +1110,6 @@
     "onDuty": false
   },
   {
-    "lat": 6.1538483,
-    "lon": 1.2228235,
-    "name": "Pharmacie de l'amitié",
-    "dispensing": null,
-    "phone": "",
-    "onDuty": false
-  },
-  {
     "lat": 6.1461027,
     "lon": 1.2663128,
     "name": "Pharmacie des Apotres",
@@ -1235,14 +1211,6 @@
     "name": "Pharmacie Maëlys",
     "dispensing": null,
     "phone": "+22823388075",
-    "onDuty": false
-  },
-  {
-    "lat": 6.1693196,
-    "lon": 1.2259701,
-    "name": "Pharmacie de la Paix",
-    "dispensing": null,
-    "phone": "",
     "onDuty": false
   },
   {
@@ -1808,22 +1776,6 @@
     "onDuty": false
   },
   {
-    "lat": 6.1858972,
-    "lon": 1.2070966,
-    "name": "Pharmacie Verte",
-    "dispensing": null,
-    "phone": "",
-    "onDuty": false
-  },
-  {
-    "lat": 6.1754534,
-    "lon": 1.1978604,
-    "name": "Pharmacie Jahnap",
-    "dispensing": null,
-    "phone": "",
-    "onDuty": false
-  },
-  {
     "lat": 6.2548621,
     "lon": 1.1713337,
     "name": "Mawunyo",
@@ -1928,27 +1880,11 @@
     "onDuty": false
   },
   {
-    "lat": 6.1628842,
-    "lon": 1.2134211,
-    "name": "Pharmacie Campus",
-    "dispensing": null,
-    "phone": "",
-    "onDuty": false
-  },
-  {
     "lat": 6.1793105,
     "lon": 1.2125855,
     "name": "Pharmacie CHU Campus",
     "dispensing": null,
     "phone": "+22822254739",
-    "onDuty": false
-  },
-  {
-    "lat": 6.1860259,
-    "lon": 1.207062,
-    "name": "Pharmacie verte",
-    "dispensing": null,
-    "phone": "+22822250326",
     "onDuty": false
   },
   {
@@ -2083,14 +2019,6 @@
     "lat": 6.2129413,
     "lon": 1.1338098,
     "name": "Pharmacie El-Nissi",
-    "dispensing": null,
-    "phone": "",
-    "onDuty": false
-  },
-  {
-    "lat": 6.2240425,
-    "lon": 1.1922048,
-    "name": "Pharmacie apou antoine",
     "dispensing": null,
     "phone": "",
     "onDuty": false
