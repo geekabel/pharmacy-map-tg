@@ -6,20 +6,47 @@ function createPharmacyMap() {
     .then(response => response.json())
     .then(data => {
       // Create a Leaflet map object centered on Lome, Togo
-      const map = L.map('map').setView([6.1319, 1.2228], 13);
+      const map = L.map('map').setView([6.1419, 1.2228], 12);
 
       // Add a tile layer to display the map of Lome, Togo
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
       }).addTo(map);
+      
+      // Function to update the user's location
+      let userMarker; // Variable to hold the user's marker
+
+      // Update the user's marker position when geolocation changes
+      function updateMarkerPosition(position) {
+        const { latitude, longitude } = position.coords;
+        const userLatLng = L.latLng(latitude, longitude);
+
+        if (!userMarker) {
+          // Create the user's marker if it doesn't exist
+          userMarker = L.marker(userLatLng, {
+            icon: L.icon({ iconUrl: 'assets/images/red-marker-icon.png' }),
+          }).addTo(map);
+          userMarker.bindPopup("It's me").openPopup();
+        } else {
+          // Move the user's marker to the updated position
+          userMarker.setLatLng(userLatLng);
+        }
+
+        // Center the map on the user's position
+        map.panTo(userLatLng);
+      }
 
       // Get the current position of the user
-      navigator.geolocation.getCurrentPosition(position => {
-        const { latitude, longitude } = position.coords;
-        const userMarker = L.marker([latitude, longitude], { icon: L.icon({ iconUrl: 'assets/images/red-marker-icon.png' }) }).addTo(map);
-        userMarker.bindPopup("It's me").openPopup();
-      });
-
+      if (navigator.geolocation) {
+        navigator.geolocation.watchPosition(
+          updateMarkerPosition,
+          error => {
+            console.error('Error getting user location:', error);
+          }
+        );
+      } else {
+        console.error('Geolocation is not supported by your browser');
+      }
       // Load the content of pharmacy_names.json for comparison
       fetchAndProcessData('pharmacy_names.json')
         .then(pharmacyNames => {
@@ -51,6 +78,9 @@ function createPharmacyMap() {
             marker.bindPopup(popup);
           });
         });
+    })
+    .catch(error =>{
+      console.error("Erreur en chargeant les données de pharmacies", error)
     });
 
   // Helper function to compare strings with case-insensitivity and handling accents
