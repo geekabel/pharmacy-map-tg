@@ -10,6 +10,8 @@ def extract_pharmacy_names(url, json_filename):
     pharmacy_names = []
     for row in table.find_all('tr')[1:]:
         pharmacy_name = row.find_all('td')[0].text.strip()
+        # tel = row.find_all('td')[1].text.strip()
+        # print({"tel": tel})
         pharmacy_names.append({"name": pharmacy_name})
 
     with open(json_filename, 'w') as file:
