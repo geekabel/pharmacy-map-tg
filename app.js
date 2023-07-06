@@ -41,7 +41,7 @@ function updateMarkerPosition(userMarker, position) {
   userMarker.setLatLng(userLatLng);
 
   // Center the map on the user's position
-  map.panTo(userLatLng);
+  map.panBy(userLatLng);
 }
 
 // Helper function to add a pharmacy marker to the map
@@ -56,7 +56,7 @@ function addPharmacyMarker(map, pharmacy) {
 
   // Create a popup for the marker that displays the pharmacy details
   const popup = L.popup().setContent(`
-    <h3>${pharmacy.name}</h3>
+    <h4>${pharmacy.name}</h4>
     <p>${pharmacy.phone}</p>
     <p>${pharmacy.onDuty ? 'De garde' : 'Pas de garde'}</p>
   `);
