@@ -6,7 +6,6 @@ import hashlib
 def extract_pharmacy_names(url, json_filename):
     response = requests.get(url)
     new_content = response.content
-    print(response.content)
     new_hash = hashlib.sha256(new_content).hexdigest()
 
     try:
