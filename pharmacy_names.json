@@ -1,99 +1,99 @@
 [
   {
-    "name": "PHARMACIE ETOILES"
+    "name": "PHARMACIE AKOFA"
+  },
+  {
+    "name": "PHARMACIE CENTRE"
   },
   {
     "name": "PHARMACIE SANTE"
   },
   {
+    "name": "PHARMACIE KPEHENOU"
+  },
+  {
     "name": "PHARMACIE BON SAMARITAIN"
   },
   {
-    "name": "PHARMACIE OLIVIERS"
-  },
-  {
-    "name": "PHARMACIE ADJOLOLO"
+    "name": "PHARMACIE KODJOVIAKOPE"
   },
   {
     "name": "PHARMACIE AVE MARIA"
   },
   {
-    "name": "PHARMACIE GBOSSIME"
+    "name": "PHARMACIE CAMPUS"
+  },
+  {
+    "name": "PHARMACIE AMITIE"
   },
   {
     "name": "PHARMACIE MAIRIE"
   },
   {
-    "name": "PHARMACIE ISIS"
+    "name": "PHARMACIE ST PAUL"
   },
   {
-    "name": "PHARMACIE YEM-BLA"
+    "name": "PHARMACIE LE JOURDAIN"
   },
   {
-    "name": "PHARMACIE CITRUS"
+    "name": "PHARMACIE HEDZRANAWE"
   },
   {
-    "name": "PHARMACIE FRATERNITE"
+    "name": "PHARMACIE KOUESSAN"
   },
   {
-    "name": "PHARMACIE BAH"
+    "name": "PHARMACIE THERYA"
   },
   {
-    "name": "PHARMACIE APOTHEKA"
+    "name": "PHARMACIE J-MIMSHAK"
   },
   {
-    "name": "PHARMACIE MISERICORDE"
+    "name": "PHARMACIE MAWULE"
   },
   {
-    "name": "PHARMACIE LE PROGRES"
+    "name": "PHARMACIE MA\u00cbLYS"
   },
   {
-    "name": "PHARMACIE CITE"
+    "name": "PHARMACIE ADIDOGOME"
   },
   {
-    "name": "PHARMACIE BESDA"
+    "name": "PHARMACIE SILOE"
   },
   {
-    "name": "PHARMACIE CONSEIL"
+    "name": "PHARMACIE ACTUELLE"
   },
   {
-    "name": "PHARMACIE EPIPHANIA"
+    "name": "PHARMACIE SEGBE"
   },
   {
-    "name": "PHARMACIE POINT E"
+    "name": "PHARMACIE DJIDJOLE"
   },
   {
-    "name": "PHARMACIE VERTE"
+    "name": "PHARMACIE ST JOSEPH"
   },
   {
-    "name": "PHARMACIE DELALI"
+    "name": "PHARMACIE VIGUEUR"
   },
   {
-    "name": "PHARMACIE NATION"
+    "name": "PHARMACIE MILLENAIRE"
   },
   {
-    "name": "PHARMACIE LAUS DEO"
+    "name": "PHARMACIE DIEUDONNE"
   },
   {
-    "name": "PHARMACIE VITAFLORE"
+    "name": "PHARMACIE OSSAN"
   },
   {
-    "name": "PHARMACIE MAINA"
+    "name": "PHARMACIE APOLLON"
   },
   {
-    "name": "PHARMACIE ADOUNI"
+    "name": "PHARMACIE CLEMENCE"
   },
   {
-    "name": "PHARMACIE IRIS"
+    "name": "PHARMACIE ST MICHEL"
   },
   {
-    "name": "PHARMACIE NABINE"
-  },
-  {
-    "name": "PHARMACIE ADONA\u00cf"
-  },
-  {
-    "name": "PHARMACIE AMEN"
+    "name": "PHARMACIE ASSURANCE"
   },
   {
     "name": "PHARMACIE TCHEP'SON"
@@ -108,10 +108,10 @@
     "name": "PHARMACIE CHARITE"
   },
   {
-    "name": "PHARMACIE ABRAHAM"
+    "name": "PHARMACIE DENIS"
   },
   {
-    "name": "PHARMACIE DENIS"
+    "name": "PHARMACIE ABRAHAM"
   },
   {
     "name": "PHARMACIE GANFAT"
@@ -123,6 +123,15 @@
     "name": "PHARMACIE EL-SALI"
   },
   {
-    "name": "PHARMACIE OBSERVANCE"
+    "name": "PHARMACIE MAWUNYO"
+  },
+  {
+    "name": "PHARMACIE VERSEAU"
+  },
+  {
+    "name": "PHARMACIE DE L'EDEN"
+  },
+  {
+    "name": "PHARMACIE SAINTE MARIE"
   }
 ]
