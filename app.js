@@ -57,6 +57,7 @@ function addPharmacyMarker(map, pharmacy) {
   // Create a popup for the marker that displays the pharmacy details
   const popup = L.popup().setContent(`
     <h4>${pharmacy.name}</h4>
+    <p>${pharmacy.address}</p>
     <p>${pharmacy.phone}</p>
     <p>${pharmacy.onDuty ? 'De garde' : 'Pas de garde'}</p>
   `);

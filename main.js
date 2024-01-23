@@ -31,20 +31,3 @@ fs.writeFile('filtered-data.json', JSON.stringify(pharmacies, null, 2), (err) =>
 })
 console.log(pharmacies)
 
-// // Function to convert Excel data to JSON
-// function excelToJson(workbook) {
-//   const result = {};
-//   workbook.SheetNames.forEach(sheetName => {
-//     const sheet = workbook.Sheets[sheetName];
-//     result[sheetName] = XLSX.utils.sheet_to_json(sheet, { header: 1 });
-//   });
-//   return result;
-// }
-
-// //const workbook = 'table_dta.csv';
-// const workbook_xlsx = "IT_232_2022_2023 Grades.xlsx"
-// // let res = workbook_xlsx.arrayBuffer();
-// // console.log(res);
-// let workbook = XLSX.readFile(workbook_xlsx, opts);
-// console.log(workbook_xlsx);
-// // excelToJson(workbook_xlsx)
