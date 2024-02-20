@@ -26,7 +26,7 @@ def extract_pharmacy_names(url, json_filename):
             pharmacy_names.append({"name": pharmacy_name,"phone": telephone,"address": address})
 
         with open(json_filename, 'w') as file:
-            json.dump(pharmacy_names, file, indent=2)
+            json.dump(pharmacy_names, file, indent=2,ensure_ascii=False)
 
         with open('previous_hash.txt', 'w') as f:
             f.write(new_hash)

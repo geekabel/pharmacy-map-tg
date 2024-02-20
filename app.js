@@ -1,5 +1,26 @@
 'use strict';
 
+// Helper function to calculate distance between two coordinates in kilometers
+function calculateDistance(userCoords, pharmacyCoords) {
+  const R = 6371; // Radius of the Earth in kilometers
+  const dLat = deg2rad(pharmacyCoords.lat - userCoords.latitude);
+  const dLon = deg2rad(pharmacyCoords.lon - userCoords.longitude);
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(deg2rad(userCoords.latitude)) *
+      Math.cos(deg2rad(pharmacyCoords.lat)) *
+      Math.sin(dLon / 2) *
+      Math.sin(dLon / 2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  const distance = R * c; // Distance in kilometers
+  return distance;
+}
+
+// Helper function to convert degrees to radians
+function deg2rad(deg) {
+  return deg * (Math.PI / 180);
+} 
+
 // Helper function to compare strings with case-insensitivity and handling accents
 function compareStrings(str1, str2) {
   const normalize = (str) =>
@@ -54,11 +75,13 @@ function addPharmacyMarker(map, pharmacy) {
     marker.setIcon(greenIcon);
   }
 
+   // Calculate distance between user and pharmacy
+  //  const distance = calculateDistance(userCoords, pharmacy);
   // Create a popup for the marker that displays the pharmacy details
   const popup = L.popup().setContent(`
     <h4>${pharmacy.name}</h4>
     <p>${pharmacy.address}</p>
-    <p>${pharmacy.phone}</p>
+    <p>${pharmacy.phone ? pharmacy.phone : 'Non disponible'}</p>
     <p>${pharmacy.onDuty ? 'De garde' : 'Pas de garde'}</p>
   `);
   marker.bindPopup(popup);
