@@ -1,37 +1,74 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Pharmacies in Lome, Togo</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="assets/css/style.css" />
-  </head>
-  <body>
-    <!-- <div id="map"></div> -->
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-3 mt-4">
-         <h3>Bienvenue sur votre carte pharmacie de garde</h3>
-          <p>
-            <p>Liste des pharmacies de garde du <strong>25 mars au 1er avril 2024</strong></p>
-            <ul>
-              <h4>Légende</h4>
-              <li>Marqueur vert: Pharmacie de garde </li>
-              <li>Marqueur bleu : Pharmacie non de garde</li>
-            </ul>
-          </p>
-        </div>
-        <div class="col-md-9">
-           <!-- <h2>Votre carte</h2> -->
-          <div id="map"></div>
-        </div>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Pharmacies in Lome, Togo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+
+<body>
+  <!-- <div id="map"></div> -->
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-3 mt-4">
+        <h3>Bienvenue sur votre carte pharmacie de garde</h3>
+        <p>
+        <p>Liste des pharmacies de garde du
+          <!-- <strong>25 mars au 1er avril 2024</strong> -->
+         <strong><span id="dateRange"></span></strong> 
+        </p>
+        <ul>
+          <h4>Légende</h4>
+          <li>Marqueur vert: Pharmacie de garde </li>
+          <li>Marqueur bleu : Pharmacie non de garde</li>
+        </ul>
+        </p>
+      </div>
+      <div class="col-md-9">
+        <!-- <h2>Votre carte</h2> -->
+        <div id="map"></div>
       </div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
-    <!-- <script src="https://unpkg.com/xlsx/dist/xlsx.full.min.js"></script> -->
-    <!-- <script src="app.js"></script> -->
-    <script src="app.js"></script>
-  </body>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.js"></script>
+  <!-- <script src="app.js"></script> -->
+  <script src="app.js"></script>
+  <script>
+    function formatDate(date) {
+      var months = [
+        "janvier", "février", "mars", "avril", "mai", "juin",
+        "juillet", "août", "septembre", "octobre", "novembre", "décembre"
+      ];
+      var day = date.getDate();
+      var monthIndex = date.getMonth();
+      var year = date.getFullYear();
+
+      // Add "er" for 1st, 2nd, etc.
+      var daySuffix = (day > 1 && day < 21) || (day > 31) ? "e" : "";
+      if (day === 1 || day === 21 || day === 31) {
+        daySuffix = "er";
+      }
+
+      return day + daySuffix + " " + months[monthIndex] + " " + year;
+    }
+
+    function updateDateRange() {
+      var startDate = new Date(2024, 2, 25); // 25th March 2024
+      var endDate = new Date(2024, 3, 1);    // 1st April 2024
+
+      var startDateString = formatDate(startDate);
+      var endDateString = formatDate(endDate);
+
+      document.getElementById('dateRange').textContent = startDateString + " au " + endDateString;
+    }
+
+    // Update the date range initially
+    updateDateRange();
+  </script>
+</body>
+
 </html>
