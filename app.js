@@ -49,7 +49,7 @@ function createUserMarker(map, position) {
     icon: L.icon({ iconUrl: 'assets/images/red-marker-icon.png' }),
   }).addTo(map);
 
-  userMarker.bindPopup("It's me").openPopup();
+  userMarker.bindPopup("Vous êtes ici").openPopup();
 
   return userMarker;
 }
