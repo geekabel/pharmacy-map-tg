@@ -18,8 +18,8 @@
         <h3>Bienvenue sur votre carte pharmacie de garde</h3>
         <p>
         <p>Liste des pharmacies de garde du
-          <!-- <strong>25 mars au 1er avril 2024</strong> -->
-         <strong><span id="dateRange"></span></strong> 
+          <strong>08 au 15 avril 2024</strong>
+         <!-- <strong><span id="dateRange"></span></strong>  -->
         </p>
         <ul>
           <h4>Légende</h4>
@@ -38,36 +38,37 @@
   <!-- <script src="app.js"></script> -->
   <script src="app.js"></script>
   <script>
-    function formatDate(date) {
-      var months = [
-        "janvier", "février", "mars", "avril", "mai", "juin",
-        "juillet", "août", "septembre", "octobre", "novembre", "décembre"
-      ];
-      var day = date.getDate();
-      var monthIndex = date.getMonth();
-      var year = date.getFullYear();
+    //     function formatDate(date) {
+    //   const options = { day: 'numeric', month: 'long', year: 'numeric' };
+    //   return date.toLocaleDateString('fr-FR', options);
+    // }
 
-      // Add "er" for 1st, 2nd, etc.
-      var daySuffix = (day > 1 && day < 21) || (day > 31) ? "e" : "";
-      if (day === 1 || day === 21 || day === 31) {
-        daySuffix = "er";
-      }
+    // function generateDateRanges(start, end) {
+    //   const dateRanges = [];
+    //   let currentDate = new Date(start);
 
-      return day + daySuffix + " " + months[monthIndex] + " " + year;
-    }
+    //   while (currentDate <= end) {
+    //     const startDate = new Date(currentDate);
+    //     const endDate = new Date(currentDate);
+    //     endDate.setDate(endDate.getDate() + 6);
 
-    function updateDateRange() {
-      var startDate = new Date(2024, 2, 25); // 25th March 2024
-      var endDate = new Date(2024, 3, 1);    // 1st April 2024
+    //     const range = `${formatDate(startDate)} au ${formatDate(endDate)}`;
+    //     dateRanges.push(range);
 
-      var startDateString = formatDate(startDate);
-      var endDateString = formatDate(endDate);
+    //     currentDate.setDate(currentDate.getDate() + 7);
+    //   }
 
-      document.getElementById('dateRange').textContent = startDateString + " au " + endDateString;
-    }
+    //   return dateRanges;
+    // }
 
-    // Update the date range initially
-    updateDateRange();
+    // const startDate = new Date(2024, 3, 8); // 8 avril 2024
+    // const endDate = new Date(2024, 3, 15); // 15 avril 2024
+
+    // const dateRanges = generateDateRanges(startDate, endDate);
+
+    // const dateRangeElement = document.getElementById('dateRange');
+    // dateRangeElement.textContent = dateRanges.join(', ');
+
   </script>
 </body>
 
