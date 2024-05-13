@@ -22,10 +22,10 @@ TODO
 
 - [ ] Recuperer la position de l'utilisateur
 
-- [ ] Tracer la route vert la pharmacie la plus proche 
+- [ ] Tracer la route vert la pharmacie la plus proche \n
 
 
-* Cronjob pour aller fetch la data tout les 10 jours
+* Cronjob pour aller fetch la data tout les 10 jours 
 ```bash
 0 0 */10 * * /usr/bin/python3 /path/to/your/script.py >> /path/to/your/logfile.log 2>&1
 ```
