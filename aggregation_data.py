@@ -27,7 +27,7 @@ if __name__ == "__main__":
     with open('filtered-data.json', 'r') as file:
         filtered_data = json.load(file)
 
-    with open('pharmacy_names.json', 'r') as file:
+    with open('/data/pharmacy_names.json', 'r') as file:
         pharmacy_names = json.load(file)
 
     # Appeler la fonction pour mettre à jour les informations

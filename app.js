@@ -52,11 +52,11 @@ class PharmacyMap {
 
   async createPharmacyMap() {
     try {
-      const response = await fetch('filtered-data.json');
+      const response = await fetch('data/filtered-data.json');
       const data = await response.json();
-
+      const url = 'data/pharmacy_names.json'
       data.forEach(async (pharmacy) => {
-        const pharmacyNames = await this.fetchAndProcessData('pharmacy_names.json');
+        const pharmacyNames = await this.fetchAndProcessData(url);
         const foundPharmacy = pharmacyNames.find(({ name }) => this.compareStrings(name, pharmacy.name));
         pharmacy.onDuty = !!foundPharmacy;
         this.addPharmacyMarker(pharmacy);

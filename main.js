@@ -1,5 +1,4 @@
 const fs = require('fs')
-// const XLSX = require("xlsx");
 const pharmaciesData = require('./pharmacies.json')
 
 function extractPharmaciesInfo(pharmaciesData) {
