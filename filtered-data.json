@@ -38,15 +38,17 @@
     "lat": 6.1755861,
     "lon": 1.1809121,
     "name": "Pharmacie Bethel",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎98 58 64 64",
+    "onDuty": false,
+    "address": "ADIDOGOME Soviépé, bd du 30 Août, face OraBank et Banque Atlantique"
   },
   {
     "lat": 6.169885,
     "lon": 1.3453851,
     "name": "Pharmacie Avépozo",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎93 01 73 51",
+    "onDuty": false,
+    "address": "AVEPOZO"
   },
   {
     "lat": 6.1805575,
@@ -60,7 +62,8 @@
     "lon": 1.1999865,
     "name": "Pharmacie Mathilda",
     "phone": "+228222511584",
-    "onDuty": false
+    "onDuty": false,
+    "address": "Route PATASSE - Lomé an - ODEF"
   },
   {
     "lat": 6.2256655,
@@ -179,8 +182,9 @@
     "lat": 6.241401,
     "lon": 1.2012058,
     "name": "Pharmacie Excellence",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎93 27 95 54",
+    "onDuty": false,
+    "address": "AGOE Démakpoé Voie CEDEAO"
   },
   {
     "lat": 6.2404981,
@@ -327,8 +331,9 @@
     "lat": 6.2013791,
     "lon": 1.1882347,
     "name": "Pharmacie Le Galien",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎22 51 71 71",
+    "onDuty": false,
+    "address": "Rue Pavée d'Adidoadin"
   },
   {
     "lat": 6.2068745,
@@ -348,8 +353,9 @@
     "lat": 6.21892,
     "lon": 1.1692354,
     "name": "Pharmacie des Roses",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 42 37 72",
+    "onDuty": false,
+    "address": "AGOE - Vakpossito, près de l'entreprise de l'Union"
   },
   {
     "lat": 6.1754534,
@@ -392,8 +398,9 @@
     "lat": 6.1920133,
     "lon": 1.1583729,
     "name": "Pharmacie DES ECOLES",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎22 51 75 75",
+    "onDuty": false,
+    "address": "Face Lycée Technique Adidogomé et près du CEG, Route de Kpalimé"
   },
   {
     "lat": 6.1805044,
@@ -536,8 +543,9 @@
     "lat": 6.1571711,
     "lon": 1.2020895,
     "name": "Pharmacie Lumen",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 41 68 36",
+    "onDuty": false,
+    "address": "DJAGBLE, En face de l'EPP (Plakomé)"
   },
   {
     "lat": 6.1289734,
@@ -600,8 +608,9 @@
     "lat": 6.1612431,
     "lon": 1.3157197,
     "name": "Pharmacie de l'Eden",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 42 13 98",
+    "onDuty": false,
+    "address": "Route d'Aného, face Cité Baguida"
   },
   {
     "lat": 6.4607865,
@@ -656,8 +665,9 @@
     "lat": 6.1529221,
     "lon": 1.2450423,
     "name": "PHARMACIE MAWULE",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 45 91 86",
+    "onDuty": false,
+    "address": "54 Bd de l'OT1 Rondpoint Gakpoto, Bè-Kpota"
   },
   {
     "lat": 6.1468792,
@@ -776,8 +786,9 @@
     "lat": 6.1793429,
     "lon": 1.1508203,
     "name": "PHARMACIE MAGNIFICAT",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 44 51 59",
+    "onDuty": false,
+    "address": "Adidogomé yokoè Agblégan, rue de la pampa à 100 m du palais royal de Yokoè"
   },
   {
     "lat": 7.7646674,
@@ -804,8 +815,9 @@
     "lat": 6.205489,
     "lon": 1.2537564,
     "name": "Pharmacie CITRUS",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 44 59 24",
+    "onDuty": false,
+    "address": "Attiégou Carrefour DVA, Grand Contournement"
   },
   {
     "lat": 6.1438775,
@@ -883,7 +895,8 @@
     "lon": 1.1379555,
     "name": "Pharmacie Hosanna",
     "phone": "+22822515040",
-    "onDuty": false
+    "onDuty": false,
+    "address": "Carrefour Sagbado-Sémékonawo, en face de la station-service SANOL"
   },
   {
     "lat": 6.1896245,
@@ -959,8 +972,9 @@
     "lat": 6.1694828,
     "lon": 1.2031998,
     "name": "Pharmacie El-Shadai",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎96 80 09 10",
+    "onDuty": false,
+    "address": "Face Ecole Théologie ESTAO"
   },
   {
     "lat": 6.151525,
@@ -1195,8 +1209,9 @@
     "lat": 6.1824402,
     "lon": 1.1996998,
     "name": "Pharmacie Mathilda",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎22 51 15 34",
+    "onDuty": false,
+    "address": "Route PATASSE - Lomé an - ODEF"
   },
   {
     "lat": 6.2294278,
@@ -1225,8 +1240,9 @@
     "lat": 6.1572745,
     "lon": 1.2331672,
     "name": "Pharmacie Isis",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 44 83 87",
+    "onDuty": false,
+    "address": "Avenue Jean Paul II près des rails NUKAFU Gakpoto"
   },
   {
     "lat": 9.6589584,
@@ -1317,7 +1333,8 @@
     "lon": 1.1814503,
     "name": "Pharmacie Bétania",
     "phone": "+22822438940",
-    "onDuty": false
+    "onDuty": false,
+    "address": "Rue Sito, Totsi-Gblenkomé non loin de la salle des Témoins de Jéhovah"
   },
   {
     "lat": 6.9309546,
@@ -1408,8 +1425,9 @@
     "lat": 6.2021934,
     "lon": 1.1731723,
     "name": "Pharmacie Volontas Déï",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 42 23 60",
+    "onDuty": false,
+    "address": "Avédji, Carrefour \"SUN CITY\", face à l'ancien bar Sun City"
   },
   {
     "lat": 8.6636145,
@@ -1669,15 +1687,17 @@
     "lat": 6.2005233,
     "lon": 1.2014823,
     "name": "Pharmacie Enouli",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎22 25 90 68",
+    "onDuty": false,
+    "address": "Station d'Agbalépédogan"
   },
   {
     "lat": 6.2129413,
     "lon": 1.1338098,
     "name": "Pharmacie El-Nissi",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎99 73 39 32",
+    "onDuty": false,
+    "address": "Rte Lomé-KpaIimé, carrefour Apédokoè-Gbomamé à 200 m de la station total d'Apédokoè"
   },
   {
     "lat": 6.2463084,
