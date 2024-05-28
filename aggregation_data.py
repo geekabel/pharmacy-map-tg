@@ -24,10 +24,10 @@ def update_pharmacy_info(filtered_data, pharmacy_names):
 
 if __name__ == "__main__":
     # Charger les fichiers JSON
-    with open('filtered-data.json', 'r') as file:
+    with open('data/filtered-data.json', 'r') as file:
         filtered_data = json.load(file)
 
-    with open('/data/pharmacy_names.json', 'r') as file:
+    with open('data/pharmacy_names.json', 'r') as file:
         pharmacy_names = json.load(file)
 
     # Appeler la fonction pour mettre à jour les informations
@@ -37,5 +37,5 @@ if __name__ == "__main__":
         if "dispensing" in pharmacy:
             del pharmacy["dispensing"]
     # Enregistrer les modifications dans filtered-data.json
-    with open('filtered-data.json', 'w') as file:
+    with open('data/filtered-data.json', 'w') as file:
         json.dump(filtered_data, file, indent=2, ensure_ascii=False)

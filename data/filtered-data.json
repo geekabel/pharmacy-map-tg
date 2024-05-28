@@ -51,26 +51,19 @@
     "address": "AVEPOZO"
   },
   {
-    "lat": 6.1805575,
-    "lon": 1.1952619,
+    "lat": 6.1804899,
+    "lon": 1.1930898,
     "name": "Pharmacie de Djidjolé",
-    "phone": "",
+    "phone": "☎22 25 65 12 ☎23 20 95 55",
     "onDuty": false
-  },
-  {
-    "lat": 6.1825406,
-    "lon": 1.1999865,
-    "name": "Pharmacie Mathilda",
-    "phone": "+228222511584",
-    "onDuty": false,
-    "address": "Route PATASSE - Lomé an - ODEF"
   },
   {
     "lat": 6.2256655,
     "lon": 1.2108244,
     "name": "Pharmacie Agoè-Nyivé",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎91 61 02 62",
+    "onDuty": false,
+    "address": "A côté de l'Eglise Catholique d'Agoè-Nyivé"
   },
   {
     "lat": 6.2358935,
@@ -91,8 +84,9 @@
     "lat": 6.1966467,
     "lon": 1.1867889,
     "name": "Pharmacie Solidarité",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎96 80 09 76",
+    "onDuty": false,
+    "address": "Rue Avédji Limousine, Près de l'UTB Totsi BP : 8919 Lomé - TOGO"
   },
   {
     "lat": 6.1370596,
@@ -133,8 +127,9 @@
     "lat": 6.2176737,
     "lon": 1.203511,
     "name": "Pharmacie Shalom",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 49 96 51",
+    "onDuty": false,
+    "address": "Agoè-Cacavéli, non loin de BKS. Sur la route Agoè-Adidogomé"
   },
   {
     "lat": 6.1797097,
@@ -154,8 +149,9 @@
     "lat": 6.1830548,
     "lon": 1.2354178,
     "name": "Pharmacie des Lilas",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎96 16 55 89",
+    "onDuty": false,
+    "address": "123HDN, 07 Route de Kégué Boulevard Jean Paul II prolongé"
   },
   {
     "lat": 6.1201259,
@@ -295,8 +291,9 @@
     "lat": 6.2113261,
     "lon": 1.1771699,
     "name": "Pharmacie des Orchidées",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎99 01 03 74",
+    "onDuty": false,
+    "address": "AGOE-TELESSOU, LEO 2000"
   },
   {
     "lat": 6.1850322,
@@ -309,8 +306,9 @@
     "lat": 6.2004215,
     "lon": 1.1488228,
     "name": "Pharmacie La Référence",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎96 80 09 96",
+    "onDuty": false,
+    "address": "Route de Kpalimé, Adidogomé Assiyéyé, à côté du bar Madiba"
   },
   {
     "lat": 6.2158499,
@@ -361,8 +359,9 @@
     "lat": 6.1754534,
     "lon": 1.1978604,
     "name": "Pharmacie Jahnap",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎96 80 09 29",
+    "onDuty": false,
+    "address": "A côté de l'EPP Gakli, Diddjolé-Gakli, immeuble Favo"
   },
   {
     "lat": 6.1925569,
@@ -414,8 +413,9 @@
     "lat": 6.1808077,
     "lon": 1.171924,
     "name": "Pharmacie Eli-Beraca",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎99 91 13 42",
+    "onDuty": false,
+    "address": "Route d'Adidgomé, Immeuble SIKOVIC face bureau de poste"
   },
   {
     "lat": 6.2068325,
@@ -435,8 +435,9 @@
     "lat": 6.1290342,
     "lon": 1.224335,
     "name": "Pharmacie Bon Pasteur",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎91 43 44 84",
+    "onDuty": false,
+    "address": "44 Av. de la libération en face de Brother Home"
   },
   {
     "lat": 6.1283697,
@@ -492,8 +493,9 @@
     "lat": 6.2240432,
     "lon": 1.1927747,
     "name": "Pharmacie APOU ANTOINE",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 41 36 12",
+    "onDuty": false,
+    "address": "Boulevard Lycée Agoè-Assiyéyé Face TOTAL Minamadou 11"
   },
   {
     "lat": 6.2078133,
@@ -551,8 +553,9 @@
     "lat": 6.1289734,
     "lon": 1.2106287,
     "name": "Pharmacie Horizon",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎90 56 52 56",
+    "onDuty": false,
+    "address": "165, Bd du 13 janvier Nyékonakpoè. Face Sapeurs-Pompiers à côté de l'immeuble A.AC."
   },
   {
     "lat": 6.1594338,
@@ -765,8 +768,9 @@
     "lat": 6.1701542,
     "lon": 1.3258488,
     "name": "Pharmacie Baguida",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 42 47 77",
+    "onDuty": false,
+    "address": "Face CMS de Baguida"
   },
   {
     "lat": 10.8689228,
@@ -902,8 +906,9 @@
     "lat": 6.1896245,
     "lon": 1.1537508,
     "name": "Pharmacie Bonté",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎96 80 09 00",
+    "onDuty": false,
+    "address": "Route de SEGBE, Wonyomé-Adidogomé en face de la station Sanol"
   },
   {
     "lat": 6.2346078,
@@ -930,8 +935,9 @@
     "lat": 6.1461027,
     "lon": 1.2663128,
     "name": "Pharmacie des Apotres",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 45 38 05",
+    "onDuty": false,
+    "address": "49, Bd Moboutou Sese Seko, Akodésséwa, non loin du Centre de Formation CAMA"
   },
   {
     "lat": 9.005526,
@@ -987,8 +993,9 @@
     "lat": 6.191227,
     "lon": 1.260828,
     "name": "Pharmacie Klokpe",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎90 53 60 52",
+    "onDuty": false,
+    "address": "Derrière la Foire Togo  2000"
   },
   {
     "lat": 6.1284905,
@@ -1195,8 +1202,9 @@
     "lat": 6.1763793,
     "lon": 1.3658529,
     "name": "Pharmacie la Flamme d'amour",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 45 70 14",
+    "onDuty": false,
+    "address": "Qt. Bobole kope / K ogan Non Loin du cimétière Zogbedjimonou de Kpogan"
   },
   {
     "lat": 6.1734229,
@@ -1206,8 +1214,8 @@
     "onDuty": false
   },
   {
-    "lat": 6.1824402,
-    "lon": 1.1996998,
+    "lat": 6.1823402,
+    "lon": 1.1983074,
     "name": "Pharmacie Mathilda",
     "phone": "☎22 51 15 34",
     "onDuty": false,
@@ -1368,8 +1376,9 @@
     "lat": 6.1772954,
     "lon": 1.2051749,
     "name": "Pharmacie Saint Joseph",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎22 25 74 65",
+    "onDuty": false,
+    "address":"Rue Bretelle, Avenue de la RP, Bè Klikamé, BP 13000, LOME "
   },
   {
     "lat": 6.1597269,
@@ -1470,7 +1479,8 @@
     "lon": 1.1951751,
     "name": "Pharmacie Groupe C",
     "phone": "+22899982087",
-    "onDuty": false
+    "onDuty": false,
+    "address": "A balépédogan face Clinique la Victoire non loin de IEPP Groupe C"
   },
   {
     "lat": 6.1925922,
@@ -1568,8 +1578,9 @@
     "lat": 6.1825881,
     "lon": 1.2145868,
     "name": "Pharmacie UNIVERS-SANTÉ",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎93 88 83 31",
+    "onDuty": false,
+    "address": "Bd. GNASSINGBE E adéma, Cité OUA face à l'entrée du CHU-CAMPUS"
   },
   {
     "lat": 6.1793105,

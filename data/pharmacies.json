@@ -107,8 +107,8 @@
 {
   "type": "node",
   "id": 2361977373,
-  "lat": 6.1825406,
-  "lon": 1.1999865,
+  "lat": 6.1823402,
+  "lon": 1.1983074,
   "tags": {
     "amenity": "pharmacy",
     "dispensing": "no",
@@ -636,18 +636,6 @@
     "dispensing": "yes",
     "name": "Pharmacie des Roses",
     "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575094634,
-  "lat": 6.1742719,
-  "lon": 1.1973457,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie JAHNAP"
   }
 },
 {
@@ -2101,23 +2089,6 @@
 },
 {
   "type": "node",
-  "id": 7540836204,
-  "lat": 6.1824402,
-  "lon": 1.1996998,
-  "tags": {
-    "amenity": "pharmacy",
-    "bench": "no",
-    "bus": "yes",
-    "highway": "bus_stop",
-    "name": "Pharmacie Mathilda",
-    "operator": "SOTRAL",
-    "public_transport": "platform",
-    "shelter": "no",
-    "source": "Sotral;survey"
-  }
-},
-{
-  "type": "node",
   "id": 7791090987,
   "lat": 6.2294278,
   "lon": 1.2110093,
@@ -2543,8 +2514,8 @@
 {
   "type": "node",
   "id": 9833932856,
-  "lat": 6.1754534,
-  "lon": 1.1978604,
+  "lat": 6.1755522,
+  "lon": 1.1956804,
   "tags": {
     "amenity": "pharmacy",
     "name": "Pharmacie Jahnap"
