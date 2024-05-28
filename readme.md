@@ -20,7 +20,7 @@ TODO
 
 - [ ] Faire une recherche Autocomplete sur la liste des pharmacies existantes
 
-- [ ] Recuperer la position de l'utilisateur
+- [x] Recuperer la position de l'utilisateur
 
 - [ ] Tracer la route vert la pharmacie la plus proche \n
 
