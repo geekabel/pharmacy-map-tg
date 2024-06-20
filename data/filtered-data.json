@@ -221,8 +221,9 @@
     "lat": 6.1364687,
     "lon": 1.2564935,
     "name": "Pharmacie DEO GRATIAS",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎96 80 08 93",
+    "onDuty": false,
+    "address": "Rue Notre Dame de la Miséricorde KEGUE DINGBLE"
   },
   {
     "lat": 6.1399624,
@@ -299,8 +300,9 @@
     "lat": 6.1850322,
     "lon": 1.166273,
     "name": "Pharmacie Adidogomé",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎91 05 78 21",
+    "onDuty": false,
+    "address": "Face au cam 2ème RI d'Adidogomé"
   },
   {
     "lat": 6.2004215,
@@ -314,8 +316,9 @@
     "lat": 6.2158499,
     "lon": 1.1723495,
     "name": "Pharmacie Dieudonné",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 44 84 59",
+    "onDuty": false,
+    "address": "Route de LEO 2000, non loin de FUCEC Agoè-Téléssou"
   },
   {
     "lat": 6.2070435,
@@ -367,15 +370,17 @@
     "lat": 6.1925569,
     "lon": 1.1440521,
     "name": "Pharmacie ACTUELLE",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎90 61 46 44",
+    "onDuty": false,
+    "address": "Route de Ségbé; quartier Sagbado - Adidogomé"
   },
   {
     "lat": 6.2026328,
     "lon": 1.1669399,
     "name": "Pharmacie APOLLON",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎93 50 42 55",
+    "onDuty": false,
+    "address": "Avédji, Face complexe scolaire Makafui - Non loin du carrefour des hirondelles"
   },
   {
     "lat": 6.1956179,
@@ -421,8 +426,9 @@
     "lat": 6.2068325,
     "lon": 1.1408981,
     "name": "Pharmacie SILOE",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎90 80 26 39",
+    "onDuty": false,
+    "address": "Carrefour Aflao Apédokoè Atigangomé"
   },
   {
     "lat": 6.1925919,
@@ -509,8 +515,9 @@
     "lat": 6.2138768,
     "lon": 1.2083415,
     "name": "Pharmacie St Michel",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 43 30 43",
+    "onDuty": false,
+    "address": "Située à Agoè-Nyivé entre la Brasserie BB et l'espace Télécom"
   },
   {
     "lat": 6.2254357,
@@ -538,8 +545,9 @@
     "lat": 6.2010778,
     "lon": 1.1807802,
     "name": "Pharmacie Ossan",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎70 40 44 25",
+    "onDuty": false,
+    "address": "Carrefour AVEDZI face Ets LA LIMOUSINE"
   },
   {
     "lat": 6.1571711,
@@ -1378,7 +1386,7 @@
     "name": "Pharmacie Saint Joseph",
     "phone": "☎22 25 74 65",
     "onDuty": false,
-    "address":"Rue Bretelle, Avenue de la RP, Bè Klikamé, BP 13000, LOME "
+    "address": "Rue Bretelle, Avenue de la RP, Bè Klikamé, BP 13000, LOME "
   },
   {
     "lat": 6.1597269,
@@ -1543,7 +1551,8 @@
     "lon": 1.2389625,
     "name": "Pharmacie Deo Gratias",
     "phone": "+22896800893",
-    "onDuty": false
+    "onDuty": false,
+    "address": "Rue Notre Dame de la Miséricorde KEGUE DINGBLE"
   },
   {
     "lat": 6.1643794,
@@ -1594,7 +1603,8 @@
     "lon": 1.2133812,
     "name": "Pharmacie Campus",
     "phone": "+22822215632",
-    "onDuty": false
+    "onDuty": false,
+    "address": "ADEWI - Boulevard de la Kara à côté de UTB"
   },
   {
     "lat": 6.1914338,
