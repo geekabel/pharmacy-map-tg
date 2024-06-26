@@ -164,8 +164,9 @@
     "lat": 6.1216541,
     "lon": 1.2093005,
     "name": "Pharmacie Kodjoviakopé",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎22 21 89 90",
+    "onDuty": false,
+    "address": "Avenue Duisbour"
   },
   {
     "lat": 6.1812949,
@@ -1392,8 +1393,9 @@
     "lat": 6.1597269,
     "lon": 1.2261792,
     "name": "Pharmacie forever",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎91 00 29 17",
+    "onDuty": false,
+    "address": "Tokoin Forever, Face Garage Central Administratif"
   },
   {
     "lat": 10.9128703,
