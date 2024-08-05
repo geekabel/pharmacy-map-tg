@@ -99,8 +99,9 @@
     "lat": 6.1333763,
     "lon": 1.2464503,
     "name": "Pharmacie Océane",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎96 75 25 02",
+    "onDuty": false,
+    "address": "Rue HOULATA, rue de I'OCAM, face Hôtel de la PAIX"
   },
   {
     "lat": 6.1300843,
