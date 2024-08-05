@@ -244,8 +244,9 @@
   {
     "lat": 6.1321132,
     "lon": 1.2204839,
-    "name": "Pharmacie des Etoies",
+    "name": "Pharmacie des Etoiles",
     "phone": "",
+    "address": "10, avenue de la nouvelle marché, BP 3484, LOME",
     "onDuty": false
   },
   {
