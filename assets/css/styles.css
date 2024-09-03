@@ -1,0 +1,107 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f0f4f8;
+}
+
+.container-fluid {
+  padding: 10px;
+}
+
+#map {
+  height: 50vh;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.sidebar {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+}
+
+.legend {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.legend h4 {
+  color: #34495e;
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.legend ul {
+  padding-left: 15px;
+}
+
+.pharmacy-list {
+  max-height: 40vh;
+  overflow-y: auto;
+}
+
+.pharmacy-item {
+  cursor: pointer;
+  padding: 12px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  transition: all 0.3s ease;
+  background-color: #f8f9fa;
+}
+
+.pharmacy-item:hover {
+  background-color: #e9ecef;
+  transform: translateY(-2px);
+}
+
+.pharmacy-item.on-duty {
+  border-left: 5px solid #28a745;
+}
+
+.badge-success {
+  background-color: #28a745;
+}
+
+.badge-secondary {
+  background-color: #6c757d;
+}
+
+/* Responsive adjustments */
+@media (min-width: 768px) {
+  .container-fluid {
+      padding: 20px;
+  }
+
+  #map {
+      height: 80vh;
+  }
+
+  .sidebar {
+      height: 80vh;
+      overflow-y: auto;
+  }
+
+  .pharmacy-list {
+      max-height: 50vh;
+  }
+}
+
+@media (min-width: 992px) {
+  h3 {
+      font-size: 1.75rem;
+  }
+
+  .legend h4 {
+      font-size: 1.1rem;
+  }
+}

@@ -772,8 +772,9 @@
     "lat": 6.2329466,
     "lon": 1.1889724,
     "name": "Pharmacie Divina Gracia",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎93 83 91 00",
+    "onDuty": false,
+    "address": "Quartier Agoè-Fiovi Carrefour Bafana-Bafana"
   },
   {
     "lat": 6.1701542,
@@ -925,8 +926,9 @@
     "lat": 6.2346078,
     "lon": 1.1753172,
     "name": "Pharmacie Abraham",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎22 50 10 00",
+    "onDuty": false,
+    "address": "AGOE - Logopé Kossigan"
   },
   {
     "lat": 6.1846287,
@@ -1330,8 +1332,9 @@
     "lat": 6.235027,
     "lon": 1.2003304,
     "name": "Pharmacie La Main de Dieu",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎93 40 21 21",
+    "onDuty": false,
+    "address": "AGOE ASSIYEYE non loin de l'église des Assemblées de Dieu (Temple Galilée)"
   },
   {
     "lat": 6.3427514,

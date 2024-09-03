@@ -7,74 +7,12 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.8.0/dist/leaflet.min.css" />
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
-  <style>
-      body {
-          font-family: 'Roboto', sans-serif;
-          background-color: #f0f4f8;
-      }
-      .container-fluid {
-          padding: 20px;
-      }
-      #map {
-          height: 80vh;
-          border-radius: 10px;
-          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      }
-      .sidebar {
-          background-color: #ffffff;
-          border-radius: 10px;
-          padding: 20px;
-          box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      }
-      h3 {
-          color: #2c3e50;
-          margin-bottom: 20px;
-      }
-      .legend {
-          background-color: #f8f9fa;
-          border-radius: 5px;
-          padding: 10px;
-          margin-bottom: 20px;
-      }
-      .legend h4 {
-          color: #34495e;
-          font-size: 1.1rem;
-          margin-bottom: 10px;
-      }
-      .legend ul {
-          padding-left: 20px;
-      }
-      .pharmacy-list {
-          max-height: 50vh;
-          overflow-y: auto;
-      }
-      .pharmacy-item {
-          cursor: pointer;
-          padding: 15px;
-          border-radius: 5px;
-          margin-bottom: 10px;
-          transition: all 0.3s ease;
-          background-color: #f8f9fa;
-      }
-      .pharmacy-item:hover {
-          background-color: #e9ecef;
-          transform: translateY(-2px);
-      }
-      .pharmacy-item.on-duty {
-          border-left: 5px solid #28a745;
-      }
-      .badge-success {
-          background-color: #28a745;
-      }
-      .badge-secondary {
-          background-color: #6c757d;
-      }
-  </style>
+  <link rel="stylesheet" href="assets/css/styles.css" />
 </head>
 <body>
   <div class="container-fluid">
-      <div class="row">
-          <div class="col-md-3">
+      <div class="row flex-column-reverse flex-md-row">
+          <div class="col-md-4 col-lg-3">
               <div class="sidebar">
                   <h3>Pharmacies de garde</h3>
                   <div class="legend">
@@ -88,7 +26,7 @@
                   <div id="nearbyPharmacies" class="pharmacy-list"></div>
               </div>
           </div>
-          <div class="col-md-9">
+          <div class="col-md-8 col-lg-9">
               <div id="map"></div>
           </div>
       </div>
