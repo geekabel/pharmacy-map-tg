@@ -19,7 +19,8 @@ class PharmacyMap {
       const userLatLng = L.latLng(latitude, longitude);
       this.userPosition = userLatLng;
       const userMarker = L.marker(userLatLng, {
-          icon: L.icon({ iconUrl: 'assets/images/user-marker-icon.png' }),
+          icon: L.icon({ iconUrl: 'assets/images/red-marker-icon.png',
+         }),
       }).addTo(this.map);
       userMarker.bindPopup("Vous êtes ici").openPopup();
       return userMarker;
