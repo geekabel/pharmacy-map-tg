@@ -487,8 +487,9 @@
     "lat": 6.1275889,
     "lon": 1.2355771,
     "name": "Pharmacie Jeanne d'Arc",
-    "phone": "",
-    "onDuty": false
+    "phone": "☎90 86 40 51",
+    "onDuty": false,
+    "address": "Près de Marox-Renault-Star"
   },
   {
     "lat": 6.2319049,
