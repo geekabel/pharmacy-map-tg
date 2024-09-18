@@ -1,5 +1,13 @@
 [
   {
+    "lat": 6.2028406,
+    "lon": 1.1586931,
+    "name": "Pharmacie Iris",
+    "phone": "91684804",
+    "address": "Amadahomé, Imm. Havon, non loin de la station de service CAP, Rue 50 m à côté de Casses Auto, LOME",
+    "onDuty": false
+  },
+  {
     "lat": 9.5475895,
     "lon": 1.1945918,
     "name": "Pharmacie Lafia",
