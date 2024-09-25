@@ -20,10 +20,9 @@ def extract_pharmacy_info(url, json_filename):
     else:
         date_range = "Date element not found"
     
-    table = soup.find('table', {'id': 'tablepress-162'})
-
+    table = soup.find('table')
     new_pharmacy_info = {
-        "date_range": date_range,
+        # "date_range": date_range,
         "pharmacies": []
     }
     
@@ -60,7 +59,7 @@ url = 'https://www.inam.tg/pharmacies-de-garde/'
 json_filename = 'pharmacy_info.json'
 pharmacy_info = extract_pharmacy_info(url, json_filename)
 
-print(f"Date range: {pharmacy_info['date_range']}")
+# print(f"Date range: {pharmacy_info['date_range']}")
 print(f"Number of pharmacies: {len(pharmacy_info['pharmacies'])}")
 if pharmacy_info['pharmacies']:
     print("First pharmacy:")

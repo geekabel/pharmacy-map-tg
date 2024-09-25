@@ -1,235 +1,239 @@
 {
-  "date_range": "Date element not found",
   "pharmacies": [
     {
-      "name": "PHARMACIE JEANNE D'ARC",
-      "phone": "☎90 86 40 51",
-      "address": "Près de Marox-Renault-Star"
+      "name": "PHARMACIE BEL AIR",
+      "phone": "☎96 80 08 75",
+      "address": "Non loin de Ramco et de l'hôtel Palm Beach"
     },
     {
-      "name": "PHARMACIE ETOILES",
-      "phone": "☎96 27 05 05",
-      "address": "10 Av. Nouvelle Marche"
+      "name": "PHARMACIE BOULEVARD",
+      "phone": "☎90 89 28 49",
+      "address": "Bd. Du 13 Janv. Doulassamé"
     },
     {
-      "name": "PHARMACIE ECLAIR",
-      "phone": "☎96 80 09 06",
-      "address": "Rue Avenou, Bè Ahligo, dans le rolongement du Marché de Ahligo"
+      "name": "PHARMACIE BIOVA",
+      "phone": "☎70 23 19 23",
+      "address": "Bd. Houphët-Boigny"
     },
     {
-      "name": "PHARMACIE PORT",
-      "phone": "☎7041 54 53",
-      "address": "Face Hôtel Sarakawa"
+      "name": "PHARMACIE CHÂTEAU-D'EAU",
+      "phone": "☎96 80 08 88",
+      "address": "Près Château d'eau de BE"
     },
     {
-      "name": "PHARMACIE HORIZON",
-      "phone": "☎90 56 52 56",
-      "address": "165, Bd du 13 janvier Nyékonakpoè. Face Sapeurs-Pompiers à côté de l'immeuble A.AC"
+      "name": "PHARMACIE ESPERANCE",
+      "phone": "☎22 21 01 28",
+      "address": "Av F.J. STRAUSS, Face Ecole Française Nyékonakpoè (Rue Acrololo)"
     },
     {
-      "name": "PHARMACIE AVE MARIA",
-      "phone": "☎99 03 20 12",
-      "address": "Face ENSF (Ecole Nationale des Sages Femmes rès du CHU Tokoin"
+      "name": "PHARMACIE ROBERTSON",
+      "phone": "☎22 22 28 41",
+      "address": "607, Avenue Fran ois MITTERAND Nyékonakpoè"
     },
     {
-      "name": "PHARMACIE ST KISITO",
-      "phone": "☎96 80 09 64",
-      "address": "Bd. de la Kara près du Bar TAMTAM"
+      "name": "PHARMACIE BON SECOURS",
+      "phone": "☎70 45 76 74",
+      "address": "Rue du Grand Collège du Plateau - Cassablanca"
     },
     {
-      "name": "PHARMACIE LIBERATION",
-      "phone": "☎96 80 09 35",
-      "address": "Avenue Libération Prolongée"
+      "name": "PHARMACIE AMITIE",
+      "phone": "☎70 25 62 57",
+      "address": "72 Av. des Hydrocarbures SOTED"
     },
     {
-      "name": "PHARMACIE THERYA",
-      "phone": "☎70 44 81 77",
-      "address": "Petit contournement, à 500m de la Foire internationale Togo  2000"
+      "name": "PHARMACIE BAH",
+      "phone": "☎90 55 79 59",
+      "address": "Bd mo, Face EPP Hédzranawé"
     },
     {
-      "name": "PHARMACIE ST PAUL",
-      "phone": "☎22 61 85 08",
-      "address": "Bd. Jean Paul 11"
+      "name": "PHARMACIE CITRUS",
+      "phone": "☎70 44 59 24",
+      "address": "Attiégou Carrefour DVA, Grand Contournement"
     },
     {
-      "name": "PHARMACIE LE JOURDAIN",
-      "phone": "☎92 38 30 50",
-      "address": "Boulevard Léopold Sédar SENGHOR, face au CEG Tokoin Wuiti"
+      "name": "PHARMACIE ISIS",
+      "phone": "☎70 44 83 87",
+      "address": "Avenue Jean Paul 11 près des rails NUKAFU Gakpoto"
     },
     {
-      "name": "PHARMACIE HEDZRANAWE",
-      "phone": "☎22 26 49 61",
-      "address": "Marché HEDZRANAWE"
+      "name": "PHARMACIE YEM-BLA",
+      "phone": "☎90 88 98 72",
+      "address": "258 Av. Akéï face à la Résidence"
     },
     {
-      "name": "PHARMACIE KOUESSAN",
-      "phone": "☎96 80 1001",
-      "address": "En face du stade de Kégué"
+      "name": "PHARMACIE FRATERNITE",
+      "phone": "☎96 80 09 19",
+      "address": "Hédzranawé près de la Clinique St Joseph"
     },
     {
-      "name": "PHARMACIE J-MIMSHAK",
-      "phone": "☎92 24 42 70",
-      "address": "Rue Tchamba 964, à 50m de la base de Satom 01 BP : 1391 Hountigomé Lomé - Togo"
+      "name": "PHARMACIE APOTHEKA",
+      "phone": "☎70 44 33 33",
+      "address": "Face siège Fédération Togolaise de Football, route de Kégué"
     },
     {
-      "name": "PHARMACIE MAWULE",
-      "phone": "☎70 45 91 86",
-      "address": "54 Bd de l'OT1 Rond Point Gakpoto, Bè-Kpota"
+      "name": "PHARMACIE PHARMACIE 2000",
+      "phone": "☎96 37 94 25",
+      "address": "BE KPOTA près du marché"
     },
     {
-      "name": "PHARMACIE FIDELIA",
-      "phone": "☎96 80 09 18",
-      "address": "Bè-Kpota, Route d'Attiégou, près de l'hôtel \"LE REFERENTIEL\""
+      "name": "PHARMACIE SEPOPO",
+      "phone": "☎70 34 65 65",
+      "address": "ADAKPAME grand contournement, rond point Sawleto non loin de la station Somayaf"
     },
     {
-      "name": "PHARMACIE SARAH",
-      "phone": "☎70 42 69 02",
-      "address": "Près du centre de santé d'Adakpamé"
+      "name": "PHARMACIE O GRAIN D'OR",
+      "phone": "☎70 59 09 53",
+      "address": "Carrefour Zorrobar, Grand contournement"
     },
     {
-      "name": "PHARMACIE ELI-BERACA",
-      "phone": "☎9991 13 42",
-      "address": "Route d'Adidogomé, Immeuble SIKOVIC face bureau de poste"
+      "name": "PHARMACIE BETHEL",
+      "phone": "☎98 58 64 64",
+      "address": "ADIDOGOME Soviépé, bd du 30 Août, face OraBank et Banque Atlantique"
     },
     {
-      "name": "PHARMACIE LA REFERENCE",
-      "phone": "☎96 80 09 96",
-      "address": "Route de Kpalimé, Adidogomé Assiyéyé, à côté du bar Madiba"
+      "name": "PHARMACIE DES ECOLES",
+      "phone": "☎96 80 09 14",
+      "address": "Face Lycée Technique Adidogomé et près du CEG, Route de Kpalimé"
     },
     {
-      "name": "PHARMACIE BONTE",
-      "phone": "☎22 50 7431",
-      "address": "Route de SEGBE, Wonyomé-Adidogomé en face de la station Sanol"
+      "name": "PHARMACIE EL-NISSI",
+      "phone": "☎99 73 39 32",
+      "address": "Rte Lomé-KpaIimé, carrefour Apédokoè-Gbomamé à 200 m de la station total d'Apédokoè"
     },
     {
-      "name": "PHARMACIE AZUR",
-      "phone": "☎90 49 44 56",
-      "address": "Apédokoè-Gbomamé, rte d'Atigangomé, Carrefour Obéna, près de l'eglise Pentécôte"
+      "name": "PHARMACIE HOSANNA",
+      "phone": "☎97 77 69 59",
+      "address": "Carrefour Sa bado-Sémékonawo, en face de la station-service SANOL"
     },
     {
-      "name": "PHARMACIE JAHNAP",
-      "phone": "☎96 80 09 29",
-      "address": "A côté de l'EPP Gakli, Djidjolé-Gakli, immeuble Favo"
+      "name": "PHARMACIE MAGNIFICAT",
+      "phone": "☎70 44 51 59",
+      "address": "Adidogomé yokoè A blé an, rue de la pampa à l()()m du palais royal de Yokoè"
     },
     {
-      "name": "PHARMACIE CONFIANCE",
-      "phone": "☎70 15 78 46",
-      "address": "Face GTA"
+      "name": "PHARMACIE MATHILDA",
+      "phone": "☎2251 15 34",
+      "address": "Route PATASSE - Lomégan - ODEF"
     },
     {
-      "name": "PHARMACIE LUMIERE",
-      "phone": "☎70 43 15 49",
-      "address": "AGBALEPEDOGAN - Lossossime près du Rond-Point de l'Œuf"
+      "name": "PHARMACIE EL-SHADAI",
+      "phone": "☎96 80 09 10",
+      "address": "Face Ecole Théologie ESTAO"
     },
     {
-      "name": "PHARMACIE GROUPE C",
-      "phone": "☎99 98 20 87",
-      "address": "Agbalépédogan face Clinique la Victoire non loin de l'EPP Groupe C"
+      "name": "PHARMACIE ENOULI",
+      "phone": "",
+      "address": "Station d'Agbalépédogan"
     },
     {
-      "name": "PHARMACIE DES ORCHIDEES",
-      "phone": "☎93 43 10 49",
-      "address": "AGOE-TELESSOU, LEO 2000"
+      "name": "PHARMACIE LE GALIEN",
+      "phone": "☎96 80 0921",
+      "address": "Rue Pavée d'Adidoadin"
     },
     {
-      "name": "PHARMACIE SOLIDARITE",
-      "phone": "☎96 80 09 76",
-      "address": "Rue Avédji Limousine, Près de l'UTB Totsi BP : 8919 Lomé - TOGO"
+      "name": "PHARMACIE DES ROSES",
+      "phone": "☎70 42 37 72",
+      "address": "AGOE - Vakpossito"
     },
     {
-      "name": "PHARMACIE ARC-EN-CIEL",
-      "phone": "☎70 42 50 00",
-      "address": "Agoè-Téléssou, à 50m du Carrefour Margot"
+      "name": "PHARMACIE BETANIA",
+      "phone": "☎96 80 10 11",
+      "address": "Rue Sito, Totsi-Gblenkomé non loin de la salle des Témoins de Jéhovah"
     },
     {
-      "name": "PHARMACIE DE LA VICTOIRE",
-      "phone": "☎70 45 74 92",
-      "address": "Avédji Wessomé, sur le Bd Faure Gnassingbé (voie douane d'Adidogomé - Carf Limousine), après les rails."
+      "name": "PHARMACIE VOLONTAS DEI",
+      "phone": "☎70 42 23 60",
+      "address": "Avédji, Carrefour \"SUN CITY\", face à l'ancien bar Sun City"
     },
     {
-      "name": "PHARMACIE AGOE-NYIVE",
-      "phone": "☎91 61 02 62",
-      "address": "A côté de l'Eglise Catholique d'Agoè-Nyivé"
+      "name": "PHARMACIE EL-SHAMMAH",
+      "phone": "☎70 43 25 85",
+      "address": "Sise à Amadahomé à côté de la Maison des Jeunes"
     },
     {
-      "name": "PHARMACIE SHALOM",
-      "phone": "☎70 49 96 51",
-      "address": "Agoè-Cacavéli, non loin de BKS. Sur la route Agoè-Adidogomé"
+      "name": "PHARMACIE LA GRÂCE",
+      "phone": "☎90 56 16 81",
+      "address": "Près de l'Auberge Sahara avant la Station SUN AGIP Agoè"
     },
     {
-      "name": "PHARMACIE APOU ANTOINE",
-      "phone": "☎7041 36 12",
-      "address": "Boulevard Lycée Agoè-Assiyéyé Face TOTAL Minamadou II"
+      "name": "PHARMACIE ST ESPRIT",
+      "phone": "☎70 40 29 06",
+      "address": "Sur la bretelle Agoè-Nyivé Kégué, Face au CEG Agoè-Est"
     },
     {
-      "name": "PHARMACIE LE ROCHER",
-      "phone": "☎92 30 06 56",
-      "address": "Agoè zongo, sur la route national NO l, près du terrain de jeu de golf"
+      "name": "PHARMACIE NOTRE DAME DE LOURDES",
+      "phone": "☎70 44 01 01",
+      "address": "Carrefour Maison Blanche en allant à \"Deux Lions\" en face de STAM"
     },
     {
-      "name": "PHARMACIE EL NOUR",
-      "phone": "☎97 79 93 74",
-      "address": "AGOE - Alinka non loin du CMS Togblekopé"
+      "name": "PHARMACIE ZONGO",
+      "phone": "☎70 49 96 55",
+      "address": "Togbléko ' carrefour Hermann entre Orabank et la station Sanol Togblékopé"
     },
     {
-      "name": "PHARMACIE ELEMAWUSSI",
-      "phone": "☎92 34 06 80",
-      "address": "Adétikopé, Médina, Nationale NO l, avant PIA (Plateforme Industrielle)"
+      "name": "PHARMACIE TAKOE",
+      "phone": "☎91 55 18 04",
+      "address": "Avant la station CAP ESSO de Zongo côté opposé"
     },
     {
-      "name": "PHARMACIE DENIS",
-      "phone": "☎93 08 46 40",
-      "address": "AGOE Kové, Carrefour Kpogli"
+      "name": "PHARMACIE REGINA PACIS",
+      "phone": "☎70 45 98 58",
+      "address": "ADETIKOPE, Rte National NO I près du bar Sous l'Antenne"
     },
     {
-      "name": "PHARMACIE SATIS",
-      "phone": "☎70 44 85 17",
-      "address": "Agoè-Logopé face CEG Agoè ynivé Ouest (Kossigan) sur la rue de 50m"
+      "name": "PHARMACIE ABRAHAM",
+      "phone": "☎22 50 10 00",
+      "address": "AGOE - Logopé Kossigan"
     },
     {
-      "name": "PHARMACIE EMMAÜS",
-      "phone": "☎70 40 25 40",
-      "address": "Sur la route de Mission Tové à côté du bar Solidarité"
+      "name": "PHARMACIE DIVINA GRACIA",
+      "phone": "☎93 83 91 00",
+      "address": "quartier Agoè-Fiovi Carrefour Bafana-Bafana"
     },
     {
-      "name": "PHARMACIE CHARITE",
-      "phone": "☎90 65 21 90",
-      "address": "A côté du CEG d'Agoè-Nyivé"
+      "name": "PHARMACIE LA MAIN DE DIEU",
+      "phone": "☎93 40 21 21",
+      "address": "AGOE ASSIYEYE non loin de l'église des Assemblées de Dieu (Temple Galilée)"
     },
     {
-      "name": "PHARMACIE GANFAT",
-      "phone": "☎7022 15 15",
-      "address": "AGOE DALIKO près du CarfEDEM CAMP GP"
+      "name": "PHARMACIE ALTA",
+      "phone": "☎70 08 46 46",
+      "address": "AGOE Anonkui Route Mission Tové en face du Centre Culturel Loyola"
     },
     {
-      "name": "PHARMACIE ZOPOMAHE",
-      "phone": "☎96 28 34 10",
-      "address": "ZOPOMAHE, sur la route Zossimé - Sanguera à côté de la salle des témoins de Jehovah"
+      "name": "PHARMACIE ZOSSIME",
+      "phone": "☎70 46 26 64",
+      "address": "AGOE - Zossimé, près du marché"
     },
     {
-      "name": "PHARMACIE EL-SALI",
-      "phone": "☎97 53 44 44",
-      "address": "Rte Lomé-Kpalimé, Aflao Apédokoè Gbomamé, à 50 m de la quaincaillerie MACO"
+      "name": "PHARMACIE ST PHILIPPE",
+      "phone": "☎90 67 33 24",
+      "address": "SANGUERA, Rte Lomé - Kpalimé près de la Station-service OANDO"
     },
     {
-      "name": "PHARMACIE MBA",
-      "phone": "☎70 27 8 1 8 1",
-      "address": "Agoè-Légbassito. Route de Mission Tové, 300 mètres après le marché de Légbassito"
+      "name": "PHARMACIE EVA",
+      "phone": "☎92 16 32 32",
+      "address": "SANGUERA, Klikamé, Non loin du T-OIL"
     },
     {
-      "name": "PHARMACIE BAGUIDA",
-      "phone": "☎70 42 47 77",
-      "address": "Face CMS de Baguida"
+      "name": "PHARMACIE A DIEU LA GLOIRE",
+      "phone": "☎93 26 36 00",
+      "address": "Marché de Légbassito, à côté de la Poste, sur le rand contournement"
     },
     {
-      "name": "PHARMACIE LA FLAMME DAMOUR",
-      "phone": "☎70 45 70 14",
-      "address": "Qt. Bobole kope / Kpogan Non Loin du cimétière Zogbedjimonou de Kpogan"
+      "name": "PHARMACIE DE L'EDEN",
+      "phone": "☎70 42 13 98",
+      "address": "Route d'Aného, face Cité Baguida"
     },
     {
-      "name": "PHARMACIE SAINTE MARIE",
-      "phone": "☎92 85 97 94",
-      "address": "DJAGBLE, Non loin du marché d'Avéta (Adja Adoté-kopé)"
+      "name": "PHARMACIE AVEPOZO",
+      "phone": "☎93 01 73 51",
+      "address": "AVEPOZO Be Kome à côté de la place publique 04 BP: 353 Lomé - To 0"
+    },
+    {
+      "name": "PHARMACIE LA PATIENCE",
+      "phone": "☎70 05 23 39",
+      "address": "DJAGBLE, A 300 mètres du CMS Afokléfé)"
     }
   ]
 }
