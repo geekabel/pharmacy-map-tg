@@ -32,4 +32,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update pharmacy data" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update pharmacy data" && git push https://${GITHUB_ACTOR}:${{ secrets.PAT }}@github.com/${GITHUB_REPOSITORY}.git)

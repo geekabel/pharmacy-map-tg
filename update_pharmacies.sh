@@ -11,6 +11,6 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "$SCRIPT_DIR"
 
 # Run the Python script to fetch and process pharmacy data
-python extract_table_data.py
+python3 extract_table_data.py
 
 echo "Pharmacy data update complete"
