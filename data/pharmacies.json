@@ -1,2946 +1,3367 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+  "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2023-06-19T16:43:00Z",
-    "timestamp_areas_base": "2023-06-11T03:07:17Z",
+    "timestamp_osm_base": "2024-10-14T10:08:29Z",
+    "timestamp_areas_base": "2024-10-09T00:21:11Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
-
-{
-  "type": "node",
-  "id": 1289272967,
-  "lat": 9.5475895,
-  "lon": 1.1945918,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Lafia"
-  }
-},
-{
-  "type": "node",
-  "id": 1289272973,
-  "lat": 9.5536476,
-  "lon": 1.1953894,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie Kara Centre"
-  }
-},
-{
-  "type": "node",
-  "id": 1291759392,
-  "lat": 9.5470340,
-  "lon": 1.1892523,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "pharmacie Espoir"
-  }
-},
-{
-  "type": "node",
-  "id": 1292992597,
-  "lat": 9.5496021,
-  "lon": 1.1896053,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie de la Kozah"
-  }
-},
-{
-  "type": "node",
-  "id": 1292999661,
-  "lat": 9.5525286,
-  "lon": 1.2041599,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "pharmacie Santé Plus",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 1293018788,
-  "lat": 9.5713034,
-  "lon": 1.1785344,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 1879805351,
-  "lat": 6.1755861,
-  "lon": 1.1809121,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie Bethel"
-  }
-},
-{
-  "type": "node",
-  "id": 2336544601,
-  "lat": 6.1698850,
-  "lon": 1.3453851,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Avépozo"
-  }
-},
-{
-  "type": "node",
-  "id": 2361977349,
-  "lat": 6.1805575,
-  "lon": 1.1952619,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "health": "medicine",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie de Djidjolé"
-  }
-},
-{
-  "type": "node",
-  "id": 2361977373,
-  "lat": 6.1823402,
-  "lon": 1.1983074,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Mathilda",
-    "opening_hours": "24/7",
-    "phone": "+228222511584"
-  }
-},
-{
-  "type": "node",
-  "id": 2407205577,
-  "lat": 7.0106438,
-  "lon": 0.6768623,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie",
-    "source": "Bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2435398465,
-  "lat": 6.2256655,
-  "lon": 1.2108244,
-  "tags": {
-    "addr:city": "Agouenyive",
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Agoè-Nyivé",
-    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-12:00",
-    "opening_hours:covid19": "same",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2514667734,
-  "lat": 6.2358935,
-  "lon": 1.1940329,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Emmaus",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2559806823,
-  "lat": 6.1922583,
-  "lon": 1.1910253,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie de la Nation",
-    "phone": "+22822259965",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2559924556,
-  "lat": 6.1966467,
-  "lon": 1.1867889,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie Solidarité"
-  }
-},
-{
-  "type": "node",
-  "id": 2594150726,
-  "lat": 6.1370596,
-  "lon": 1.2490261,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "pharmacie le Château",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2594206413,
-  "lat": 6.1333763,
-  "lon": 1.2464503,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Océane"
-  }
-},
-{
-  "type": "node",
-  "id": 2594350813,
-  "lat": 6.1300843,
-  "lon": 1.2394172,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie de l'OCAM"
-  }
-},
-{
-  "type": "node",
-  "id": 2594841900,
-  "lat": 6.1303450,
-  "lon": 1.2401711,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Vétérinaire Bon Berger",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2603626243,
-  "lat": 6.2195080,
-  "lon": 1.2091379,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "La Grace"
-  }
-},
-{
-  "type": "node",
-  "id": 2603657484,
-  "lat": 6.2176737,
-  "lon": 1.2035110,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Shalom",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2616937305,
-  "lat": 6.1797097,
-  "lon": 1.2387931,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "PAHARMACIE HEDRANAWOE",
-    "phone": "+22822264961",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2619670522,
-  "lat": 6.1816450,
-  "lon": 1.2349348,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie Chinoise",
-    "source": "Bing and survey",
-    "type": "Chinoise"
-  }
-},
-{
-  "type": "node",
-  "id": 2619686560,
-  "lat": 6.1830548,
-  "lon": 1.2354178,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie des Lilas",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2642979599,
-  "lat": 6.1201259,
-  "lon": 1.2049911,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie Emmanuel"
-  }
-},
-{
-  "type": "node",
-  "id": 2642979603,
-  "lat": 6.1216541,
-  "lon": 1.2093005,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie Kodjoviakopé",
-    "source": "bing,survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2663777467,
-  "lat": 6.1812949,
-  "lon": 1.1905973,
-  "tags": {
-    "addr:city": "Lomé",
-    "amenity": "pharmacy",
-    "name": "Pharmacie Du Point E",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 2700620321,
-  "lat": 6.2414010,
-  "lon": 1.2012058,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie Excellence",
-    "source": "survey;bing"
-  }
-},
-{
-  "type": "node",
-  "id": 2975752949,
-  "lat": 6.6067339,
-  "lon": 1.3961438,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "source": "Bing"
-  }
-},
-{
-  "type": "node",
-  "id": 2999565756,
-  "lat": 6.2404981,
-  "lon": 1.6235337,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie AZON-CONDJI",
-    "source": "bing; survey",
-    "source:date": "2014/08/05"
-  }
-},
-{
-  "type": "node",
-  "id": 2999707682,
-  "lat": 6.2373889,
-  "lon": 1.6125532,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie d'Aného Woezon",
-    "source": "bing;survey 2014",
-    "source:date": "2014/08/06"
-  }
-},
-{
-  "type": "node",
-  "id": 2999860544,
-  "lat": 6.2383358,
-  "lon": 1.6111053,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "TOGOPHARMA",
-    "source": "bing,survey",
-    "source:date": "2014/08/06"
-  }
-},
-{
-  "type": "node",
-  "id": 2999913763,
-  "lat": 6.2358875,
-  "lon": 1.6074398,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Amessiame",
-    "source": "biing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3003189592,
-  "lat": 6.2394862,
-  "lon": 1.6111160,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "PHARMACOPE",
-    "source": "Bing;survey",
-    "source:date": "2014/08/07"
-  }
-},
-{
-  "type": "node",
-  "id": 3022413769,
-  "lat": 6.1364687,
-  "lon": 1.2564935,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie DEO GRATIAS",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3022974970,
-  "lat": 6.1399624,
-  "lon": 1.2465171,
-  "tags": {
-    "addr:street": "Avenue Augustino De Souza",
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie Lebon Samaritain",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3101668850,
-  "lat": 6.1325182,
-  "lon": 1.2235165,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Saint Antoine",
-    "source": "bing,survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3101668851,
-  "lat": 6.1321132,
-  "lon": 1.2204839,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie des Etoies",
-    "source": "bing,survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3101668888,
-  "lat": 6.1355957,
-  "lon": 1.2131590,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie pour tous",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3101709857,
-  "lat": 6.1464736,
-  "lon": 1.2064164,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Cameg-Togo-vente des médicaments Genériques"
-  }
-},
-{
-  "type": "node",
-  "id": 3101709860,
-  "lat": 6.1471346,
-  "lon": 1.2069724,
-  "tags": {
-    "addr:housenumber": "291",
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "Pharmacie Justin",
-    "phone": "+22822210001",
-    "project:mappingforniger": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3121440804,
-  "lat": 6.9143542,
-  "lon": 0.6335291,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "La Perseverence",
-    "source": "Bing,survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3130230944,
-  "lat": 6.1576137,
-  "lon": 1.2560149,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "no",
-    "name": "K BINET pharmacie Chinoise",
-    "note": "massage,réeducation,acupuncture",
-    "source": "survey 2014"
-  }
-},
-{
-  "type": "node",
-  "id": 3188339527,
-  "lat": 6.1568116,
-  "lon": 1.2526204,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "La Misericorde",
-    "source": "Bing,survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3292288008,
-  "lat": 6.2113261,
-  "lon": 1.1771699,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie des Orchidées"
-  }
-},
-{
-  "type": "node",
-  "id": 3477341780,
-  "lat": 6.1850322,
-  "lon": 1.1662730,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Adidogomé",
-    "source": "Bing; Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3477726755,
-  "lat": 6.2004215,
-  "lon": 1.1488228,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie La Référence"
-  }
-},
-{
-  "type": "node",
-  "id": 3575063193,
-  "lat": 6.2158499,
-  "lon": 1.1723495,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Dieudonné",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575063194,
-  "lat": 6.2070435,
-  "lon": 1.1831321,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Laus Deo",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575063195,
-  "lat": 6.2013791,
-  "lon": 1.1882347,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Le Galien",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575063196,
-  "lat": 6.2068745,
-  "lon": 1.1896092,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Le Millenaire",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575063197,
-  "lat": 6.2167697,
-  "lon": 1.1887731,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Notre Dame de LOURDES",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575063198,
-  "lat": 6.2189200,
-  "lon": 1.1692354,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie des Roses",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575199600,
-  "lat": 6.1925569,
-  "lon": 1.1440521,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie ACTUELLE",
-    "source": "bing, survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575199602,
-  "lat": 6.2026328,
-  "lon": 1.1669399,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie APOLLON",
-    "source": "bing, survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575199603,
-  "lat": 6.1956179,
-  "lon": 1.1541753,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie BESDA",
-    "source": "bing, survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575199604,
-  "lat": 6.1711741,
-  "lon": 1.1900577,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie DE LA CITE",
-    "phone": "+22822250125",
-    "source": "bing, survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575199605,
-  "lat": 6.1920133,
-  "lon": 1.1583729,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie DES ECOLES",
-    "source": "bing, survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575199606,
-  "lat": 6.1805044,
-  "lon": 1.1634997,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie EPIPHANIA",
-    "source": "bing, survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575199607,
-  "lat": 6.1808077,
-  "lon": 1.1719240,
-  "tags": {
-    "amenity": "pharmacy",
-    "description": "Rez de chaussé",
-    "dispensing": "yes",
-    "name": "Pharmacie Eli-Beraca",
-    "source": "bing, survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575199609,
-  "lat": 6.2068325,
-  "lon": 1.1408981,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie SILOE",
-    "source": "bing, survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3575199610,
-  "lat": 6.1925919,
-  "lon": 1.1716493,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie VICTOIRE",
-    "source": "bing, survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3696899105,
-  "lat": 6.1290342,
-  "lon": 1.2243350,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Bon Pasteur",
-    "note": "Centre ville non loin du Séminaire et de la régie des Eaux",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3696899106,
-  "lat": 6.1283697,
-  "lon": 1.2297759,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie ST Raphaël",
-    "note": "Quartier du marché",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3696899107,
-  "lat": 6.1262755,
-  "lon": 1.2010750,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie d'ADJOLOLO",
-    "note": "Quartier Kodjoviakopé",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3697085154,
-  "lat": 6.1405020,
-  "lon": 1.2407825,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Tulipe",
-    "note": "Quartier Bè",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3697120587,
-  "lat": 6.1384911,
-  "lon": 1.2369590,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Kpehenou",
-    "note": "Quartier Bè",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3697120588,
-  "lat": 6.1361355,
-  "lon": 1.2280208,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie du Boulevard",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3697138209,
-  "lat": 6.1275889,
-  "lon": 1.2355771,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Jeanne d'Arc",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3733654340,
-  "lat": 6.2319049,
-  "lon": 1.2104777,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie ADONAI",
-    "source": "Bing;Survey",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3733654341,
-  "lat": 6.2240432,
-  "lon": 1.1927747,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie APOU ANTOINE",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3733654342,
-  "lat": 6.2078133,
-  "lon": 1.1952131,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie DELALI",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 3733654343,
-  "lat": 6.2138768,
-  "lon": 1.2083415,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie St Michel",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3733654344,
-  "lat": 6.2254357,
-  "lon": 1.2048486,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie la CHARITE",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3807059805,
-  "lat": 6.1535266,
-  "lon": 1.2171496,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie de la Libération"
-  }
-},
-{
-  "type": "node",
-  "id": 3807062436,
-  "lat": 6.1484430,
-  "lon": 1.2188809,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Sainte Marie"
-  }
-},
-{
-  "type": "node",
-  "id": 3811342292,
-  "lat": 6.2010778,
-  "lon": 1.1807802,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Ossan"
-  }
-},
-{
-  "type": "node",
-  "id": 3822301435,
-  "lat": 6.1571711,
-  "lon": 1.2020895,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Lumen"
-  }
-},
-{
-  "type": "node",
-  "id": 3822302627,
-  "lat": 6.1289734,
-  "lon": 1.2106287,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Horizon"
-  }
-},
-{
-  "type": "node",
-  "id": 3823454790,
-  "lat": 6.1594338,
-  "lon": 1.2056622,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie de Gbossime"
-  }
-},
-{
-  "type": "node",
-  "id": 3830066435,
-  "lat": 6.1371049,
-  "lon": 1.2487931,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3830071822,
-  "lat": 6.1528815,
-  "lon": 1.2295043,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "La Prospérité"
-  }
-},
-{
-  "type": "node",
-  "id": 3832447404,
-  "lat": 6.1616571,
-  "lon": 1.2099170,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "name": "Pharmacopé Zewuze",
-    "operator": "Medecine traditionnelle",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 3832449699,
-  "lat": 6.1598683,
-  "lon": 1.2146313,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 3838330325,
-  "lat": 6.1439701,
-  "lon": 1.2061066,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Avé Maria"
-  }
-},
-{
-  "type": "node",
-  "id": 3838330326,
-  "lat": 6.1629227,
-  "lon": 1.2133371,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie du Campus"
-  }
-},
-{
-  "type": "node",
-  "id": 3842353544,
-  "lat": 6.1351465,
-  "lon": 1.2319409,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie du Troisième Arrondissement"
-  }
-},
-{
-  "type": "node",
-  "id": 3879101315,
-  "lat": 6.1668171,
-  "lon": 1.3345793,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Verseau"
-  }
-},
-{
-  "type": "node",
-  "id": 3879101531,
-  "lat": 6.1612431,
-  "lon": 1.3157197,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie de l'Eden"
-  }
-},
-{
-  "type": "node",
-  "id": 3915305271,
-  "lat": 6.4607865,
-  "lon": 0.9085845,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dieu source de vie",
-    "operator": "Pharmacopé",
-    "source": "survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3915392857,
-  "lat": 6.4555075,
-  "lon": 0.9097333,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "depot de pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 3916710869,
-  "lat": 6.4486720,
-  "lon": 0.9068577,
-  "tags": {
-    "amenity": "pharmacy",
-    "description": "vente de produits traditionnels",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "name": "Dogopé-névaémé",
-    "source": "Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 3917431774,
-  "lat": 6.4477542,
-  "lon": 0.9156511,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacopé"
-  }
-},
-{
-  "type": "node",
-  "id": 3935743492,
-  "lat": 6.1520013,
-  "lon": 1.2621376,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie des Oliviers",
-    "phone": "+22822270434"
-  }
-},
-{
-  "type": "node",
-  "id": 3936144947,
-  "lat": 6.1519841,
-  "lon": 1.2621452,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie des Oliviers",
-    "opening_hours": "08:30-12:30,15:30-20:00",
-    "phone": "+228 2270434"
-  }
-},
-{
-  "type": "node",
-  "id": 4032781231,
-  "lat": 6.2016804,
-  "lon": 1.1811960,
-  "tags": {
-    "amenity": "pharmacy",
-    "description": "Pharmacie chinoise"
-  }
-},
-{
-  "type": "node",
-  "id": 4059800630,
-  "lat": 6.1435652,
-  "lon": 1.2442562,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Amessiamé"
-  }
-},
-{
-  "type": "node",
-  "id": 4059871246,
-  "lat": 6.1473654,
-  "lon": 1.2489847,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "CRYSTAL"
-  }
-},
-{
-  "type": "node",
-  "id": 4059891024,
-  "lat": 6.1529221,
-  "lon": 1.2450423,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "PHARMACIE MAWULE"
-  }
-},
-{
-  "type": "node",
-  "id": 4061676922,
-  "lat": 6.1468792,
-  "lon": 1.2439071,
-  "tags": {
-    "amenity": "pharmacy",
-    "description": "Médécine chinoise",
-    "name": "Pharmacie chinoise"
-  }
-},
-{
-  "type": "node",
-  "id": 4061776724,
-  "lat": 6.1501967,
-  "lon": 1.2544647,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Biova"
-  }
-},
-{
-  "type": "node",
-  "id": 4088793238,
-  "lat": 6.3337413,
-  "lon": 1.5286228,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépot Pharmaceutique OCAM Vogan"
-  }
-},
-{
-  "type": "node",
-  "id": 4088806705,
-  "lat": 6.3325250,
-  "lon": 1.5265736,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Arevis",
-    "phone": "+22891079097"
-  }
-},
-{
-  "type": "node",
-  "id": 4088806781,
-  "lat": 6.3375690,
-  "lon": 1.5258972,
-  "tags": {
-    "amenity": "pharmacy",
-    "contact:phone": "+22891816764",
-    "phone": "+22898717112"
-  }
-},
-{
-  "type": "node",
-  "id": 4089666447,
-  "lat": 6.3370291,
-  "lon": 1.5261408,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 4089666466,
-  "lat": 6.3413492,
-  "lon": 1.5246969,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 4089672469,
-  "lat": 6.3396218,
-  "lon": 1.5320761,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacopé SHANGAI"
-  }
-},
-{
-  "type": "node",
-  "id": 4089712913,
-  "lat": 6.3419979,
-  "lon": 1.5288685,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépot de pharmacie Dieu est capable"
-  }
-},
-{
-  "type": "node",
-  "id": 4183084111,
-  "lat": 8.9821271,
-  "lon": 1.1407194,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "ISSA Touré"
-  }
-},
-{
-  "type": "node",
-  "id": 4183094104,
-  "lat": 8.9867061,
-  "lon": 1.1361647,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "PHARMACIE NOUVELLE"
-  }
-},
-{
-  "type": "node",
-  "id": 4209505580,
-  "lat": 8.9871054,
-  "lon": 1.1396600,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "pharmacie tchaoudjo"
-  }
-},
-{
-  "type": "node",
-  "id": 4211076251,
-  "lat": 6.4286104,
-  "lon": 1.2129391,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie du Zio"
-  }
-},
-{
-  "type": "node",
-  "id": 4211076270,
-  "lat": 6.9506738,
-  "lon": 1.1726825,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie la Vie"
-  }
-},
-{
-  "type": "node",
-  "id": 4278222976,
-  "lat": 6.1397897,
-  "lon": 1.2284304,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Sainte Rita"
-  }
-},
-{
-  "type": "node",
-  "id": 4332726836,
-  "lat": 6.2329466,
-  "lon": 1.1889724,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Divina Gracia"
-  }
-},
-{
-  "type": "node",
-  "id": 4351625078,
-  "lat": 6.1701542,
-  "lon": 1.3258488,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Baguida"
-  }
-},
-{
-  "type": "node",
-  "id": 4360179130,
-  "lat": 10.8689228,
-  "lon": 0.2023346,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Le Savent",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 4360189316,
-  "lat": 10.8645119,
-  "lon": 0.2036139,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie le soleil",
-    "source": "bing;survey"
-  }
-},
-{
-  "type": "node",
-  "id": 4378473403,
-  "lat": 6.1793429,
-  "lon": 1.1508203,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "PHARMACIE MAGNIFICAT"
-  }
-},
-{
-  "type": "node",
-  "id": 4396253307,
-  "lat": 7.7646674,
-  "lon": 1.1928600,
-  "tags": {
-    "amenity": "pharmacy",
-    "brand": "Oando",
-    "healthcare": "pharmacy",
-    "name": "Dépôt Concordia Anié"
-  }
-},
-{
-  "type": "node",
-  "id": 4411494146,
-  "lat": 6.1822895,
-  "lon": 1.1856271,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacopée Mawuenyegan"
-  }
-},
-{
-  "type": "node",
-  "id": 4519141244,
-  "lat": 6.1913266,
-  "lon": 1.2083016,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "La Confiance"
-  }
-},
-{
-  "type": "node",
-  "id": 4521115196,
-  "lat": 6.2054890,
-  "lon": 1.2537564,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie CITRUS",
-    "name:fr": "Pharmacie CITRUS"
-  }
-},
-{
-  "type": "node",
-  "id": 4582705390,
-  "lat": 6.1438775,
-  "lon": 1.2122823,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Amo",
-    "name:fr": "Amo"
-  }
-},
-{
-  "type": "node",
-  "id": 4598747489,
-  "lat": 6.9070090,
-  "lon": 0.6340086,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 4598747589,
-  "lat": 6.8436144,
-  "lon": 0.7168619,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 4621005201,
-  "lat": 6.1791785,
-  "lon": 1.2127032,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Du CHU Campus",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 4686550668,
-  "lat": 6.2535502,
-  "lon": 1.1733470,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Mawunyo",
-    "source": "survey",
-    "source:date": "2017"
-  }
-},
-{
-  "type": "node",
-  "id": 4725626107,
-  "lat": 6.1767630,
-  "lon": 1.2051059,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Centre de santé commentaire de Be klikame"
-  }
-},
-{
-  "type": "node",
-  "id": 4740602032,
-  "lat": 6.4213608,
-  "lon": 1.2039912,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Centre Medico-Social Ste Elizabeth de Hongrie",
-    "operator": "Paroisse"
-  }
-},
-{
-  "type": "node",
-  "id": 4784163121,
-  "lat": 6.1945897,
-  "lon": 1.2539059,
-  "tags": {
-    "addr:street": "Boulevard du Sio",
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Raoudha",
-    "name:en": "Raoudha",
-    "name:fr": "Raoudha"
-  }
-},
-{
-  "type": "node",
-  "id": 4829693168,
-  "lat": 9.0263404,
-  "lon": 1.4245586,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 5007917386,
-  "lat": 6.1443390,
-  "lon": 1.2091479,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Hôpital",
-    "operator": "private",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
-  "id": 5018536923,
-  "lat": 6.2090184,
-  "lon": 1.1598501,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "PHARMACIE EL SHAMMAH",
-    "name:fr": "PHARMACIE EL SHAMMAH"
-  }
-},
-{
-  "type": "node",
-  "id": 5172737826,
-  "lat": 6.2220049,
-  "lon": 1.1653079,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Vita-Flore"
-  }
-},
-{
-  "type": "node",
-  "id": 5186081298,
-  "lat": 6.1813716,
-  "lon": 1.1907229,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie du point E"
-  }
-},
-{
-  "type": "node",
-  "id": 5186528900,
-  "lat": 6.1940704,
-  "lon": 1.1379555,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Hosanna",
-    "phone": "+22822515040"
-  }
-},
-{
-  "type": "node",
-  "id": 5186983583,
-  "lat": 6.1896245,
-  "lon": 1.1537508,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Bonté"
-  }
-},
-{
-  "type": "node",
-  "id": 5196042330,
-  "lat": 6.2346078,
-  "lon": 1.1753172,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Abraham"
-  }
-},
-{
-  "type": "node",
-  "id": 5198000481,
-  "lat": 6.1846287,
-  "lon": 1.2471451,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Notre-Dame",
-    "opening_hours": "Mo-Fr 07:30-20:00; Sa 07:30-13:00",
-    "phone": "+22822427404"
-  }
-},
-{
-  "type": "node",
-  "id": 5198070975,
-  "lat": 6.1689721,
-  "lon": 1.2458590,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie de l'aéroport"
-  }
-},
-{
-  "type": "node",
-  "id": 5244447222,
-  "lat": 6.1538483,
-  "lon": 1.2228235,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie de l'amitié",
-    "name:fr": "Pharmacie de l'amitié"
-  }
-},
-{
-  "type": "node",
-  "id": 5282110054,
-  "lat": 6.1461027,
-  "lon": 1.2663128,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie des Apotres"
-  }
-},
-{
-  "type": "node",
-  "id": 5295695701,
-  "lat": 9.0055260,
-  "lon": 1.1354786,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Idéale"
-  }
-},
-{
-  "type": "node",
-  "id": 5305020557,
-  "lat": 6.1531167,
-  "lon": 1.2674237,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Akodessewa"
-  }
-},
-{
-  "type": "node",
-  "id": 5305021821,
-  "lat": 6.1531223,
-  "lon": 1.2673825,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Akodessewa"
-  }
-},
-{
-  "type": "node",
-  "id": 5334026194,
-  "lat": 6.1639565,
-  "lon": 1.2684523,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie 2000"
-  }
-},
-{
-  "type": "node",
-  "id": 5343281121,
-  "lat": 6.2012618,
-  "lon": 1.1951491,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Lumière"
-  }
-},
-{
-  "type": "node",
-  "id": 5346849092,
-  "lat": 6.1694828,
-  "lon": 1.2031998,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie El-Shadai"
-  }
-},
-{
-  "type": "node",
-  "id": 5349077559,
-  "lat": 6.1515250,
-  "lon": 1.2388725,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie N.d Trinité"
-  }
-},
-{
-  "type": "node",
-  "id": 5383036014,
-  "lat": 6.1912270,
-  "lon": 1.2608280,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Klokpe"
-  }
-},
-{
-  "type": "node",
-  "id": 5485000662,
-  "lat": 6.1284905,
-  "lon": 1.2218713,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie du Centre"
-  }
-},
-{
-  "type": "node",
-  "id": 5488998753,
-  "lat": 6.1936831,
-  "lon": 1.1304653,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Conseil"
-  }
-},
-{
-  "type": "node",
-  "id": 5509045375,
-  "lat": 6.1588757,
-  "lon": 1.2382663,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie du peuple"
-  }
-},
-{
-  "type": "node",
-  "id": 5615940216,
-  "lat": 6.1679518,
-  "lon": 1.2754774,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Maëlys",
-    "phone": "+22823388075"
-  }
-},
-{
-  "type": "node",
-  "id": 5618515507,
-  "lat": 6.1693196,
-  "lon": 1.2259701,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie de la Paix"
-  }
-},
-{
-  "type": "node",
-  "id": 5649940422,
-  "lat": 6.1253793,
-  "lon": 1.2283295,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Populaire"
-  }
-},
-{
-  "type": "node",
-  "id": 5677844651,
-  "lat": 6.1784100,
-  "lon": 1.3299950,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Hygea"
-  }
-},
-{
-  "type": "node",
-  "id": 5731877904,
-  "lat": 6.1234164,
-  "lon": 1.2232593,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Bel Air"
-  }
-},
-{
-  "type": "node",
-  "id": 5817748844,
-  "lat": 6.4322507,
-  "lon": 1.2120263,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "name": "Faya Médecine"
-  }
-},
-{
-  "type": "node",
-  "id": 5836999269,
-  "lat": 6.4173323,
-  "lon": 1.2110811,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Believe"
-  }
-},
-{
-  "type": "node",
-  "id": 5837196373,
-  "lat": 6.4406553,
-  "lon": 1.2073842,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 5837258446,
-  "lat": 6.4324223,
-  "lon": 1.2240905,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "CAMEG Togo"
-  }
-},
-{
-  "type": "node",
-  "id": 5979120896,
-  "lat": 6.9060446,
-  "lon": 0.6409659,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "DEPOT DE PHARMARCIE TERMINUS"
-  }
-},
-{
-  "type": "node",
-  "id": 5981135503,
-  "lat": 6.9138083,
-  "lon": 0.6274569,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "CAMEG - TOGO",
-    "phone": "+22822222694",
-    "website": "https://www.cameg-togo.tg"
-  }
-},
-{
-  "type": "node",
-  "id": 5991278915,
-  "lat": 6.9130218,
-  "lon": 0.6364627,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "pharmacopée c'est par la grâce"
-  }
-},
-{
-  "type": "node",
-  "id": 6116159591,
-  "lat": 6.9098906,
-  "lon": 0.6317811,
-  "tags": {
-    "addr:city": "Kpalimé",
-    "addr:street": "Kpalimé - Atakpamé",
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "drive_through": "yes",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie LAVOISIE",
-    "payment:coins": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 6142814461,
-  "lat": 6.1827795,
-  "lon": 1.2144492,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "healthcare": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 6166537057,
-  "lat": 8.3267161,
-  "lon": 0.9853829,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie OWA",
-    "source": "Bing;Survey",
-    "source:date": "2018"
-  }
-},
-{
-  "type": "node",
-  "id": 6333370185,
-  "lat": 7.5323283,
-  "lon": 1.1260758,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "CAMEG Togo"
-  }
-},
-{
-  "type": "node",
-  "id": 6423669374,
-  "lat": 9.5608154,
-  "lon": 1.1918324,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie du Nouveau Marché"
-  }
-},
-{
-  "type": "node",
-  "id": 6544212585,
-  "lat": 8.9848022,
-  "lon": 1.1381896,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "CAMEG PRA Sokode"
-  }
-},
-{
-  "type": "node",
-  "id": 6572766832,
-  "lat": 6.1370338,
-  "lon": 1.2189602,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Pharmacie Hanoukopé"
-  }
-},
-{
-  "type": "node",
-  "id": 6583366258,
-  "lat": 9.5391272,
-  "lon": 1.1965106,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Renaissance"
-  }
-},
-{
-  "type": "node",
-  "id": 6806707307,
-  "lat": 6.1920094,
-  "lon": 1.1774504,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Maïna",
-    "phone": "+22870436534"
-  }
-},
-{
-  "type": "node",
-  "id": 6917401841,
-  "lat": 6.2333568,
-  "lon": 1.1489943,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Zossimé"
-  }
-},
-{
-  "type": "node",
-  "id": 7056571262,
-  "lat": 6.9062106,
-  "lon": 0.6416130,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Immaculée Conception/OCDI"
-  }
-},
-{
-  "type": "node",
-  "id": 7056594132,
-  "lat": 6.8999567,
-  "lon": 0.6351537,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt Pharmacie Espérance"
-  }
-},
-{
-  "type": "node",
-  "id": 7068579299,
-  "lat": 10.3534443,
-  "lon": 0.4701537,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie",
-    "source": "Maxar Standard;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 7068579446,
-  "lat": 10.3558388,
-  "lon": 0.4751895,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Lamoya",
-    "phone": "+22827777297"
-  }
-},
-{
-  "type": "node",
-  "id": 7072471209,
-  "lat": 10.3620679,
-  "lon": 0.4741435,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Santé Plus"
-  }
-},
-{
-  "type": "node",
-  "id": 7085676305,
-  "lat": 6.9060463,
-  "lon": 0.6411529,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Terminus"
-  }
-},
-{
-  "type": "node",
-  "id": 7087897457,
-  "lat": 6.9189874,
-  "lon": 0.6340893,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Kékéli"
-  }
-},
-{
-  "type": "node",
-  "id": 7124412355,
-  "lat": 6.1763793,
-  "lon": 1.3658529,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie la Flamme d'amour"
-  }
-},
-{
-  "type": "node",
-  "id": 7208051039,
-  "lat": 6.1734229,
-  "lon": 1.1697008,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie villageois"
-  }
-},
-{
-  "type": "node",
-  "id": 7791090987,
-  "lat": 6.2294278,
-  "lon": 1.2110093,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Vétérinaire et clinique",
-    "opening_hours": "Mo-Fr 08:00-18:00",
-    "phone": "+22890030375"
-  }
-},
-{
-  "type": "node",
-  "id": 8237972058,
-  "lat": 6.2374252,
-  "lon": 1.1628160,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Ganfat"
-  }
-},
-{
-  "type": "node",
-  "id": 8241405381,
-  "lat": 6.2182105,
-  "lon": 1.1828500,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Nabine"
-  }
-},
-{
-  "type": "node",
-  "id": 8335956758,
-  "lat": 6.1572745,
-  "lon": 1.2331672,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Isis"
-  }
-},
-{
-  "type": "node",
-  "id": 8350514758,
-  "lat": 9.6589584,
-  "lon": 1.3130456,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 8350534345,
-  "lat": 9.6653563,
-  "lon": 1.3133839,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Villageoise"
-  }
-},
-{
-  "type": "node",
-  "id": 8350540890,
-  "lat": 9.6578482,
-  "lon": 1.3080034,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt Pharmaceutique"
-  }
-},
-{
-  "type": "node",
-  "id": 8350540894,
-  "lat": 9.6597243,
-  "lon": 1.3058965,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Ropheka"
-  }
-},
-{
-  "type": "node",
-  "id": 8356812501,
-  "lat": 9.5639266,
-  "lon": 1.3247350,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dispensaire Ashifa de Sirka"
-  }
-},
-{
-  "type": "node",
-  "id": 8362853838,
-  "lat": 9.5963036,
-  "lon": 1.2380054,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Villageoise"
-  }
-},
-{
-  "type": "node",
-  "id": 8365529084,
-  "lat": 9.6572189,
-  "lon": 1.2137800,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dispensaire de Soumdina Haut"
-  }
-},
-{
-  "type": "node",
-  "id": 8365529093,
-  "lat": 9.6450706,
-  "lon": 1.2561147,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "USP Soumdina bas"
-  }
-},
-{
-  "type": "node",
-  "id": 8380323291,
-  "lat": 8.6583762,
-  "lon": 1.0190041,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 8426662993,
-  "lat": 6.2350270,
-  "lon": 1.2003304,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie La Main de Dieu"
-  }
-},
-{
-  "type": "node",
-  "id": 8429820017,
-  "lat": 6.3427514,
-  "lon": 1.1128147,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie Dieu nous aime"
-  }
-},
-{
-  "type": "node",
-  "id": 8445557979,
-  "lat": 9.7652487,
-  "lon": 1.1088954,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt pharmaceutique de Niamtougou"
-  }
-},
-{
-  "type": "node",
-  "id": 8514466137,
-  "lat": 6.1924973,
-  "lon": 1.1814503,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Bétania",
-    "phone": "+22822438940"
-  }
-},
-{
-  "type": "node",
-  "id": 8567008715,
-  "lat": 6.9309546,
-  "lon": 0.6575710,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 8570331519,
-  "lat": 6.4328421,
-  "lon": 0.9263840,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 8570340976,
-  "lat": 6.4475964,
-  "lon": 0.9157621,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 8755694733,
-  "lat": 6.1518801,
-  "lon": 1.2324318,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Saint Paul"
-  }
-},
-{
-  "type": "node",
-  "id": 8758656289,
-  "lat": 6.1772954,
-  "lon": 1.2051749,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Saint Joseph"
-  }
-},
-{
-  "type": "node",
-  "id": 8762539789,
-  "lat": 6.1597269,
-  "lon": 1.2261792,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie forever"
-  }
-},
-{
-  "type": "node",
-  "id": 8798036518,
-  "lat": 10.9128703,
-  "lon": 0.3098220,
-  "tags": {
-    "amenity": "pharmacy",
-    "healthcare": "pharmacy",
-    "name": "Dépôt de pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 8807980842,
-  "lat": 6.3201665,
-  "lon": 1.2234320,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "name": "Pharmacie Amen",
-    "operator": "private",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
-  "id": 8853935124,
-  "lat": 11.1087141,
-  "lon": 0.0130979,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Wend Barka"
-  }
-},
-{
-  "type": "node",
-  "id": 8853935135,
-  "lat": 11.1101163,
-  "lon": 0.0212002,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Lafe Zaka"
-  }
-},
-{
-  "type": "node",
-  "id": 8854644924,
-  "lat": 8.3438625,
-  "lon": 1.0088251,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Vétérinaire"
-  }
-},
-{
-  "type": "node",
-  "id": 8854644925,
-  "lat": 8.3436767,
-  "lon": 1.0086454,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 8855277054,
-  "lat": 6.3474060,
-  "lon": 1.5242216,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 8861036540,
-  "lat": 6.2605816,
-  "lon": 1.1631053,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie La Pharmacie Tulipe"
-  }
-},
-{
-  "type": "node",
-  "id": 9015122517,
-  "lat": 6.2021934,
-  "lon": 1.1731723,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Volontas Déï"
-  }
-},
-{
-  "type": "node",
-  "id": 9053482647,
-  "lat": 6.8888436,
-  "lon": 0.7697149,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 9053706203,
-  "lat": 8.6636145,
-  "lon": 1.0179278,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 9074160620,
-  "lat": 10.9775936,
-  "lon": 0.2250049,
-  "tags": {
-    "amenity": "pharmacy"
-  }
-},
-{
-  "type": "node",
-  "id": 9135427549,
-  "lat": 6.2554089,
-  "lon": 1.1436644,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépos de Pharmacopé"
-  }
-},
-{
-  "type": "node",
-  "id": 9263197018,
-  "lat": 8.2288769,
-  "lon": 1.1348750,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de Pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 9275291518,
-  "lat": 9.1185074,
-  "lon": 1.3287867,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Dépôt de Pharmacie"
-  }
-},
-{
-  "type": "node",
-  "id": 9287154979,
-  "lat": 6.2476092,
-  "lon": 1.1617103,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Denis"
-  }
-},
-{
-  "type": "node",
-  "id": 9811472586,
-  "lat": 6.1880631,
-  "lon": 1.1951751,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Groupe C",
-    "phone": "+22899982087"
-  }
-},
-{
-  "type": "node",
-  "id": 9823112712,
-  "lat": 6.1925922,
-  "lon": 1.2008110,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Vigeur"
-  }
-},
-{
-  "type": "node",
-  "id": 9830299503,
-  "lat": 6.1858972,
-  "lon": 1.2070966,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Verte"
-  }
-},
-{
-  "type": "node",
-  "id": 9833932856,
-  "lat": 6.1755522,
-  "lon": 1.1956804,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Jahnap"
-  }
-},
-{
-  "type": "node",
-  "id": 9906551875,
-  "lat": 6.2548621,
-  "lon": 1.1713337,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Mawunyo"
-  }
-},
-{
-  "type": "node",
-  "id": 10211676399,
-  "lat": 7.5301330,
-  "lon": 1.1244831,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie sainte famille"
-  }
-},
-{
-  "type": "node",
-  "id": 10248618409,
-  "lat": 6.1257122,
-  "lon": 1.2254930,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie du Grand Marché"
-  }
-},
-{
-  "type": "node",
-  "id": 10291301670,
-  "lat": 6.2853899,
-  "lon": 1.1416890,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie BAKOE",
-    "source": "Bing;Survey"
-  }
-},
-{
-  "type": "node",
-  "id": 10568015391,
-  "lat": 6.2531159,
-  "lon": 1.2085497,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmcie TAKOE"
-  }
-},
-{
-  "type": "node",
-  "id": 10616645848,
-  "lat": 6.2068776,
-  "lon": 1.2391657,
-  "tags": {
-    "amenity": "pharmacy",
-    "dispensing": "yes",
-    "healthcare": "pharmacy",
-    "name": "PHARMACIE DEO GRACIAS"
-  }
-},
-{
-  "type": "node",
-  "id": 10706542715,
-  "lat": 8.9869788,
-  "lon": 1.1398475,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie de tchodzo"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631072,
-  "lat": 6.2068923,
-  "lon": 1.2389625,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "Pharmacie Deo Gratias",
-    "phone": "+22896800893"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631073,
-  "lat": 6.1643794,
-  "lon": 1.2202836,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "St kizito",
-    "phone": "+22822219963"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631074,
-  "lat": 6.1535809,
-  "lon": 1.2225734,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "Pharmacie Amitié",
-    "phone": "+22822217447"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631075,
-  "lat": 6.1556219,
-  "lon": 1.2259235,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "Uniphart _eurapharma",
-    "phone": "+22822202510",
-    "source": "WNA Hb - Mia Tou Togo project"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631076,
-  "lat": 6.1691819,
-  "lon": 1.2259260,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "PHARMACIE La paix"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631077,
-  "lat": 6.1825881,
-  "lon": 1.2145868,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "Pharmacie UNIVERS-SANTÉ"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631078,
-  "lat": 6.1628842,
-  "lon": 1.2134211,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "Pharmacie Campus"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631079,
-  "lat": 6.1793105,
-  "lon": 1.2125855,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "Pharmacie CHU Campus",
-    "phone": "+22822254739"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631080,
-  "lat": 6.1860259,
-  "lon": 1.2070620,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "Pharmacie verte",
-    "phone": "+22822250326"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631081,
-  "lat": 6.1628620,
-  "lon": 1.2133812,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "Pharmacie Campus",
-    "phone": "+22822215632"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631082,
-  "lat": 6.1914338,
-  "lon": 1.2084422,
-  "tags": {
-    "addr:municipality": "Golfe 3",
-    "amenity": "pharmacy",
-    "name": "Pharmacie la confiance",
-    "phone": "+22822253932"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631083,
-  "lat": 7.5318945,
-  "lon": 1.1221815,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Pharmacie paniel"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631084,
-  "lat": 7.5394017,
-  "lon": 1.1485240,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie Assoce",
-    "source": "WNA Hb - Mia Tou Togo project"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631085,
-  "lat": 7.5300070,
-  "lon": 1.1243994,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Sainte famille"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631086,
-  "lat": 7.5153658,
-  "lon": 1.1505747,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Pharmacopée AGBENYEGAN",
-    "source": "WNA Hb - Mia Tou Togo project"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631087,
-  "lat": 7.5086091,
-  "lon": 1.1532279,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Pharmacie d'Agbonou"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631088,
-  "lat": 7.5327386,
-  "lon": 1.1262785,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Pharmacie CHR Atakpame"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631089,
-  "lat": 7.5086394,
-  "lon": 1.1531216,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Agbonou"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631090,
-  "lat": 7.5086727,
-  "lon": 1.1531598,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Pharmacie Agbonou"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631091,
-  "lat": 7.5170019,
-  "lon": 1.1497771,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Pharmacie du Grand plateau"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631092,
-  "lat": 7.5168671,
-  "lon": 1.1482009,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie d'agbonou",
-    "source": "WNA Hb - Mia Tou Togo project"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631093,
-  "lat": 7.5255714,
-  "lon": 1.1491744,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Pharmacie N'koko-Ewe"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631094,
-  "lat": 7.5255256,
-  "lon": 1.1492542,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Pharmacie Nko kowoé"
-  }
-},
-{
-  "type": "node",
-  "id": 10780631095,
-  "lat": 7.5377040,
-  "lon": 1.1511067,
-  "tags": {
-    "addr:municipality": "Ogou 1",
-    "amenity": "pharmacy",
-    "name": "Dépôt de pharmacie",
-    "source": "WNA Hb - Mia Tou Togo project"
-  }
-},
-{
-  "type": "node",
-  "id": 10781895553,
-  "lat": 6.2005233,
-  "lon": 1.2014823,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Enouli"
-  }
-},
-{
-  "type": "node",
-  "id": 10781958766,
-  "lat": 6.2129413,
-  "lon": 1.1338098,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie El-Nissi"
-  }
-},
-{
-  "type": "node",
-  "id": 10784895055,
-  "lat": 6.2240425,
-  "lon": 1.1922048,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie apou antoine"
-  }
-},
-{
-  "type": "node",
-  "id": 10798934984,
-  "lat": 6.2463084,
-  "lon": 1.2092832,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie le rocher"
-  }
-},
-{
-  "type": "node",
-  "id": 10800054774,
-  "lat": 6.2154223,
-  "lon": 1.2083881,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie saint Michel"
-  }
-},
-{
-  "type": "node",
-  "id": 10814097932,
-  "lat": 6.1779708,
-  "lon": 1.3753905,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie Principale"
-  }
-},
-{
-  "type": "node",
-  "id": 10979346479,
-  "lat": 6.1603547,
-  "lon": 1.2634107,
-  "tags": {
-    "amenity": "pharmacy",
-    "name": "Pharmacie de l'Union"
-  }
-}
-
+    {
+      "type": "node",
+      "id": 1289272967,
+      "lat": 9.5475895,
+      "lon": 1.1945918,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Lafia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1289272973,
+      "lat": 9.5536476,
+      "lon": 1.1953894,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie Kara Centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1291759392,
+      "lat": 9.547034,
+      "lon": 1.1892523,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "pharmacie Espoir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1292992597,
+      "lat": 9.5496021,
+      "lon": 1.1896053,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la Kozah"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1292999661,
+      "lat": 9.5525286,
+      "lon": 1.2041599,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "pharmacie Santé Plus",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1293018788,
+      "lat": 9.5713034,
+      "lon": 1.1785344,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1879805351,
+      "lat": 6.1755861,
+      "lon": 1.1809121,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie Bethel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2336544601,
+      "lat": 6.169885,
+      "lon": 1.3453851,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Avépozo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2361977349,
+      "lat": 6.1805575,
+      "lon": 1.1952619,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "health": "medicine",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de Djidjolé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2361977373,
+      "lat": 6.1825406,
+      "lon": 1.1999865,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mathilda",
+        "opening_hours": "24/7",
+        "phone": "+228222511584"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2407205577,
+      "lat": 7.0106438,
+      "lon": 0.6768623,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "source": "Bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2435398465,
+      "lat": 6.2256655,
+      "lon": 1.2108244,
+      "tags": {
+        "addr:city": "Agouenyive",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Agoè-Nyivé",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-12:00",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2514667734,
+      "lat": 6.2358935,
+      "lon": 1.1940329,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Emmaus",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559806823,
+      "lat": 6.1922583,
+      "lon": 1.1910253,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie de la Nation",
+        "phone": "+22822259965",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2559924556,
+      "lat": 6.1966467,
+      "lon": 1.1867889,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie Solidarité"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2594150726,
+      "lat": 6.1370596,
+      "lon": 1.2490261,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "pharmacie le Château",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2594206413,
+      "lat": 6.1333763,
+      "lon": 1.2464503,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Océane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2594350813,
+      "lat": 6.1300843,
+      "lon": 1.2394172,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de l'OCAM"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2594841900,
+      "lat": 6.130345,
+      "lon": 1.2401711,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Vétérinaire Bon Berger",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2603626243,
+      "lat": 6.219508,
+      "lon": 1.2091379,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "La Grace"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2603657484,
+      "lat": 6.2176737,
+      "lon": 1.203511,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Shalom",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2616937305,
+      "lat": 6.1797097,
+      "lon": 1.2387931,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "PAHARMACIE HEDRANAWOE",
+        "phone": "+22822264961",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2619670522,
+      "lat": 6.181645,
+      "lon": 1.2349348,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie Chinoise",
+        "source": "Bing and survey",
+        "type": "Chinoise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2619686560,
+      "lat": 6.1830548,
+      "lon": 1.2354178,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie des Lilas",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642979599,
+      "lat": 6.1201259,
+      "lon": 1.2049911,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie Emmanuel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2642979603,
+      "lat": 6.1216541,
+      "lon": 1.2093005,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie Kodjoviakopé",
+        "source": "bing,survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2663777467,
+      "lat": 6.1812949,
+      "lon": 1.1905973,
+      "tags": {
+        "addr:city": "Lomé",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Du Point E",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2700620321,
+      "lat": 6.241401,
+      "lon": 1.2012058,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie Excellence",
+        "source": "survey;bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2975752949,
+      "lat": 6.6067339,
+      "lon": 1.3961438,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2999565756,
+      "lat": 6.2404981,
+      "lon": 1.6235337,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie AZON-CONDJI",
+        "source": "bing; survey",
+        "source:date": "2014/08/05"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2999707682,
+      "lat": 6.2373889,
+      "lon": 1.6125532,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie d'Aného Woezon",
+        "source": "bing;survey 2014",
+        "source:date": "2014/08/06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2999860544,
+      "lat": 6.2383358,
+      "lon": 1.6111053,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "TOGOPHARMA",
+        "source": "bing,survey",
+        "source:date": "2014/08/06"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2999913763,
+      "lat": 6.2358875,
+      "lon": 1.6074398,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Amessiame",
+        "source": "biing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3003189592,
+      "lat": 6.2394862,
+      "lon": 1.611116,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "PHARMACOPE",
+        "source": "Bing;survey",
+        "source:date": "2014/08/07"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3022413769,
+      "lat": 6.1364687,
+      "lon": 1.2564935,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie DEO GRATIAS",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3022974970,
+      "lat": 6.1399624,
+      "lon": 1.2465171,
+      "tags": {
+        "addr:street": "Avenue Augustino De Souza",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie Lebon Samaritain",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3101668850,
+      "lat": 6.1325182,
+      "lon": 1.2235165,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Saint Antoine",
+        "source": "bing,survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3101668851,
+      "lat": 6.1321132,
+      "lon": 1.2204839,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie des Etoies",
+        "source": "bing,survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3101668888,
+      "lat": 6.1355957,
+      "lon": 1.213159,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie pour tous",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3101709857,
+      "lat": 6.1464736,
+      "lon": 1.2064164,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Cameg-Togo-vente des médicaments Genériques"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3101709860,
+      "lat": 6.1471346,
+      "lon": 1.2069724,
+      "tags": {
+        "addr:housenumber": "291",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Pharmacie Justin",
+        "phone": "+22822210001",
+        "project:mappingforniger": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3121440804,
+      "lat": 6.9143542,
+      "lon": 0.6335291,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "source": "Bing,survey",
+        "was:name": "La Perseverence"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3130230944,
+      "lat": 6.1576137,
+      "lon": 1.2560149,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "K BINET pharmacie Chinoise",
+        "note": "massage,réeducation,acupuncture",
+        "source": "survey 2014"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3188339527,
+      "lat": 6.1568116,
+      "lon": 1.2526204,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "La Misericorde",
+        "source": "Bing,survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3292288008,
+      "lat": 6.2113261,
+      "lon": 1.1771699,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie des Orchidées"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3477341780,
+      "lat": 6.1850322,
+      "lon": 1.166273,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Adidogomé",
+        "source": "Bing; Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3477726755,
+      "lat": 6.2004215,
+      "lon": 1.1488228,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie La Référence"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575063193,
+      "lat": 6.2158499,
+      "lon": 1.1723495,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Dieudonné",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575063194,
+      "lat": 6.2070435,
+      "lon": 1.1831321,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Laus Deo",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575063195,
+      "lat": 6.2013791,
+      "lon": 1.1882347,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Le Galien",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575063196,
+      "lat": 6.2068745,
+      "lon": 1.1896092,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Le Millenaire",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575063197,
+      "lat": 6.2167697,
+      "lon": 1.1887731,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Notre Dame de LOURDES",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575063198,
+      "lat": 6.2205598,
+      "lon": 1.1698952,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie des Roses",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575094634,
+      "lat": 6.1742719,
+      "lon": 1.1973457,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie JAHNAP"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575199600,
+      "lat": 6.1925569,
+      "lon": 1.1440521,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie ACTUELLE",
+        "source": "bing, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575199602,
+      "lat": 6.2026328,
+      "lon": 1.1669399,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie APOLLON",
+        "source": "bing, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575199603,
+      "lat": 6.1956179,
+      "lon": 1.1541753,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie BESDA",
+        "source": "bing, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575199604,
+      "lat": 6.1711741,
+      "lon": 1.1900577,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie DE LA CITE",
+        "phone": "+22822250125",
+        "source": "bing, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575199605,
+      "lat": 6.1920133,
+      "lon": 1.1583729,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie DES ECOLES",
+        "source": "bing, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575199606,
+      "lat": 6.1805044,
+      "lon": 1.1634997,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie EPIPHANIA",
+        "source": "bing, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575199607,
+      "lat": 6.1808077,
+      "lon": 1.171924,
+      "tags": {
+        "amenity": "pharmacy",
+        "description": "Rez de chaussé",
+        "dispensing": "yes",
+        "name": "Pharmacie Eli-Beraca",
+        "source": "bing, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575199609,
+      "lat": 6.2068325,
+      "lon": 1.1408981,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie SILOE",
+        "source": "bing, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3575199610,
+      "lat": 6.1925919,
+      "lon": 1.1716493,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie VICTOIRE",
+        "source": "bing, survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3696899105,
+      "lat": 6.1290342,
+      "lon": 1.224335,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Bon Pasteur",
+        "note": "Centre ville non loin du Séminaire et de la régie des Eaux",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3696899106,
+      "lat": 6.1283697,
+      "lon": 1.2297759,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie ST Raphaël",
+        "note": "Quartier du marché",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3696899107,
+      "lat": 6.1262755,
+      "lon": 1.201075,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie d'ADJOLOLO",
+        "note": "Quartier Kodjoviakopé",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3697085154,
+      "lat": 6.140502,
+      "lon": 1.2407825,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Tulipe",
+        "note": "Quartier Bè",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3697120587,
+      "lat": 6.1385238,
+      "lon": 1.2369409,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Kpehenou",
+        "note": "Quartier Bè",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3697120588,
+      "lat": 6.1361355,
+      "lon": 1.2280208,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie du Boulevard",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3697138209,
+      "lat": 6.1275889,
+      "lon": 1.2355771,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Jeanne d'Arc",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3733654340,
+      "lat": 6.2319049,
+      "lon": 1.2104777,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie ADONAI",
+        "source": "Bing;Survey",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3733654341,
+      "lat": 6.2240432,
+      "lon": 1.1927747,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie APOU ANTOINE",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3733654342,
+      "lat": 6.2078133,
+      "lon": 1.1952131,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie DELALI",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3733654343,
+      "lat": 6.2138768,
+      "lon": 1.2083415,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie St Michel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3733654344,
+      "lat": 6.2254357,
+      "lon": 1.2048486,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie la CHARITE",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3807059805,
+      "lat": 6.1535266,
+      "lon": 1.2171496,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la Libération"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3807062436,
+      "lat": 6.148443,
+      "lon": 1.2188809,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sainte Marie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3811342292,
+      "lat": 6.2010778,
+      "lon": 1.1807802,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Ossan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3822301435,
+      "lat": 6.1571711,
+      "lon": 1.2020895,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Lumen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3822302627,
+      "lat": 6.1289734,
+      "lon": 1.2106287,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Horizon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3823454790,
+      "lat": 6.1594338,
+      "lon": 1.2056622,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de Gbossime"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3830066435,
+      "lat": 6.1371049,
+      "lon": 1.2487931,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3830071822,
+      "lat": 6.1528815,
+      "lon": 1.2295043,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "La Prospérité"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3832447404,
+      "lat": 6.1616571,
+      "lon": 1.209917,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacopé Zewuze",
+        "operator": "Medecine traditionnelle",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3832449699,
+      "lat": 6.1598683,
+      "lon": 1.2146313,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3838330325,
+      "lat": 6.1439701,
+      "lon": 1.2061066,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Avé Maria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3838330326,
+      "lat": 6.1629227,
+      "lon": 1.2133371,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie du Campus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3842353544,
+      "lat": 6.1351465,
+      "lon": 1.2319409,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie du Troisième Arrondissement"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3879101315,
+      "lat": 6.1668171,
+      "lon": 1.3345793,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Verseau"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3879101531,
+      "lat": 6.1612431,
+      "lon": 1.3157197,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de l'Eden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3915305271,
+      "lat": 6.4607865,
+      "lon": 0.9085845,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dieu source de vie",
+        "operator": "Pharmacopé",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3915392857,
+      "lat": 6.4555075,
+      "lon": 0.9097333,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "depot de pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3916710869,
+      "lat": 6.448672,
+      "lon": 0.9068577,
+      "tags": {
+        "amenity": "pharmacy",
+        "description": "vente de produits traditionnels",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Dogopé-névaémé",
+        "source": "Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3917431774,
+      "lat": 6.4477542,
+      "lon": 0.9156511,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacopé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3935743492,
+      "lat": 6.1520013,
+      "lon": 1.2621376,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie des Oliviers",
+        "phone": "+22822270434"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3936144947,
+      "lat": 6.1519841,
+      "lon": 1.2621452,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie des Oliviers",
+        "opening_hours": "08:30-12:30,15:30-20:00",
+        "phone": "+228 2270434"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4032781231,
+      "lat": 6.2016804,
+      "lon": 1.181196,
+      "tags": {
+        "amenity": "pharmacy",
+        "description": "Pharmacie chinoise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4059800630,
+      "lat": 6.1435652,
+      "lon": 1.2442562,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Amessiamé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4059871246,
+      "lat": 6.1473654,
+      "lon": 1.2489847,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "CRYSTAL"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4059891024,
+      "lat": 6.1529221,
+      "lon": 1.2450423,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "PHARMACIE MAWULE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4061676922,
+      "lat": 6.1468792,
+      "lon": 1.2439071,
+      "tags": {
+        "amenity": "pharmacy",
+        "description": "Médécine chinoise",
+        "name": "Pharmacie chinoise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4061776724,
+      "lat": 6.1501967,
+      "lon": 1.2544647,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Biova"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4088793238,
+      "lat": 6.3337413,
+      "lon": 1.5286228,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépot Pharmaceutique OCAM Vogan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4088806705,
+      "lat": 6.332525,
+      "lon": 1.5265736,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Arevis",
+        "phone": "+22891079097"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4088806781,
+      "lat": 6.337569,
+      "lon": 1.5258972,
+      "tags": {
+        "amenity": "pharmacy",
+        "contact:phone": "+22891816764",
+        "phone": "+22898717112"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4089666447,
+      "lat": 6.3370291,
+      "lon": 1.5261408,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4089666466,
+      "lat": 6.3413492,
+      "lon": 1.5246969,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4089672469,
+      "lat": 6.3396218,
+      "lon": 1.5320761,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacopé SHANGAI"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4089712913,
+      "lat": 6.3419979,
+      "lon": 1.5288685,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépot de pharmacie Dieu est capable"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4183084111,
+      "lat": 8.9821271,
+      "lon": 1.1407194,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "ISSA Touré"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4183094104,
+      "lat": 8.9867061,
+      "lon": 1.1361647,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "PHARMACIE NOUVELLE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4209505580,
+      "lat": 8.9871054,
+      "lon": 1.13966,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "pharmacie tchaoudjo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4211076251,
+      "lat": 6.4286104,
+      "lon": 1.2129391,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Zio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4211076270,
+      "lat": 6.9506738,
+      "lon": 1.1726825,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie la Vie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4278222976,
+      "lat": 6.1397897,
+      "lon": 1.2284304,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sainte Rita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4332726836,
+      "lat": 6.2329466,
+      "lon": 1.1889724,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Divina Gracia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4351625078,
+      "lat": 6.1701542,
+      "lon": 1.3258488,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Baguida"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4360179130,
+      "lat": 10.8689228,
+      "lon": 0.2023346,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Le Savent",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4360189316,
+      "lat": 10.8645119,
+      "lon": 0.2036139,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie le soleil",
+        "source": "bing;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4378473403,
+      "lat": 6.1793429,
+      "lon": 1.1508203,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "PHARMACIE MAGNIFICAT"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4396253307,
+      "lat": 7.7646674,
+      "lon": 1.19286,
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Oando",
+        "healthcare": "pharmacy",
+        "name": "Dépôt Concordia Anié"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4411494146,
+      "lat": 6.1822895,
+      "lon": 1.1856271,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacopée Mawuenyegan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4519141244,
+      "lat": 6.1913266,
+      "lon": 1.2083016,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "La Confiance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4521115196,
+      "lat": 6.205489,
+      "lon": 1.2537564,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie CITRUS",
+        "name:fr": "Pharmacie CITRUS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4582705390,
+      "lat": 6.1438775,
+      "lon": 1.2122823,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Amo",
+        "name:fr": "Amo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4598747489,
+      "lat": 6.907009,
+      "lon": 0.6340086,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4598747589,
+      "lat": 6.8436144,
+      "lon": 0.7168619,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621005201,
+      "lat": 6.1791785,
+      "lon": 1.2127032,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Du CHU Campus",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4686550668,
+      "lat": 6.2535502,
+      "lon": 1.173347,
+      "tags": {
+        "addr:city": "Lomé",
+        "addr:housenumber": "70423464",
+        "addr:street": "Voix Express de la CEDEAO",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Mawunyo",
+        "source": "survey",
+        "source:date": "2017"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4725626107,
+      "lat": 6.176763,
+      "lon": 1.2051059,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Centre de santé commentaire de Be klikame"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4740602032,
+      "lat": 6.4213608,
+      "lon": 1.2039912,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Centre Medico-Social Ste Elizabeth de Hongrie",
+        "operator": "Paroisse"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4784163121,
+      "lat": 6.1945897,
+      "lon": 1.2539059,
+      "tags": {
+        "addr:street": "Boulevard du Sio",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Raoudha",
+        "name:en": "Raoudha",
+        "name:fr": "Raoudha"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4829693168,
+      "lat": 9.0263404,
+      "lon": 1.4245586,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5007917386,
+      "lat": 6.144339,
+      "lon": 1.2091479,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Hôpital",
+        "operator": "private",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5018536923,
+      "lat": 6.2090184,
+      "lon": 1.1598501,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "PHARMACIE EL SHAMMAH",
+        "name:fr": "PHARMACIE EL SHAMMAH"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5172737826,
+      "lat": 6.2220049,
+      "lon": 1.1653079,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Vita-Flore"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5186081298,
+      "lat": 6.1813716,
+      "lon": 1.1907229,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie du point E"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5186528900,
+      "lat": 6.1940704,
+      "lon": 1.1379555,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Hosanna",
+        "phone": "+22822515040"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5186983583,
+      "lat": 6.1896245,
+      "lon": 1.1537508,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Bonté"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5196042330,
+      "lat": 6.2346078,
+      "lon": 1.1753172,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Abraham"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5198000481,
+      "lat": 6.1846287,
+      "lon": 1.2471451,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Notre-Dame",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 07:30-13:00",
+        "phone": "+22822427404"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5198070975,
+      "lat": 6.1689721,
+      "lon": 1.245859,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie de l'aéroport"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5244447222,
+      "lat": 6.1538483,
+      "lon": 1.2228235,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie de l'amitié",
+        "name:fr": "Pharmacie de l'amitié"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5282110054,
+      "lat": 6.1461027,
+      "lon": 1.2663128,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie des Apotres"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5295695701,
+      "lat": 9.005526,
+      "lon": 1.1354786,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Idéale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5305020557,
+      "lat": 6.1531167,
+      "lon": 1.2674237,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Akodessewa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5305021821,
+      "lat": 6.1531223,
+      "lon": 1.2673825,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Akodessewa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5334026194,
+      "lat": 6.1639565,
+      "lon": 1.2684523,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie 2000"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5343281121,
+      "lat": 6.2012618,
+      "lon": 1.1951491,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Lumière"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5346849092,
+      "lat": 6.1694828,
+      "lon": 1.2031998,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie El-Shadai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349077559,
+      "lat": 6.151525,
+      "lon": 1.2388725,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie N.d Trinité"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5383036014,
+      "lat": 6.191227,
+      "lon": 1.260828,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Klokpe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5485000662,
+      "lat": 6.1284905,
+      "lon": 1.2218713,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5488998753,
+      "lat": 6.1936831,
+      "lon": 1.1304653,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Conseil"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5509045375,
+      "lat": 6.1588757,
+      "lon": 1.2382663,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie du peuple"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5615940216,
+      "lat": 6.1679518,
+      "lon": 1.2754774,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Maëlys",
+        "phone": "+22823388075"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5618515507,
+      "lat": 6.1693196,
+      "lon": 1.2259701,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la Paix"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5649940422,
+      "lat": 6.1253793,
+      "lon": 1.2283295,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Populaire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5677844651,
+      "lat": 6.17841,
+      "lon": 1.329995,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Hygea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5731877904,
+      "lat": 6.1234164,
+      "lon": 1.2232593,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Bel Air"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5817748844,
+      "lat": 6.4322507,
+      "lon": 1.2120263,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Faya Médecine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5836999269,
+      "lat": 6.4173323,
+      "lon": 1.2110811,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Believe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5837196373,
+      "lat": 6.4406553,
+      "lon": 1.2073842,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5837258446,
+      "lat": 6.4324223,
+      "lon": 1.2240905,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "CAMEG Togo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5979120896,
+      "lat": 6.9060446,
+      "lon": 0.6409659,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "DEPOT DE PHARMARCIE TERMINUS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5981135503,
+      "lat": 6.9138083,
+      "lon": 0.6274569,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "CAMEG - TOGO",
+        "phone": "+22822222694",
+        "website": "https://www.cameg-togo.tg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5991278915,
+      "lat": 6.9130218,
+      "lon": 0.6364627,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "pharmacopée c'est par la grâce"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6116159591,
+      "lat": 6.9098906,
+      "lon": 0.6317811,
+      "tags": {
+        "addr:city": "Kpalimé",
+        "addr:street": "Kpalimé - Atakpamé",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie LAVOISIE",
+        "payment:coins": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6142814461,
+      "lat": 6.1827795,
+      "lon": 1.2144492,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6166537057,
+      "lat": 8.3267161,
+      "lon": 0.9853829,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie OWA",
+        "source": "Bing;Survey",
+        "source:date": "2018"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6333370185,
+      "lat": 7.5323283,
+      "lon": 1.1260758,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "CAMEG Togo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6423669374,
+      "lat": 9.5608154,
+      "lon": 1.1918324,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Nouveau Marché"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6544212585,
+      "lat": 8.9848022,
+      "lon": 1.1381896,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "CAMEG PRA Sokode"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6572766832,
+      "lat": 6.1370338,
+      "lon": 1.2189602,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Hanoukopé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6583366258,
+      "lat": 9.5391272,
+      "lon": 1.1965106,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Renaissance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6806707307,
+      "lat": 6.1920094,
+      "lon": 1.1774504,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Maïna",
+        "phone": "+22870436534"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6917401841,
+      "lat": 6.2333568,
+      "lon": 1.1489943,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Zossimé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7056571262,
+      "lat": 6.9062106,
+      "lon": 0.641613,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Immaculée Conception/OCDI"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7056594132,
+      "lat": 6.8999567,
+      "lon": 0.6351537,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt Pharmacie Espérance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7068579299,
+      "lat": 10.3534443,
+      "lon": 0.4701537,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie",
+        "source": "Maxar Standard;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7068579446,
+      "lat": 10.3558388,
+      "lon": 0.4751895,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Lamoya",
+        "phone": "+22827777297"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7072471209,
+      "lat": 10.3620679,
+      "lon": 0.4741435,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Santé Plus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7085676305,
+      "lat": 6.9060463,
+      "lon": 0.6411529,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Terminus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7087897457,
+      "lat": 6.9189874,
+      "lon": 0.6340893,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Kékéli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7124412355,
+      "lat": 6.1763793,
+      "lon": 1.3658529,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie la Flamme d'amour"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7208051039,
+      "lat": 6.1734229,
+      "lon": 1.1697008,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie villageois"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7540836204,
+      "lat": 6.1824402,
+      "lon": 1.1996998,
+      "tags": {
+        "amenity": "pharmacy",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pharmacie Mathilda",
+        "operator": "SOTRAL",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "Sotral;survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7791090987,
+      "lat": 6.2294278,
+      "lon": 1.2110093,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Vétérinaire et clinique la référence",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "+22890030375"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8237972058,
+      "lat": 6.2374252,
+      "lon": 1.162816,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Ganfat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8241405381,
+      "lat": 6.2182105,
+      "lon": 1.18285,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Nabine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8335956758,
+      "lat": 6.1572745,
+      "lon": 1.2331672,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Isis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8350514758,
+      "lat": 9.6589584,
+      "lon": 1.3130456,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8350534345,
+      "lat": 9.6653563,
+      "lon": 1.3133839,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Villageoise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8350540890,
+      "lat": 9.6578482,
+      "lon": 1.3080034,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt Pharmaceutique"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8350540894,
+      "lat": 9.6597243,
+      "lon": 1.3058965,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Ropheka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8356812501,
+      "lat": 9.5639266,
+      "lon": 1.324735,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dispensaire Ashifa de Sirka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8362853838,
+      "lat": 9.5963036,
+      "lon": 1.2380054,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Villageoise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8365529084,
+      "lat": 9.6572189,
+      "lon": 1.21378,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dispensaire de Soumdina Haut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8365529093,
+      "lat": 9.6450706,
+      "lon": 1.2561147,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "USP Soumdina bas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8380323291,
+      "lat": 8.6583762,
+      "lon": 1.0190041,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dépôt de pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8426662993,
+      "lat": 6.235027,
+      "lon": 1.2003304,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie La Main de Dieu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8429820017,
+      "lat": 6.3427514,
+      "lon": 1.1128147,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie Dieu nous aime"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8445557979,
+      "lat": 9.7652487,
+      "lon": 1.1088954,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt pharmaceutique de Niamtougou"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8514466137,
+      "lat": 6.1924973,
+      "lon": 1.1814503,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Bétania",
+        "phone": "+22822438940"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8567008715,
+      "lat": 6.9309546,
+      "lon": 0.657571,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8570331519,
+      "lat": 6.4328421,
+      "lon": 0.926384,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8570340976,
+      "lat": 6.4475964,
+      "lon": 0.9157621,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8755694733,
+      "lat": 6.1518801,
+      "lon": 1.2324318,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Saint Paul"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8755714632,
+      "lat": 6.1606822,
+      "lon": 1.2338052,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la Providence"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8758656289,
+      "lat": 6.1772954,
+      "lon": 1.2051749,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Saint Joseph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8762539789,
+      "lat": 6.1597269,
+      "lon": 1.2261792,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie forever"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8798036518,
+      "lat": 10.9128703,
+      "lon": 0.309822,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dépôt de pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8807980842,
+      "lat": 6.3201665,
+      "lon": 1.223432,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Amen",
+        "operator": "private",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8853935124,
+      "lat": 11.1087141,
+      "lon": 0.0130979,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Wend Barka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8853935135,
+      "lat": 11.1101163,
+      "lon": 0.0212002,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Lafe Zaka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8854644924,
+      "lat": 8.3438625,
+      "lon": 1.0088251,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Vétérinaire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8854644925,
+      "lat": 8.3436767,
+      "lon": 1.0086454,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8855277054,
+      "lat": 6.347406,
+      "lon": 1.5242216,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8861036540,
+      "lat": 6.2605816,
+      "lon": 1.1631053,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie La Pharmacie Tulipe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9015122517,
+      "lat": 6.2021934,
+      "lon": 1.1731723,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Volontas Déï"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9053482647,
+      "lat": 6.8888436,
+      "lon": 0.7697149,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9053706203,
+      "lat": 8.6636145,
+      "lon": 1.0179278,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dépôt de pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9074160620,
+      "lat": 10.9775936,
+      "lon": 0.2250049,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9135427549,
+      "lat": 6.2554089,
+      "lon": 1.1436644,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépos de Pharmacopé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9263197018,
+      "lat": 8.2288769,
+      "lon": 1.134875,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de Pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9275291518,
+      "lat": 9.1185074,
+      "lon": 1.3287867,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de Pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9287154979,
+      "lat": 6.2476092,
+      "lon": 1.1617103,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Denis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9811472586,
+      "lat": 6.1880631,
+      "lon": 1.1951751,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Groupe C",
+        "phone": "+22899982087"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9823112712,
+      "lat": 6.1925922,
+      "lon": 1.200811,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Vigueur"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9830299503,
+      "lat": 6.1858972,
+      "lon": 1.2070966,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Verte"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9833932856,
+      "lat": 6.1754534,
+      "lon": 1.1978604,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Jahnap"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9906551875,
+      "lat": 6.2548621,
+      "lon": 1.1713337,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Mawunyo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10211676399,
+      "lat": 7.530133,
+      "lon": 1.1244831,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie sainte famille"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10248618409,
+      "lat": 6.1257122,
+      "lon": 1.225493,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Grand Marché"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10291301670,
+      "lat": 6.2853899,
+      "lon": 1.141689,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie BAKOE",
+        "source": "Bing;Survey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10568015391,
+      "lat": 6.2531159,
+      "lon": 1.2085497,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmcie TAKOE"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10616645848,
+      "lat": 6.2068776,
+      "lon": 1.2391657,
+      "tags": {
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "PHARMACIE DEO GRACIAS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10706542715,
+      "lat": 8.9869788,
+      "lon": 1.1398475,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie de tchodzo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631072,
+      "lat": 6.2068923,
+      "lon": 1.2389625,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Deo Gratias",
+        "phone": "+22896800893"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631073,
+      "lat": 6.1643794,
+      "lon": 1.2202836,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "St kizito",
+        "phone": "+22822219963"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631074,
+      "lat": 6.1535809,
+      "lon": 1.2225734,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Amitié",
+        "phone": "+22822217447"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631075,
+      "lat": 6.1556219,
+      "lon": 1.2259235,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "Uniphart _eurapharma",
+        "phone": "+22822202510",
+        "source": "WNA Hb - Mia Tou Togo project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631076,
+      "lat": 6.1691819,
+      "lon": 1.225926,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "PHARMACIE La paix"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631077,
+      "lat": 6.1825881,
+      "lon": 1.2145868,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "Pharmacie UNIVERS-SANTÉ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631078,
+      "lat": 6.1628842,
+      "lon": 1.2134211,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Campus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631079,
+      "lat": 6.1793105,
+      "lon": 1.2125855,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "Pharmacie CHU Campus",
+        "phone": "+22822254739"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631080,
+      "lat": 6.1860259,
+      "lon": 1.207062,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "Pharmacie verte",
+        "phone": "+22822250326"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631081,
+      "lat": 6.162862,
+      "lon": 1.2133812,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Campus",
+        "phone": "+22822215632"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631082,
+      "lat": 6.1914338,
+      "lon": 1.2084422,
+      "tags": {
+        "addr:municipality": "Golfe 3",
+        "amenity": "pharmacy",
+        "name": "Pharmacie la confiance",
+        "phone": "+22822253932"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631083,
+      "lat": 7.5318945,
+      "lon": 1.1221815,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Pharmacie paniel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631084,
+      "lat": 7.5394017,
+      "lon": 1.148524,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie Assoce",
+        "source": "WNA Hb - Mia Tou Togo project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631085,
+      "lat": 7.530007,
+      "lon": 1.1243994,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Sainte famille"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631086,
+      "lat": 7.5153658,
+      "lon": 1.1505747,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Pharmacopée AGBENYEGAN",
+        "source": "WNA Hb - Mia Tou Togo project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631088,
+      "lat": 7.5327386,
+      "lon": 1.1262785,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Pharmacie CHR Atakpame"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631090,
+      "lat": 7.5086727,
+      "lon": 1.1531598,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Agbonou"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631091,
+      "lat": 7.5170019,
+      "lon": 1.1497771,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Grand plateau"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631092,
+      "lat": 7.5168671,
+      "lon": 1.1482009,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie d'agbonou",
+        "source": "WNA Hb - Mia Tou Togo project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631093,
+      "lat": 7.5255714,
+      "lon": 1.1491744,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Pharmacie N'koko-Ewe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631094,
+      "lat": 7.5255256,
+      "lon": 1.1492542,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Nko kowoé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10780631095,
+      "lat": 7.537704,
+      "lon": 1.1511067,
+      "tags": {
+        "addr:municipality": "Ogou 1",
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie",
+        "source": "WNA Hb - Mia Tou Togo project"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10781895553,
+      "lat": 6.2005233,
+      "lon": 1.2014823,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Enouli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10781958766,
+      "lat": 6.2129413,
+      "lon": 1.1338098,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie El-Nissi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10784895055,
+      "lat": 6.2240425,
+      "lon": 1.1922048,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie apou antoine"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10798934984,
+      "lat": 6.2463084,
+      "lon": 1.2092832,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie le rocher"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10800054774,
+      "lat": 6.2154223,
+      "lon": 1.2083881,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie saint Michel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10814097932,
+      "lat": 6.1779708,
+      "lon": 1.3753905,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Principale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10979346479,
+      "lat": 6.1603547,
+      "lon": 1.2634107,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de l'Union"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10990390627,
+      "lat": 6.2028574,
+      "lon": 1.1612956,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Iris Pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11057289008,
+      "lat": 6.1423425,
+      "lon": 1.2298252,
+      "tags": {
+        "addr:street": "AVENUE MAMAN N' DANIDA, DOULASSAME",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Vétérinaire PROVET"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11057297887,
+      "lat": 6.1431179,
+      "lon": 1.2298554,
+      "tags": {
+        "addr:street": "Avenue Maman N'DANIDA, DOULASSAME",
+        "amenity": "pharmacy",
+        "name": "Pharmacie AKOFA"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11057341345,
+      "lat": 6.1822585,
+      "lon": 1.2551459,
+      "tags": {
+        "addr:street": "Rue de la foire, Hedzranawoé",
+        "amenity": "pharmacy",
+        "description": "allopathie\northopédie\ndiététique et nutrition\ncomplément alimentaire\nphysiothérapie\nvétérinaire",
+        "name": "Pharmacie Notre dame"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11076395767,
+      "lat": 9.5589911,
+      "lon": 1.2120948,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Reconfort"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11096900405,
+      "lat": 6.3868726,
+      "lon": 1.4806532,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11151920553,
+      "lat": 6.1676831,
+      "lon": 1.2319287,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie le Jourdain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11159571178,
+      "lat": 6.1889722,
+      "lon": 1.2720809,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie la ruche",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa, Su 07:00-13:00",
+        "phone": "91430404"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11177213057,
+      "lat": 6.1662742,
+      "lon": 1.2665629,
+      "tags": {
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Fidélia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11200515094,
+      "lat": 6.1677103,
+      "lon": 1.2319145,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie le Jourdain"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11215619557,
+      "lat": 6.1663785,
+      "lon": 1.2665691,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Fidélia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11234551198,
+      "lat": 6.9502358,
+      "lon": 1.1702664,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Christ Roi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11240617619,
+      "lat": 6.1534769,
+      "lon": 1.2036048,
+      "tags": {
+        "amenity": "pharmacy",
+        "description": "Dr. Abina 038NPT",
+        "name": "Pharmacie Bon Secours",
+        "phone": "+22870457674"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11244563410,
+      "lat": 6.1293615,
+      "lon": 1.227606,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Vitale"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11262635115,
+      "lat": 6.1956832,
+      "lon": 1.2463408,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie saint pierre",
+        "phone": "70432637"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11262676776,
+      "lat": 6.1955673,
+      "lon": 1.2390746,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie APOTHEKA",
+        "phone": "+28822615757"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11262983571,
+      "lat": 6.2034712,
+      "lon": 1.2418582,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Kouessan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11274571568,
+      "lat": 6.3219628,
+      "lon": 1.2176996,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie assurance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11274605977,
+      "lat": 6.3191268,
+      "lon": 1.2171957,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Régina Pacis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11274666479,
+      "lat": 6.3291033,
+      "lon": 1.2186433,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Elemawussi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11291159375,
+      "lat": 6.131458,
+      "lon": 1.214806,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la Mairie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11296373634,
+      "lat": 6.213282,
+      "lon": 1.1887839,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Notre dame de Lourdes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11337725657,
+      "lat": 7.5318831,
+      "lon": 1.1221045,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Peniel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11337980624,
+      "lat": 6.1310293,
+      "lon": 1.2273383,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie la santé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11417819083,
+      "lat": 6.1710665,
+      "lon": 1.2347833,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie gbeze"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11433114350,
+      "lat": 6.2458357,
+      "lon": 1.1144944,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Eva"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11446003668,
+      "lat": 6.1313375,
+      "lon": 1.2275772,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Santé"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11449744680,
+      "lat": 6.9507173,
+      "lon": 1.1736966,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Togo pharma Notsè"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11455332149,
+      "lat": 6.9504731,
+      "lon": 1.1715465,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacopée yayra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11680167565,
+      "lat": 6.4745789,
+      "lon": 1.568935,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de pharmacie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11772375908,
+      "lat": 7.7674968,
+      "lon": 1.1929274,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Zénith"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11879196497,
+      "lat": 6.3352472,
+      "lon": 1.5291508,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11879211216,
+      "lat": 6.2604617,
+      "lon": 1.2840564,
+      "tags": {
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11879213186,
+      "lat": 6.1471583,
+      "lon": 1.2034767,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Source de Vie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12059948222,
+      "lat": 7.1339883,
+      "lon": 0.7317874,
+      "tags": {
+        "addr:street": "N5 Kpalimé-Atakpamé",
+        "amenity": "pharmacy",
+        "name": "Pharmacie la santé plus proche"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12060679761,
+      "lat": 7.1283177,
+      "lon": 0.7277636,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Dépôt de Pharmacie la Gloire"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12089542358,
+      "lat": 6.915694,
+      "lon": 0.6337259,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie la persévérance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12114101436,
+      "lat": 7.5738129,
+      "lon": 0.6764977,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Saint Michel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12117125964,
+      "lat": 6.2143127,
+      "lon": 1.1121838,
+      "tags": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie Nellys",
+        "phone": "99909080"
+      }
+    }
   ]
 }
