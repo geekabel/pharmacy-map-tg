@@ -41,4 +41,4 @@ def extract_pharmacy_names(url, json_filename):
 url = 'https://www.inam.tg/pharmacies-de-garde/'
 json_filename = 'data/pharmacy_names.json'
 pharmacy_names = extract_pharmacy_names(url, json_filename)
-print(pharmacy_names)
+print(json.dumps(pharmacy_names[0], indent=2, ensure_ascii=False))
