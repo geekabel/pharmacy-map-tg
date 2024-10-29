@@ -2,18 +2,20 @@ name: Weekly Pharmacy Update
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Run every Sunday at midnight UTC
+    - cron: '0 3 * * 1'  # Run every Sunday at midnight UTC
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
   update-pharmacy-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Add explicit permissions
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
@@ -28,8 +30,10 @@ jobs:
           ./update_pharmacies.sh
 
       - name: Commit and push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update pharmacy data" && git push https://${GITHUB_ACTOR}:${{ secrets.PAT }}@github.com/${GITHUB_REPOSITORY}.git)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update pharmacy data" && git push)
