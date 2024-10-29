@@ -26,7 +26,6 @@ def extract_pharmacy_names(url, json_filename):
             telephone = row.find_all('td')[1].text.strip()
             address = row.find_all('td')[2].text.strip()
             pharmacy_names.append({"name": pharmacy_name,"phone": telephone,"address": address})
-            print(" Name" + ' ' +  pharmacy_name)
 
         with open(json_filename, 'w', encoding='utf-8') as file:
             json.dump(pharmacy_names, file, indent=2,ensure_ascii=False)
