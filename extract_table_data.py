@@ -21,11 +21,14 @@ def extract_pharmacy_names(url, json_filename):
         pharmacy_names = []
         for row in table.find_all('tr')[1:]:
             pharmacy_name = row.find_all('td')[0].text.strip()
+            if pharmacy_name.startswith("PHARMACIES"):
+                pharmacy_name = "PHARMACIE" + pharmacy_name[10:]
             telephone = row.find_all('td')[1].text.strip()
             address = row.find_all('td')[2].text.strip()
             pharmacy_names.append({"name": pharmacy_name,"phone": telephone,"address": address})
+            print(" Name" + ' ' +  pharmacy_name)
 
-        with open(json_filename, 'w') as file:
+        with open(json_filename, 'w', encoding='utf-8') as file:
             json.dump(pharmacy_names, file, indent=2,ensure_ascii=False)
 
         with open('previous_hash.txt', 'w') as f:
@@ -34,11 +37,10 @@ def extract_pharmacy_names(url, json_filename):
         return pharmacy_names
     else:
         print("La page n'a pas été modifiée depuis la dernière vérification.")
-        # with open(json_filename, 'r') as file:
-        #     pharmacy_names = json.load(file)
-        # return pharmacy_names
-
+        return []
+    
 url = 'https://www.inam.tg/pharmacies-de-garde/'
 json_filename = 'data/pharmacy_names.json'
 pharmacy_names = extract_pharmacy_names(url, json_filename)
-print(json.dumps(pharmacy_names[0], indent=2, ensure_ascii=False))
+if pharmacy_names:
+    print(json.dumps(pharmacy_names[0], indent=2, ensure_ascii=False))
