@@ -1,4 +1,5 @@
 import requests
+import urllib3
 import json
 from bs4 import BeautifulSoup
 import hashlib
@@ -24,7 +25,15 @@ BROWSER_HEADERS = {
 def fetch(url):
     session = requests.Session()
     session.headers.update(BROWSER_HEADERS)
-    response = session.get(url, timeout=30)
+    try:
+        response = session.get(url, timeout=30)
+    except requests.exceptions.SSLError as e:
+        # inam.tg sert une chaîne SSL incomplète (intermédiaire manquant).
+        # Contenu public, donc on retombe sur une requête non vérifiée.
+        print(f"[warn] SSL chain verification failed ({e}); "
+              f"retrying with verify=False", file=sys.stderr)
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        response = session.get(url, timeout=30, verify=False)
     print(f"[fetch] {url} -> HTTP {response.status_code}, "
           f"{len(response.content)} bytes, "
           f"content-type={response.headers.get('content-type')}")
