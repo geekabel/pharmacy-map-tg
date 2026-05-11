@@ -1,16 +1,13 @@
-import requests
+import cloudscraper
 import json
 from bs4 import BeautifulSoup
 import hashlib
 
 def extract_pharmacy_names(url, json_filename):
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
-                      '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-        'Accept-Language': 'fr-FR,fr;q=0.9,en;q=0.8',
-    }
-    response = requests.get(url, headers=headers, timeout=30)
+    scraper = cloudscraper.create_scraper(
+        browser={'browser': 'chrome', 'platform': 'linux', 'mobile': False}
+    )
+    response = scraper.get(url, timeout=30)
     response.raise_for_status()
     new_content = response.content
     new_hash = hashlib.sha256(new_content).hexdigest()
