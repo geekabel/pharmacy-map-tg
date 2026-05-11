@@ -13,4 +13,7 @@ cd "$SCRIPT_DIR"
 # Run the Python script to fetch and process pharmacy data
 python extract_table_data.py
 
+# Aggregate sources (curated + OSM + Nominatim) into pharmacies-final.json
+python build_pharmacies.py
+
 echo "Pharmacy data update complete"
