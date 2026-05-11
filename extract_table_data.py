@@ -1,4 +1,5 @@
 import cloudscraper
+import certifi
 import json
 from bs4 import BeautifulSoup
 import hashlib
@@ -7,7 +8,7 @@ def extract_pharmacy_names(url, json_filename):
     scraper = cloudscraper.create_scraper(
         browser={'browser': 'chrome', 'platform': 'linux', 'mobile': False}
     )
-    response = scraper.get(url, timeout=30)
+    response = scraper.get(url, timeout=30, verify=certifi.where())
     response.raise_for_status()
     new_content = response.content
     new_hash = hashlib.sha256(new_content).hexdigest()
