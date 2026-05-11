@@ -4,7 +4,14 @@ from bs4 import BeautifulSoup
 import hashlib
 
 def extract_pharmacy_names(url, json_filename):
-    response = requests.get(url)
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
+                      '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'Accept-Language': 'fr-FR,fr;q=0.9,en;q=0.8',
+    }
+    response = requests.get(url, headers=headers, timeout=30)
+    response.raise_for_status()
     new_content = response.content
     new_hash = hashlib.sha256(new_content).hexdigest()
 
@@ -17,6 +24,11 @@ def extract_pharmacy_names(url, json_filename):
     if previous_hash != new_hash:
         soup = BeautifulSoup(response.content, 'html.parser')
         table = soup.find('table')
+        if table is None:
+            raise RuntimeError(
+                f"Aucune table trouvée sur {url}. "
+                f"La structure de la page a peut-être changé."
+            )
 
         pharmacy_names = []
         for row in table.find_all('tr')[1:]:
