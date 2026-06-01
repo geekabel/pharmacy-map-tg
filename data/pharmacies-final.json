@@ -95,7 +95,7 @@
     "name": "Pharmacie Emmaus",
     "phone": "70 40 25 40",
     "address": "Sur la route de Mission Tové à côté du bar Solidarité",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -131,7 +131,7 @@
     "name": "Pharmacie Océane",
     "phone": "96 75 25 02",
     "address": "Rue HOULATA, rue de I'OCAM, face Hôtel de la PAIX",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -194,7 +194,7 @@
     "name": "Pharmacie des Lilas",
     "phone": "96 16 55 89",
     "address": "123HDN, 07 Route de Kégué Boulevard Jean Paul II prolongé",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -337,8 +337,8 @@
     "lon": 1.2069724,
     "name": "Pharmacie Justin",
     "phone": "+22822210001",
-    "address": "",
-    "onDuty": false,
+    "address": "291, Bd des Armées - Tokoin Habitat",
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -599,7 +599,7 @@
     "name": "Pharmacie Jeanne d'Arc",
     "phone": "90 86 40 51",
     "address": "Près de Marox-Renault-Star",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -680,7 +680,7 @@
     "name": "Pharmacie Lumen",
     "phone": "70 41 68 36",
     "address": "DJAGBLE, En face de l'EPP (Plakomé)",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -741,9 +741,9 @@
     "lat": 6.1351465,
     "lon": 1.2319409,
     "name": "Pharmacie du 3eme Arrondissement",
-    "phone": "",
-    "address": "",
-    "onDuty": false,
+    "phone": "96 32 97 71",
+    "address": "Bd. du 13 Janvier, près de l'Immeuble FIATA",
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1047,9 +1047,9 @@
     "lat": 6.2535502,
     "lon": 1.173347,
     "name": "Mawunyo",
-    "phone": "70 42 34 64",
-    "address": "AGOE-So bossito, route de Mission TOVE en face de la station OANDO",
-    "onDuty": true,
+    "phone": "",
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1074,9 +1074,9 @@
     "lat": 6.1945897,
     "lon": 1.2539059,
     "name": "Raoudha",
-    "phone": "",
-    "address": "",
-    "onDuty": false,
+    "phone": "91 61 33 32",
+    "address": "Située au 4495 Boulevard Zio Hédzranawoe, derrière TOGO 2000",
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1166,7 +1166,7 @@
     "name": "Pharmacie des Apotres",
     "phone": "70 45 38 05",
     "address": "49, Bd Moboutou Sese Seko, Akodésséwa, non loin du Centre de Formation CAMA",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1210,7 +1210,7 @@
     "lon": 1.1951491,
     "name": "Lumière",
     "phone": "70 43 15 49",
-    "address": "AGBALEPEDOGAN - Lossossime près du Rondpoint de l'Œuf",
+    "address": "AGBALEPEDOGAN - Lossossime près du Rond Point de l'Œuf",
     "onDuty": true,
     "source": "curated"
   },
@@ -1238,7 +1238,7 @@
     "name": "Pharmacie Klokpe",
     "phone": "90 53 60 52",
     "address": "Derrière la Foire Togo  2000",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1409,7 +1409,7 @@
     "name": "Pharmacie Hanoukopé",
     "phone": "70 49 96 63",
     "address": "Avenue de la Nouvelle Marche, Immeuble Radio Kanal FM",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1434,9 +1434,9 @@
     "lat": 6.2333568,
     "lon": 1.1489943,
     "name": "Pharmacie Zossimé",
-    "phone": "",
-    "address": "",
-    "onDuty": false,
+    "phone": "22 55 43 52",
+    "address": "AGOE - Zossimé, rès du marché",
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1535,7 +1535,7 @@
     "name": "Pharmacie Ganfat",
     "phone": "7022 15 15",
     "address": "AGOE DALIKO près du Carf EDEM CAMP GP",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1643,7 +1643,7 @@
     "name": "Pharmacie La Main de Dieu",
     "phone": "93 40 21 21",
     "address": "AGOE ASSIYEYE non loin de l'église des Assemblées de Dieu (Temple Galilée)",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1724,7 +1724,7 @@
     "name": "Pharmacie forever",
     "phone": "91 00 29 17",
     "address": "Tokoin Forever, Face Garage Central Administratif",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1857,9 +1857,9 @@
     "lat": 6.2548621,
     "lon": 1.1713337,
     "name": "Mawunyo",
-    "phone": "70 42 34 64",
-    "address": "AGOE-So bossito, route de Mission TOVE en face de la station OANDO",
-    "onDuty": true,
+    "phone": "",
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1930,7 +1930,7 @@
     "lon": 1.2202836,
     "name": "St kizito",
     "phone": "+22822219963",
-    "address": "Bd. de la Kara près du Bar TAMTAM",
+    "address": "Bd. de la Kara rès du Bar TAMTAM",
     "onDuty": true,
     "source": "curated"
   },
@@ -1967,7 +1967,7 @@
     "name": "Pharmacie UNIVERS-SANTÉ",
     "phone": "93 88 83 31",
     "address": "Bd. GNASSINGBE E adéma, Cité OUA face à l'entrée du CHU-CAMPUS",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -2138,7 +2138,7 @@
     "name": "Pharmacie le rocher",
     "phone": "92 30 06 56",
     "address": "Agoè zongo, sur la route national NO 1, près du terrain de jeu de golf",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -2169,29 +2169,11 @@
     "source": "curated"
   },
   {
-    "lat": 6.1471583,
-    "lon": 1.2034767,
-    "name": "PHARMACIE SOURCE DE VIE",
-    "phone": "22 20 27 59",
-    "address": "Face Collège Protestant Tokoin Lomé",
-    "onDuty": true,
-    "source": "osm"
-  },
-  {
-    "lat": 6.1606822,
-    "lon": 1.2338052,
-    "name": "PHARMACIE PROVIDENCE",
-    "phone": "91 14 88 88",
-    "address": "Bd. Jean Paul II",
-    "onDuty": true,
-    "source": "nominatim"
-  },
-  {
     "lat": 6.1662742,
     "lon": 1.2665629,
     "name": "PHARMACIE FIDELIA",
     "phone": "22 71 95 95",
-    "address": "Bè-Kpota, Route d'Attiégou, près de l'hôtel \"LE REFERENTIEL\"",
+    "address": "Bè-Kpota, Route d'Attié ou, près de l'hôtel \"LE REFERENTIEL\"",
     "onDuty": true,
     "source": "osm"
   },
@@ -2200,7 +2182,16 @@
     "lon": 1.2186433,
     "name": "PHARMACIE ELEMAWUSSI",
     "phone": "92 34 06 80",
-    "address": "Adétikopé, Médina, Nationale NO 1, avant PIA Plateforme Industrielle",
+    "address": "Adétikopé, Médina, Nationale N°1, avant PIA Plateforme Industrielle",
+    "onDuty": true,
+    "source": "osm"
+  },
+  {
+    "lat": 6.2458357,
+    "lon": 1.1144944,
+    "name": "PHARMACIE EVA",
+    "phone": "92 16 32 32",
+    "address": "SANGUERA, Klikamé, Non loin du T-OIL",
     "onDuty": true,
     "source": "osm"
   }
