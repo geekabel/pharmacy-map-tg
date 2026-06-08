@@ -59,7 +59,7 @@
     "name": "Pharmacie Bethel",
     "phone": "98 58 64 64",
     "address": "ADIDOGOME Soviépé, bd du 30 Août, face OraBank et Banque Atlantique",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -86,7 +86,7 @@
     "name": "Pharmacie Agoè-Nyivé",
     "phone": "91 61 02 62",
     "address": "A côté de l'Eglise Catholique d'Agoè-Nyivé",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -113,7 +113,7 @@
     "name": "Pharmacie Solidarité",
     "phone": "96 80 09 76",
     "address": "Rue Avédji Limousine, Près de l'UTB Totsi BP : 8919 Lomé - TOGO",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -156,9 +156,9 @@
     "lat": 6.219508,
     "lon": 1.2091379,
     "name": "La Grace",
-    "phone": "",
-    "address": "",
-    "onDuty": false,
+    "phone": "22 25 91 65",
+    "address": "Près de l'Auberge Sahara avant la Station SUN AGIP Agoè",
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -167,7 +167,7 @@
     "name": "Pharmacie Shalom",
     "phone": "70 49 96 51",
     "address": "Agoè-Cacavéli, non loin de BKS. Sur la route Agoè-Adidogomé",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -194,7 +194,7 @@
     "name": "Pharmacie des Lilas",
     "phone": "96 16 55 89",
     "address": "123HDN, 07 Route de Kégué Boulevard Jean Paul II prolongé",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -230,7 +230,7 @@
     "name": "Pharmacie Excellence",
     "phone": "93 27 95 54",
     "address": "AGOE Démakpoé Voie CEDEAO",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -291,9 +291,9 @@
     "lat": 6.1399624,
     "lon": 1.2465171,
     "name": "Pharmacie Lebon Samaritain",
-    "phone": "",
-    "address": "",
-    "onDuty": false,
+    "phone": "22 21 45 30",
+    "address": "BE PA de SOUZA/ Hôpital de BE",
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -309,9 +309,9 @@
     "lat": 6.1321132,
     "lon": 1.2204839,
     "name": "Pharmacie des Etoiles",
-    "phone": "",
+    "phone": "22 51 75 75",
     "address": "10, avenue de la nouvelle marché, BP 3484, LOME",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -337,8 +337,8 @@
     "lon": 1.2069724,
     "name": "Pharmacie Justin",
     "phone": "+22822210001",
-    "address": "291, Bd des Armées - Tokoin Habitat",
-    "onDuty": true,
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -374,7 +374,7 @@
     "name": "Pharmacie des Orchidées",
     "phone": "99 01 03 74",
     "address": "AGOE-TELESSOU, LEO 2000",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -392,7 +392,7 @@
     "name": "Pharmacie La Référence",
     "phone": "96 80 09 96",
     "address": "Route de Kpalimé, Adidogomé Assiyéyé, à côté du bar Madiba",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -419,7 +419,7 @@
     "name": "Pharmacie Le Galien",
     "phone": "22 51 71 71",
     "address": "Rue Pavée d'Adidoadin",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -435,9 +435,9 @@
     "lat": 6.2167697,
     "lon": 1.1887731,
     "name": "Notre Dame de LOURDES",
-    "phone": "",
-    "address": "",
-    "onDuty": false,
+    "phone": "70 44 01 01",
+    "address": "Carrefour Maison Blanche en allant à \"Deux Lions\" en face de STAM",
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -446,7 +446,7 @@
     "name": "Pharmacie des Roses",
     "phone": "70 42 37 72",
     "address": "AGOE - Vakpossito, près de l'entreprise de l'Union",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -455,7 +455,7 @@
     "name": "Pharmacie Jahnap",
     "phone": "96 80 09 29",
     "address": "A côté de l'EPP Gakli, Diddjolé-Gakli, immeuble Favo",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -500,7 +500,7 @@
     "name": "Pharmacie DES ECOLES",
     "phone": "22 51 75 75",
     "address": "Face Lycée Technique Adidogomé et près du CEG, Route de Kpalimé",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -518,7 +518,7 @@
     "name": "Pharmacie Eli-Beraca",
     "phone": "99 91 13 42",
     "address": "Route d'Adidgomé, Immeuble SIKOVIC face bureau de poste",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -662,7 +662,7 @@
     "name": "Pharmacie Sainte Marie",
     "phone": "92 85 97 94",
     "address": "DJAGBLE, Non loin du marché d'Avéta Adja Adoté-kopé",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -680,7 +680,7 @@
     "name": "Pharmacie Lumen",
     "phone": "70 41 68 36",
     "address": "DJAGBLE, En face de l'EPP (Plakomé)",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -689,7 +689,7 @@
     "name": "Pharmacie Horizon",
     "phone": "90 56 52 56",
     "address": "165, Bd du 13 janvier Nyékonakpoè. Face Sapeurs-Pompiers à côté de l'immeuble A.AC.",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -732,18 +732,18 @@
     "lat": 6.1439701,
     "lon": 1.2061066,
     "name": "Avé Maria",
-    "phone": "",
-    "address": "",
-    "onDuty": false,
+    "phone": "22 22 33 01",
+    "address": "Face ENSF Ecole Nationale des Sages Femmes près du CHU Tokoin",
+    "onDuty": true,
     "source": "curated"
   },
   {
     "lat": 6.1351465,
     "lon": 1.2319409,
     "name": "Pharmacie du 3eme Arrondissement",
-    "phone": "96 32 97 71",
-    "address": "Bd. du 13 Janvier, près de l'Immeuble FIATA",
-    "onDuty": true,
+    "phone": "",
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -752,7 +752,7 @@
     "name": "Pharmacie Verseau",
     "phone": "90 01 90 29",
     "address": "Près de la maison Bateau Baguida",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -833,7 +833,7 @@
     "name": "PHARMACIE MAWULE",
     "phone": "70 45 91 86",
     "address": "54 Bd de l'OT1 Rondpoint Gakpoto, Bè-Kpota",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -986,7 +986,7 @@
     "name": "PHARMACIE MAGNIFICAT",
     "phone": "70 44 51 59",
     "address": "Adidogomé yokoè Agblégan, rue de la pampa à 100 m du palais royal de Yokoè",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1011,9 +1011,9 @@
     "lat": 6.1913266,
     "lon": 1.2083016,
     "name": "La Confiance",
-    "phone": "70 15 78 46",
-    "address": "Face GTA",
-    "onDuty": true,
+    "phone": "",
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1074,9 +1074,9 @@
     "lat": 6.1945897,
     "lon": 1.2539059,
     "name": "Raoudha",
-    "phone": "91 61 33 32",
-    "address": "Située au 4495 Boulevard Zio Hédzranawoe, derrière TOGO 2000",
-    "onDuty": true,
+    "phone": "",
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1092,9 +1092,9 @@
     "lat": 6.2090184,
     "lon": 1.1598501,
     "name": "PHARMACIE EL SHAMMAH",
-    "phone": "",
-    "address": "",
-    "onDuty": false,
+    "phone": "70 43 25 85",
+    "address": "Sise à Amadahomé à côté de la Maison des Jeunes",
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1121,7 +1121,7 @@
     "name": "Pharmacie Hosanna",
     "phone": "+22822515040",
     "address": "Carrefour Sagbado-Sémékonawo, en face de la station-service SANOL",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1130,7 +1130,7 @@
     "name": "Pharmacie Bonté",
     "phone": "96 80 09 00",
     "address": "Route de SEGBE, Wonyomé-Adidogomé en face de la station Sanol",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1209,9 +1209,9 @@
     "lat": 6.2012618,
     "lon": 1.1951491,
     "name": "Lumière",
-    "phone": "70 43 15 49",
-    "address": "AGBALEPEDOGAN - Lossossime près du Rond Point de l'Œuf",
-    "onDuty": true,
+    "phone": "",
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1220,7 +1220,7 @@
     "name": "Pharmacie El-Shadai",
     "phone": "96 80 09 10",
     "address": "Face Ecole Théologie ESTAO",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1238,7 +1238,7 @@
     "name": "Pharmacie Klokpe",
     "phone": "90 53 60 52",
     "address": "Derrière la Foire Togo  2000",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1292,7 +1292,7 @@
     "name": "Pharmacie Hygea",
     "phone": "99 27 36 36",
     "address": "Face Lycée publique de Baguida sur la rte d'Afanoukopé",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1409,7 +1409,7 @@
     "name": "Pharmacie Hanoukopé",
     "phone": "70 49 96 63",
     "address": "Avenue de la Nouvelle Marche, Immeuble Radio Kanal FM",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1434,9 +1434,9 @@
     "lat": 6.2333568,
     "lon": 1.1489943,
     "name": "Pharmacie Zossimé",
-    "phone": "22 55 43 52",
-    "address": "AGOE - Zossimé, rès du marché",
-    "onDuty": true,
+    "phone": "",
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1499,7 +1499,7 @@
     "name": "Pharmacie la Flamme d'amour",
     "phone": "70 45 70 14",
     "address": "Qt. Bobole kope / K ogan Non Loin du cimétière Zogbedjimonou de Kpogan",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1517,7 +1517,7 @@
     "name": "Pharmacie Mathilda",
     "phone": "22 51 15 34",
     "address": "Route PATASSE - Lomé an - ODEF",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1643,7 +1643,7 @@
     "name": "Pharmacie La Main de Dieu",
     "phone": "93 40 21 21",
     "address": "AGOE ASSIYEYE non loin de l'église des Assemblées de Dieu (Temple Galilée)",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1670,7 +1670,7 @@
     "name": "Pharmacie Bétania",
     "phone": "+22822438940",
     "address": "Rue Sito, Totsi-Gblenkomé non loin de la salle des Témoins de Jéhovah",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1724,7 +1724,7 @@
     "name": "Pharmacie forever",
     "phone": "91 00 29 17",
     "address": "Tokoin Forever, Face Garage Central Administratif",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1787,7 +1787,7 @@
     "name": "Pharmacie Volontas Déï",
     "phone": "70 42 23 60",
     "address": "Avédji, Carrefour \"SUN CITY\", face à l'ancien bar Sun City",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1841,7 +1841,7 @@
     "name": "Pharmacie Groupe C",
     "phone": "+22899982087",
     "address": "A balépédogan face Clinique la Victoire non loin de IEPP Groupe C",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1930,8 +1930,8 @@
     "lon": 1.2202836,
     "name": "St kizito",
     "phone": "+22822219963",
-    "address": "Bd. de la Kara rès du Bar TAMTAM",
-    "onDuty": true,
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1940,7 +1940,7 @@
     "name": "Pharmacie Amitié",
     "phone": "+22822217447",
     "address": "72 Av. des Hydrocarbures SOTED",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -1967,7 +1967,7 @@
     "name": "Pharmacie UNIVERS-SANTÉ",
     "phone": "93 88 83 31",
     "address": "Bd. GNASSINGBE E adéma, Cité OUA face à l'entrée du CHU-CAMPUS",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -1993,8 +1993,8 @@
     "lon": 1.2084422,
     "name": "Pharmacie la confiance",
     "phone": "+22822253932",
-    "address": "Face GTA",
-    "onDuty": true,
+    "address": "",
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -2120,7 +2120,7 @@
     "name": "Pharmacie Enouli",
     "phone": "22 25 90 68",
     "address": "Station d'Agbalépédogan",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -2129,7 +2129,7 @@
     "name": "Pharmacie El-Nissi",
     "phone": "99 73 39 32",
     "address": "Rte Lomé-KpaIimé, carrefour Apédokoè-Gbomamé à 200 m de la station total d'Apédokoè",
-    "onDuty": false,
+    "onDuty": true,
     "source": "curated"
   },
   {
@@ -2138,7 +2138,7 @@
     "name": "Pharmacie le rocher",
     "phone": "92 30 06 56",
     "address": "Agoè zongo, sur la route national NO 1, près du terrain de jeu de golf",
-    "onDuty": true,
+    "onDuty": false,
     "source": "curated"
   },
   {
@@ -2169,29 +2169,38 @@
     "source": "curated"
   },
   {
-    "lat": 6.1662742,
-    "lon": 1.2665629,
-    "name": "PHARMACIE FIDELIA",
-    "phone": "22 71 95 95",
-    "address": "Bè-Kpota, Route d'Attié ou, près de l'hôtel \"LE REFERENTIEL\"",
+    "lat": 6.1431179,
+    "lon": 1.2298554,
+    "name": "PHARMACIE AKOFA",
+    "phone": "22 21 00 97",
+    "address": "Av. Maman N'Danida Amoutivé",
     "onDuty": true,
     "source": "osm"
   },
   {
-    "lat": 6.3291033,
-    "lon": 1.2186433,
-    "name": "PHARMACIE ELEMAWUSSI",
-    "phone": "92 34 06 80",
-    "address": "Adétikopé, Médina, Nationale N°1, avant PIA Plateforme Industrielle",
+    "lat": 6.1534769,
+    "lon": 1.2036048,
+    "name": "PHARMACIE BON SECOURS",
+    "phone": "70 45 76 74",
+    "address": "Rue du Grand Collège du Plateau - Cassablanca",
     "onDuty": true,
     "source": "osm"
   },
   {
-    "lat": 6.2458357,
-    "lon": 1.1144944,
-    "name": "PHARMACIE EVA",
-    "phone": "92 16 32 32",
-    "address": "SANGUERA, Klikamé, Non loin du T-OIL",
+    "lat": 6.3191268,
+    "lon": 1.2171957,
+    "name": "PHARMACIE REGINA PACIS",
+    "phone": "70 45 98 58",
+    "address": "ADETIKOPE, Rte National NO I près du bar Sous l'Antenne",
+    "onDuty": true,
+    "source": "osm"
+  },
+  {
+    "lat": 6.2143127,
+    "lon": 1.1121838,
+    "name": "PHARMACIE NELLY'S",
+    "phone": "92 01 11 00",
+    "address": "Klémé Agokpanou, non loin du château d'eau, sur la voie de Sé bé à Sanguéra",
     "onDuty": true,
     "source": "osm"
   }
